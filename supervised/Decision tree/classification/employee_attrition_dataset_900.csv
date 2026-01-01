@@ -1,0 +1,901 @@
+age,gender,department,education,experience_years,salary,marital_status,overtime,work_life_balance,attrition
+23,male,Tech,Master,24,72618,married,yes,good,0
+49,male,Tech,Master,1,133260,single,yes,poor,0
+55,female,Sales,Master,33,145733,married,no,good,0
+59,male,Tech,High School,27,59910,married,no,good,0
+38,female,Tech,Bachelor,23,20311,married,yes,good,0
+40,male,Tech,Master,32,84095,married,no,average,1
+43,female,Finance,High School,2,31650,married,no,average,0
+54,male,Tech,Bachelor,29,139443,married,no,poor,0
+53,female,Sales,Master,6,130339,married,no,good,0
+30,female,Finance,High School,1,95597,married,no,excellent,0
+53,male,Operations,Bachelor,34,94105,married,yes,good,0
+53,female,Sales,High School,31,55305,married,no,poor,0
+46,female,HR,Master,22,57083,married,yes,good,0
+40,male,Operations,High School,23,103398,single,no,good,0
+35,female,Sales,High School,23,36032,married,no,poor,1
+57,male,Sales,High School,17,38873,single,no,good,1
+53,female,Tech,Bachelor,5,46043,married,no,poor,0
+37,male,Sales,Master,33,131061,married,yes,poor,0
+25,female,Finance,High School,8,76748,married,no,good,0
+24,female,HR,PhD,27,135843,single,no,good,0
+23,female,Sales,PhD,8,117136,married,no,average,0
+41,male,HR,High School,11,30971,single,no,poor,1
+23,male,Tech,Master,8,90444,single,yes,average,0
+41,male,Operations,PhD,23,37370,married,no,average,1
+28,male,Tech,PhD,34,26928,married,yes,average,1
+56,male,Finance,Bachelor,18,143719,married,no,good,0
+49,male,Tech,Bachelor,30,122118,single,no,good,1
+59,male,Operations,High School,18,65425,single,yes,excellent,0
+54,male,Sales,Bachelor,3,111126,married,no,average,0
+42,male,Tech,High School,8,143130,married,no,average,0
+51,male,Tech,High School,18,89793,single,no,average,0
+48,male,Tech,Bachelor,32,23863,married,no,average,0
+55,female,Finance,Bachelor,17,147638,married,no,good,0
+54,male,HR,Bachelor,25,71612,married,yes,average,0
+33,female,Tech,Bachelor,32,70644,married,yes,good,0
+24,male,Sales,High School,13,79838,married,no,average,0
+26,male,Finance,Bachelor,33,114800,married,no,good,0
+21,male,Finance,Bachelor,22,131930,single,no,good,0
+32,female,HR,Bachelor,31,46806,married,yes,good,0
+55,female,Operations,Bachelor,6,96608,married,yes,excellent,0
+31,female,Tech,Bachelor,11,51041,single,yes,average,1
+43,female,Operations,Bachelor,5,20992,married,no,poor,0
+34,male,HR,Master,4,132822,single,no,average,0
+39,male,Tech,High School,2,144882,single,no,good,0
+57,female,Sales,Master,7,117199,married,yes,average,0
+36,female,Sales,Bachelor,1,68979,single,yes,good,1
+48,female,Tech,Master,17,148134,single,no,good,0
+51,female,Tech,High School,6,57613,married,no,good,0
+27,female,Operations,Master,29,94290,single,no,poor,0
+47,male,Sales,High School,31,127451,married,no,good,0
+37,female,Sales,Master,1,72317,single,yes,good,1
+27,male,Finance,PhD,0,138975,married,yes,average,1
+35,female,Sales,High School,14,123959,married,yes,poor,0
+32,female,Sales,Master,21,95492,single,no,average,0
+28,female,Sales,High School,33,126452,single,no,average,0
+22,male,Finance,Bachelor,26,59649,single,no,good,0
+58,female,Tech,Master,20,24717,single,yes,good,0
+46,male,Tech,Master,19,81752,married,yes,excellent,0
+41,female,Tech,High School,3,131866,single,no,average,0
+33,male,Finance,High School,17,79127,married,yes,average,0
+39,male,HR,Bachelor,33,89462,single,no,average,0
+38,male,HR,Bachelor,8,143897,single,yes,average,0
+22,female,Tech,Bachelor,9,53043,married,no,poor,0
+48,female,Operations,PhD,12,57253,single,no,excellent,0
+43,female,Tech,High School,6,51623,married,no,good,1
+24,male,Finance,High School,5,74310,married,yes,good,0
+24,male,Tech,Bachelor,18,117339,single,no,good,0
+32,male,Sales,Bachelor,24,115246,married,no,poor,0
+42,male,Tech,Master,9,29326,married,no,good,0
+46,male,Tech,Master,21,50663,single,no,good,0
+55,female,Finance,High School,26,35219,married,no,average,1
+24,female,Tech,Master,22,109482,married,no,average,0
+32,female,Tech,Bachelor,17,92670,single,yes,average,0
+24,male,Sales,High School,1,82766,married,yes,excellent,1
+51,female,Tech,Bachelor,31,56633,married,yes,average,0
+27,male,Tech,Master,9,102510,single,no,excellent,0
+30,male,Finance,Bachelor,25,67680,single,no,average,0
+44,female,Finance,Bachelor,31,123181,married,yes,good,0
+35,male,Operations,Bachelor,30,106901,single,no,good,0
+59,male,HR,Bachelor,9,49038,married,no,excellent,0
+40,male,Operations,Bachelor,32,81151,single,yes,average,0
+27,female,Tech,PhD,10,115128,married,no,average,1
+33,female,Operations,PhD,32,137425,single,no,excellent,0
+48,male,Tech,Master,27,97669,married,yes,poor,0
+59,female,Tech,Master,13,42263,single,no,poor,0
+38,female,Sales,High School,19,139589,married,no,poor,0
+31,male,HR,High School,11,121483,married,no,good,0
+56,male,Operations,PhD,32,55561,married,yes,excellent,0
+56,female,HR,High School,6,122230,single,no,good,0
+22,male,Sales,Master,21,128042,single,yes,excellent,0
+37,male,Sales,High School,15,109052,single,no,excellent,0
+26,female,Sales,High School,16,62567,married,no,good,1
+43,male,Sales,Bachelor,30,108022,married,no,good,0
+36,female,Tech,PhD,2,110571,married,yes,average,0
+46,male,Tech,Bachelor,22,145317,married,no,average,0
+21,male,Operations,High School,2,26278,single,no,average,1
+56,female,Operations,High School,8,133887,single,no,excellent,0
+50,female,Tech,Bachelor,25,141723,single,no,poor,0
+22,male,Finance,PhD,24,55854,single,no,good,1
+40,male,Tech,High School,18,119943,single,no,poor,0
+25,male,Operations,Master,6,149570,married,no,good,0
+51,female,Tech,Bachelor,15,119215,married,no,average,0
+28,female,Finance,High School,5,124164,single,no,poor,0
+50,male,Tech,Bachelor,17,26472,single,no,poor,0
+59,male,Operations,Bachelor,26,87577,single,yes,poor,0
+22,female,Tech,Bachelor,26,37803,married,yes,average,1
+33,female,Sales,Master,10,56836,married,yes,poor,1
+24,male,Operations,Bachelor,16,147501,married,no,average,0
+28,male,Operations,Bachelor,4,28919,married,yes,poor,1
+59,male,Sales,Bachelor,31,94160,single,yes,good,0
+45,male,Sales,Bachelor,30,79205,single,yes,good,0
+27,male,Finance,Bachelor,29,114161,single,yes,average,0
+34,male,Tech,Bachelor,17,118835,married,no,poor,0
+49,female,Sales,Bachelor,2,54332,married,no,good,0
+41,female,Tech,Bachelor,7,141840,married,no,poor,0
+57,male,Tech,High School,29,100225,married,no,excellent,0
+53,male,Sales,Master,19,139691,single,no,poor,0
+45,male,Tech,Master,15,135073,single,no,good,0
+34,male,Tech,Bachelor,19,69803,married,no,good,0
+29,female,Finance,Master,21,143090,single,no,average,0
+35,male,Finance,Bachelor,9,85225,single,no,poor,1
+27,male,Sales,Master,21,147929,married,no,good,0
+22,male,Operations,High School,20,119482,single,no,good,0
+51,male,HR,PhD,7,48847,single,no,good,0
+27,male,Tech,Bachelor,2,131251,single,no,poor,0
+31,male,Operations,Bachelor,27,25474,single,no,poor,0
+33,female,Sales,High School,25,56689,single,no,good,0
+33,male,Operations,Bachelor,4,81094,married,no,poor,0
+46,female,Tech,High School,30,81520,married,yes,good,1
+28,male,Tech,Master,19,21463,single,no,average,0
+34,male,Tech,Master,7,22712,married,no,poor,1
+22,female,Sales,High School,21,119539,married,no,average,0
+35,male,Sales,Bachelor,25,46302,married,no,average,0
+44,male,Tech,Master,13,28023,single,no,average,0
+54,male,Operations,Bachelor,12,52793,single,no,good,1
+24,male,HR,Bachelor,10,120907,married,no,good,0
+38,male,Operations,High School,26,43590,single,yes,good,0
+45,male,Tech,Bachelor,12,51512,married,no,average,0
+44,female,Operations,Bachelor,18,127654,married,yes,average,0
+26,male,Tech,Master,13,144432,married,no,poor,0
+54,male,Tech,High School,13,78995,married,no,poor,0
+58,male,Operations,Master,6,68091,married,no,excellent,0
+23,female,Sales,High School,14,37957,married,no,average,1
+39,female,Sales,Master,29,89672,married,yes,average,0
+56,female,Operations,High School,16,35635,single,no,excellent,0
+39,male,Tech,Master,17,127233,single,no,poor,1
+48,male,Operations,Master,31,71621,married,yes,excellent,0
+30,male,Operations,High School,18,35690,single,yes,poor,1
+38,male,Sales,Bachelor,25,108413,married,yes,average,0
+24,female,Operations,Bachelor,16,96482,married,no,poor,0
+32,male,Sales,Bachelor,27,31918,married,yes,poor,1
+47,male,Tech,Master,20,122478,single,yes,average,0
+49,male,Operations,Bachelor,30,141410,married,yes,average,0
+32,female,Finance,Bachelor,6,133994,married,no,average,0
+31,female,Operations,Bachelor,27,70274,married,no,average,0
+24,male,Tech,Master,11,42613,married,yes,good,0
+44,male,HR,Master,5,48049,married,no,good,0
+46,female,Sales,PhD,0,20428,single,no,average,1
+48,male,Sales,Master,9,66066,married,no,good,0
+24,female,Tech,Master,11,36358,married,no,average,0
+56,male,Tech,Master,18,141661,single,no,average,0
+35,male,Sales,Master,3,86684,married,no,average,0
+42,male,Tech,Bachelor,7,57939,single,no,average,0
+44,male,Tech,High School,6,73522,single,no,average,0
+44,male,Operations,Bachelor,8,88653,married,no,average,0
+57,male,Sales,Master,15,66119,single,yes,average,0
+25,female,Tech,PhD,23,95664,single,no,good,0
+26,male,Finance,Master,26,146837,married,no,good,0
+30,female,Operations,High School,10,80342,single,yes,poor,0
+23,male,HR,Master,10,124494,single,no,good,0
+58,female,Tech,High School,27,84704,single,no,average,0
+54,male,Tech,Master,29,88607,married,no,good,0
+26,female,Tech,Bachelor,23,81218,married,no,average,0
+30,male,Finance,High School,25,28408,single,yes,average,1
+36,female,Operations,High School,18,77992,married,no,good,0
+49,male,Tech,High School,14,136237,single,yes,good,0
+23,male,Tech,PhD,11,86489,single,no,excellent,0
+31,male,Tech,Bachelor,26,27566,married,no,good,0
+57,female,Tech,Bachelor,29,30066,single,no,good,0
+24,female,Tech,High School,8,26888,married,no,good,1
+24,male,Tech,Bachelor,30,35982,married,no,average,0
+44,female,Tech,Master,23,72823,single,no,average,0
+48,female,Finance,High School,21,33418,married,yes,poor,1
+55,female,Operations,Bachelor,16,102481,married,no,good,1
+58,male,Tech,Bachelor,3,48639,married,no,average,0
+44,female,Finance,Master,34,124655,married,no,excellent,0
+42,male,HR,Bachelor,26,93014,married,no,poor,0
+46,male,Sales,Bachelor,24,85482,married,no,good,0
+38,female,Operations,Bachelor,33,93162,married,yes,poor,0
+23,female,Operations,High School,23,42719,married,no,good,0
+31,female,Finance,High School,14,50678,single,no,average,0
+29,female,Finance,Bachelor,29,22855,single,no,good,1
+53,male,Sales,Bachelor,10,78666,single,no,average,0
+46,female,Operations,High School,9,60531,married,yes,average,0
+56,male,Tech,Bachelor,27,139929,single,yes,good,0
+24,male,Sales,Bachelor,6,137478,single,no,good,0
+22,female,Sales,Master,2,116450,single,no,good,0
+28,male,Finance,Bachelor,18,36741,married,no,good,0
+27,male,Tech,Master,14,40497,single,no,good,0
+56,female,Sales,Bachelor,12,42695,married,yes,good,0
+54,male,Operations,High School,31,86263,married,yes,poor,0
+39,female,Tech,PhD,0,124147,single,no,poor,0
+49,female,Tech,Bachelor,7,117421,single,yes,good,0
+59,male,Tech,PhD,6,113460,married,no,poor,0
+26,female,Finance,High School,7,80692,single,no,average,0
+30,male,Sales,Master,0,133546,married,no,poor,1
+25,male,Finance,Bachelor,1,81996,married,no,poor,0
+44,female,Sales,Master,29,127938,married,no,poor,0
+42,female,Operations,Bachelor,2,83085,married,no,poor,1
+46,female,HR,High School,11,139203,married,yes,average,0
+57,female,Tech,PhD,30,147915,married,yes,average,0
+49,female,Tech,Bachelor,4,37544,married,yes,good,0
+56,male,Operations,Bachelor,17,103969,married,no,average,0
+40,male,Tech,Bachelor,22,139890,single,no,good,0
+38,female,Operations,Bachelor,6,112577,single,no,average,0
+35,female,Sales,Bachelor,14,130655,married,no,good,0
+35,male,Tech,Master,22,35413,single,no,average,1
+44,male,Tech,High School,23,58472,married,no,good,0
+49,male,Finance,Bachelor,32,72434,married,no,average,0
+37,female,Sales,Bachelor,29,116766,married,no,excellent,0
+45,male,Sales,Master,33,53662,married,no,average,0
+36,male,Operations,Master,8,108184,single,no,good,0
+37,male,Tech,Bachelor,30,105200,married,no,poor,1
+41,female,Sales,Master,0,85644,married,no,poor,1
+47,male,Sales,Bachelor,32,20401,married,yes,good,0
+25,male,Operations,Bachelor,32,83268,single,no,good,0
+42,male,HR,Master,34,136498,married,yes,poor,0
+53,female,Tech,High School,26,94212,single,yes,average,0
+22,male,HR,Master,8,141946,single,no,good,0
+55,female,Finance,Master,4,62038,single,no,good,0
+39,female,Finance,High School,10,122123,single,yes,average,0
+47,male,Sales,Master,30,77685,single,no,good,0
+56,female,Sales,Bachelor,32,39602,married,no,good,1
+59,male,Sales,High School,28,35687,married,yes,excellent,1
+22,male,Tech,PhD,2,131561,single,no,average,0
+38,male,Tech,Master,25,73615,married,no,good,0
+43,male,Sales,High School,0,123228,single,no,good,0
+46,male,Tech,Master,14,62217,single,no,average,0
+31,female,Finance,Bachelor,3,81721,married,no,good,0
+21,female,Operations,High School,11,103955,married,no,poor,0
+56,male,Operations,Bachelor,21,95257,single,no,poor,0
+40,male,Tech,Bachelor,23,110665,married,no,average,0
+51,male,Tech,Bachelor,32,42344,single,no,poor,0
+28,female,Sales,Bachelor,16,105188,single,no,good,0
+44,male,Tech,Bachelor,22,94566,single,no,average,0
+40,male,Finance,Bachelor,26,94365,married,yes,average,0
+35,female,Operations,Bachelor,28,86660,married,no,average,0
+50,female,Finance,High School,14,41806,married,no,good,0
+40,female,Finance,Master,20,39606,married,no,average,0
+58,female,Tech,Bachelor,24,132111,married,yes,good,0
+22,female,HR,Bachelor,16,34713,single,yes,poor,1
+26,male,Finance,Master,12,43856,single,no,poor,0
+38,female,Sales,Bachelor,7,126981,single,no,average,0
+56,male,Sales,High School,34,116627,single,no,average,0
+34,female,Sales,High School,26,31931,married,no,good,1
+46,male,Sales,Bachelor,25,72514,single,no,good,0
+54,male,HR,High School,3,62591,married,yes,average,0
+50,female,Tech,Bachelor,28,20499,married,no,good,0
+27,female,Tech,High School,1,102957,married,yes,poor,0
+50,female,Tech,High School,9,127648,single,no,poor,0
+38,male,Finance,Bachelor,0,110094,married,no,average,0
+42,female,Finance,Master,27,49687,married,no,average,0
+37,male,Operations,Master,29,71956,single,no,average,0
+51,male,Tech,Bachelor,15,90577,single,no,poor,0
+37,female,Sales,PhD,13,40682,married,no,good,0
+51,female,Tech,Bachelor,14,32611,married,no,average,0
+33,female,HR,Master,23,122692,single,no,average,0
+47,female,Tech,High School,28,96987,married,no,poor,0
+40,male,Tech,High School,33,26981,married,yes,good,1
+37,male,Tech,High School,3,132795,single,no,good,0
+49,female,Sales,PhD,27,93936,married,no,poor,0
+59,male,Operations,Bachelor,29,79134,single,no,poor,0
+55,female,Finance,Master,20,89716,married,no,poor,0
+28,male,Sales,Master,6,39966,single,no,poor,0
+58,female,Finance,Bachelor,30,104137,married,no,good,0
+35,female,Sales,Bachelor,15,117776,single,yes,average,0
+21,male,Sales,Master,28,68625,married,yes,average,0
+53,male,Sales,Bachelor,31,124901,married,no,average,0
+23,female,Finance,Bachelor,13,51508,married,no,good,0
+59,female,Finance,Master,13,101493,married,no,good,0
+58,male,Finance,High School,30,21353,single,no,good,1
+35,female,Tech,High School,3,36872,married,no,average,1
+38,female,Finance,Bachelor,11,96739,married,no,average,0
+58,female,Sales,Bachelor,30,45680,married,no,average,0
+51,female,Tech,Bachelor,0,28310,married,no,average,0
+40,female,Operations,High School,29,128286,married,no,excellent,0
+27,female,HR,Bachelor,24,84019,single,no,poor,0
+57,male,Tech,Bachelor,15,143086,single,no,average,0
+47,female,Operations,Bachelor,10,38201,single,no,good,0
+28,female,Finance,High School,2,129924,married,no,excellent,0
+34,male,Tech,Master,32,44182,married,no,average,0
+35,male,Tech,Bachelor,16,41333,married,no,excellent,0
+27,female,HR,Master,15,26310,married,yes,good,0
+53,male,Sales,Bachelor,34,86630,married,no,average,0
+54,male,Tech,Bachelor,17,41048,married,yes,average,1
+24,male,Tech,Bachelor,7,38216,married,no,good,0
+21,male,Tech,High School,18,120111,married,yes,average,0
+34,male,Tech,Bachelor,11,50953,married,no,average,0
+51,male,Finance,Bachelor,15,105270,married,no,poor,0
+58,female,Sales,High School,31,28066,married,no,average,1
+40,male,Sales,Bachelor,8,59158,married,no,average,0
+23,male,Sales,Bachelor,18,117796,married,yes,excellent,0
+55,female,Operations,Bachelor,5,100584,married,no,poor,1
+53,female,Finance,High School,23,103086,married,no,good,0
+35,male,Tech,Master,4,56761,married,yes,poor,1
+23,female,Tech,High School,29,42285,single,no,average,0
+48,male,Sales,Master,3,112457,married,no,good,0
+47,female,Tech,PhD,24,81553,married,no,excellent,0
+53,male,Tech,High School,0,36378,single,no,good,1
+39,female,Tech,Bachelor,13,74688,single,yes,average,0
+53,male,Tech,Bachelor,16,115641,single,yes,poor,0
+51,female,Tech,Bachelor,31,115682,single,no,good,0
+24,male,Tech,Bachelor,15,134835,married,no,average,0
+52,female,Operations,High School,18,49586,single,no,excellent,0
+48,female,HR,Master,20,47430,single,no,poor,0
+36,male,Sales,Bachelor,28,104784,married,no,poor,0
+48,female,Sales,PhD,0,34329,married,yes,poor,1
+35,male,Tech,Bachelor,24,148324,married,no,good,0
+42,male,Tech,Bachelor,22,123390,married,yes,poor,0
+51,female,HR,PhD,27,21528,married,no,average,0
+41,female,Operations,Bachelor,10,96179,single,yes,good,0
+52,male,Finance,Bachelor,25,32140,married,no,poor,0
+27,male,Tech,Bachelor,12,58500,married,no,poor,0
+53,male,Sales,High School,8,90891,married,yes,poor,0
+28,male,Tech,Master,11,30644,married,yes,poor,1
+34,female,Tech,Master,24,111251,married,no,good,0
+45,male,Operations,Master,4,126832,married,no,average,1
+52,male,Sales,Bachelor,4,121128,single,no,average,0
+48,female,Sales,High School,30,106226,married,yes,poor,0
+22,male,Operations,Bachelor,29,128479,married,no,good,0
+37,female,Finance,PhD,28,95316,single,no,poor,1
+47,male,HR,Bachelor,14,117891,married,no,excellent,1
+22,female,Tech,High School,20,93724,single,no,excellent,1
+28,male,Operations,Bachelor,19,106892,married,yes,poor,0
+58,female,Sales,Bachelor,25,79564,single,yes,poor,0
+40,male,Finance,Master,33,100375,married,no,average,0
+57,female,Operations,High School,2,26097,married,yes,average,1
+41,female,Tech,High School,24,132222,single,no,good,0
+46,male,Operations,Bachelor,0,141039,single,yes,good,0
+51,male,Sales,Master,14,123120,married,no,poor,0
+40,female,Tech,Bachelor,18,21432,married,no,average,1
+26,male,Tech,Bachelor,31,115767,single,no,good,0
+35,male,Finance,Bachelor,0,54928,single,yes,poor,1
+21,female,Tech,Master,27,69615,married,no,poor,0
+46,male,Finance,Bachelor,18,143305,married,yes,average,0
+49,female,Tech,High School,5,114489,married,yes,poor,1
+22,female,Operations,Bachelor,2,37696,married,yes,good,0
+42,female,Sales,PhD,28,141765,married,yes,good,0
+49,female,Sales,High School,4,142676,married,no,good,0
+29,female,Finance,Bachelor,12,90935,single,no,good,0
+41,female,Tech,PhD,11,51042,married,no,good,0
+52,female,Sales,Bachelor,24,117879,married,yes,good,0
+52,female,Sales,Master,5,120765,married,yes,excellent,0
+46,female,Finance,Master,13,58343,single,yes,good,0
+33,female,Tech,Master,25,64753,single,no,average,0
+23,female,Tech,Bachelor,27,95268,married,no,good,0
+52,male,Operations,Bachelor,21,140498,single,no,poor,0
+53,female,Finance,Bachelor,9,78932,single,no,poor,0
+53,female,Sales,Bachelor,27,25294,single,no,average,0
+33,female,Finance,High School,20,143257,married,no,average,0
+26,male,Tech,Bachelor,4,43881,married,yes,poor,1
+24,female,Tech,Master,3,111902,married,yes,good,0
+58,male,Tech,Master,10,146575,single,yes,excellent,0
+26,male,Operations,Master,20,112104,married,yes,average,0
+23,male,Operations,Master,19,139173,single,no,good,0
+47,male,Operations,High School,2,136189,married,no,average,0
+40,male,Finance,High School,33,137036,single,no,average,0
+38,female,Operations,Bachelor,29,70595,married,no,average,0
+40,female,Tech,Bachelor,31,139054,single,no,average,0
+50,male,Sales,Bachelor,25,112873,single,no,average,0
+30,female,Sales,High School,11,125040,married,no,average,0
+43,male,HR,High School,13,114636,married,yes,poor,0
+23,male,Finance,Master,8,74278,married,yes,good,0
+29,female,Tech,Bachelor,29,108211,single,no,poor,0
+39,female,Tech,Bachelor,16,95604,single,yes,good,0
+56,male,Sales,High School,22,37992,single,no,average,1
+47,male,Tech,Bachelor,17,96105,single,no,average,0
+48,male,Sales,Bachelor,4,46690,single,yes,good,0
+28,female,Tech,High School,11,104507,married,no,poor,1
+28,female,Finance,High School,32,33612,married,yes,average,1
+38,male,Tech,Master,23,36073,married,no,average,0
+41,male,Operations,Bachelor,25,125414,married,no,average,0
+33,male,HR,High School,4,123451,married,no,good,0
+47,female,Tech,High School,2,67653,married,no,poor,1
+36,male,HR,High School,19,107940,married,no,average,0
+29,male,HR,Bachelor,29,144390,married,yes,poor,1
+47,male,HR,High School,12,59764,married,yes,poor,0
+37,male,Finance,Bachelor,26,81627,married,no,poor,0
+23,male,Sales,PhD,9,23694,married,no,average,0
+24,female,Sales,High School,16,128996,married,no,average,0
+21,female,Sales,Bachelor,24,117125,single,no,average,1
+34,male,Operations,Bachelor,23,57940,married,no,average,1
+28,male,Operations,Bachelor,29,29834,married,no,average,0
+27,male,Tech,Bachelor,3,29121,single,no,average,0
+50,male,Sales,Master,0,110194,single,no,good,1
+45,male,Operations,Bachelor,28,64539,married,no,average,0
+59,male,HR,High School,13,78936,married,no,average,0
+36,female,Tech,High School,23,147979,married,no,good,0
+31,female,Operations,High School,10,49594,married,no,good,0
+45,female,Sales,Bachelor,16,90684,single,no,poor,0
+53,female,Finance,High School,29,104920,married,no,good,0
+41,female,Tech,Master,16,51226,married,no,good,1
+30,male,Sales,Bachelor,7,113913,married,yes,excellent,0
+29,female,Finance,Bachelor,2,94273,single,no,good,0
+21,female,Tech,Bachelor,13,116409,single,yes,excellent,0
+54,male,Finance,Bachelor,1,85412,single,yes,good,1
+51,male,Tech,High School,31,118493,married,no,poor,1
+41,female,Sales,Bachelor,31,58107,married,no,good,0
+44,male,Tech,PhD,32,144727,married,no,average,0
+39,male,Tech,Master,12,23895,single,yes,good,1
+41,female,Sales,Bachelor,30,45669,single,no,average,0
+45,male,Sales,Bachelor,6,27526,single,no,good,0
+40,male,Sales,High School,18,115247,single,no,poor,0
+46,male,Tech,PhD,19,72169,married,no,good,0
+27,male,Tech,High School,33,25962,married,no,average,1
+23,female,Finance,High School,34,122045,single,no,average,0
+28,female,Tech,High School,19,97915,married,no,poor,0
+50,female,Finance,Master,1,45937,single,no,average,0
+31,female,Operations,High School,20,30322,married,no,poor,0
+28,male,Tech,Master,27,88113,married,no,good,0
+57,female,Tech,Master,20,37250,single,yes,average,1
+37,female,Sales,Master,24,23830,married,no,good,0
+28,female,Tech,Master,7,24501,married,no,average,0
+50,male,Tech,Bachelor,9,63573,married,yes,good,0
+36,female,Sales,High School,24,56271,married,no,good,0
+24,male,Sales,Bachelor,16,67137,single,no,good,0
+41,female,HR,Master,24,54196,single,no,average,0
+54,female,HR,High School,19,137222,married,no,excellent,0
+55,female,Operations,Master,19,60494,married,no,average,0
+33,female,Tech,High School,24,26058,single,no,average,1
+47,male,Sales,PhD,23,46150,married,yes,average,0
+28,female,Sales,Bachelor,1,127303,single,yes,excellent,1
+49,female,Sales,Master,33,120714,married,yes,good,0
+36,male,Tech,Bachelor,4,45957,married,no,good,0
+25,female,Finance,Bachelor,1,26109,married,yes,good,0
+57,male,Tech,Bachelor,0,59927,married,yes,poor,1
+30,female,Tech,Bachelor,14,102616,single,yes,average,0
+35,male,Finance,Bachelor,12,49578,married,yes,good,0
+41,female,Tech,Master,22,137451,married,no,good,0
+54,female,HR,Bachelor,22,29464,single,no,excellent,0
+42,female,Tech,Master,4,126095,single,no,average,1
+42,female,Sales,Bachelor,3,81387,married,no,poor,0
+29,female,Tech,Master,2,35020,single,no,good,0
+46,male,Operations,Bachelor,3,95033,married,no,good,0
+33,male,Sales,Master,25,101727,married,yes,good,0
+38,male,Tech,Bachelor,19,125941,married,no,average,0
+21,male,Operations,Bachelor,7,71615,single,no,average,0
+43,male,Finance,Bachelor,33,135645,single,no,average,0
+53,male,Sales,Master,8,83165,married,yes,excellent,0
+51,female,HR,Bachelor,4,112649,married,no,good,0
+41,male,Sales,Bachelor,30,77113,single,yes,average,1
+43,female,Tech,Bachelor,34,33724,married,no,good,0
+36,female,Tech,Master,4,33287,married,no,average,0
+47,female,Tech,Master,10,137031,married,yes,average,0
+57,female,Operations,Master,22,61010,married,no,excellent,0
+58,male,HR,Bachelor,21,89979,married,no,good,0
+34,female,Tech,Bachelor,32,135647,single,yes,poor,0
+57,female,Sales,High School,29,139370,married,no,good,1
+27,male,Finance,Bachelor,9,39773,married,yes,excellent,0
+32,female,Operations,High School,33,81949,single,no,good,0
+48,male,Tech,Master,24,21943,single,no,average,1
+23,female,Operations,Bachelor,21,59023,single,no,average,0
+42,female,Tech,PhD,6,123348,single,yes,good,0
+41,female,Tech,Master,29,41061,single,no,excellent,0
+49,male,Tech,High School,9,25368,married,no,average,1
+40,female,HR,Master,2,135561,married,no,average,0
+23,male,Tech,High School,16,92482,single,no,average,0
+47,female,HR,Master,9,124415,married,no,good,0
+41,male,Finance,Bachelor,21,54999,married,yes,average,1
+53,female,Finance,High School,3,48966,married,no,average,0
+50,male,HR,Bachelor,4,56504,married,no,average,0
+59,male,Sales,Bachelor,22,133607,married,no,poor,0
+29,female,Tech,Bachelor,1,107489,married,no,good,0
+58,male,Sales,High School,13,26849,single,yes,average,0
+43,male,Tech,Bachelor,1,102012,single,no,average,0
+43,male,Finance,High School,28,48945,married,no,good,0
+21,female,Sales,Bachelor,7,58458,married,yes,average,1
+41,male,Operations,Bachelor,15,116118,married,no,average,0
+52,female,Finance,PhD,27,68499,single,no,poor,0
+46,male,Sales,High School,27,141950,married,yes,good,0
+53,female,Tech,High School,2,56392,married,no,good,0
+29,female,Operations,Bachelor,34,77001,married,no,average,0
+37,male,Sales,Master,27,69271,single,yes,excellent,0
+26,male,Sales,Bachelor,25,91619,single,no,average,0
+27,male,Tech,High School,25,112265,married,yes,average,0
+27,male,Sales,Master,20,29034,married,no,poor,0
+57,female,Sales,Bachelor,20,53896,single,no,good,0
+25,male,Tech,Bachelor,24,80940,single,no,average,0
+53,male,HR,Bachelor,15,32028,single,yes,good,0
+30,female,Sales,Bachelor,7,75602,married,no,good,0
+37,female,Operations,Bachelor,32,22328,married,no,average,0
+48,male,Tech,PhD,25,64062,single,no,average,0
+42,female,Tech,Master,4,137377,married,no,poor,0
+41,female,Finance,High School,23,46753,single,no,good,0
+52,female,Sales,Bachelor,2,134765,married,no,good,0
+52,male,Operations,Bachelor,22,45476,married,no,average,1
+56,female,Tech,High School,29,136091,single,no,good,0
+51,male,Sales,Master,9,127594,married,no,poor,0
+26,female,Tech,Bachelor,4,74758,single,no,excellent,0
+41,female,Finance,PhD,8,21998,single,no,average,0
+55,female,Sales,Master,24,78987,single,no,good,0
+34,female,Tech,Master,26,138512,married,no,average,0
+43,female,Sales,Master,8,49406,married,yes,average,0
+44,male,Sales,Bachelor,27,31766,single,yes,excellent,0
+50,male,Tech,Master,5,116159,single,no,excellent,0
+30,female,Operations,Bachelor,21,127723,married,yes,average,0
+25,male,Sales,Master,25,80033,single,no,good,0
+50,female,Sales,PhD,7,120895,married,no,poor,0
+27,female,HR,Master,26,132982,married,no,good,0
+26,male,Tech,Bachelor,32,124825,single,no,average,0
+28,male,Tech,Master,5,89874,married,no,excellent,0
+46,male,HR,Bachelor,18,94324,married,yes,good,1
+38,male,Operations,Bachelor,13,96992,single,no,average,1
+56,male,Tech,High School,12,58443,married,no,average,0
+46,female,Tech,Master,4,71679,single,no,poor,0
+56,male,Tech,Bachelor,5,101717,married,no,average,0
+24,female,Finance,Bachelor,27,119938,single,no,good,0
+33,female,Tech,Bachelor,22,23879,single,yes,excellent,0
+44,male,Tech,Master,22,131584,single,yes,good,1
+51,male,HR,High School,32,69116,married,no,good,0
+42,male,Finance,Master,13,95508,married,no,average,0
+38,male,Tech,Master,32,33641,married,no,good,0
+54,male,Sales,Bachelor,15,137470,single,no,average,0
+43,female,Sales,Master,33,108994,single,no,good,0
+59,female,HR,Bachelor,5,119989,married,no,good,0
+57,male,Tech,Bachelor,4,46740,single,no,poor,0
+21,female,Operations,PhD,28,39224,single,yes,good,0
+40,male,Tech,Bachelor,24,49717,married,no,poor,0
+45,male,Sales,Bachelor,25,70580,single,no,good,1
+26,male,Finance,Bachelor,8,55049,single,no,average,0
+50,male,Operations,Bachelor,7,85352,married,no,good,0
+40,female,Tech,Bachelor,21,66163,single,no,good,1
+29,male,Tech,Master,34,116068,married,no,average,0
+38,female,Tech,High School,11,32861,single,yes,good,1
+23,male,Sales,High School,23,116649,single,no,average,0
+56,female,Operations,PhD,20,82747,single,no,good,1
+26,male,HR,Master,6,138271,married,yes,good,0
+58,female,Tech,Master,7,143711,married,no,poor,0
+21,male,Sales,High School,1,137996,single,yes,good,1
+39,female,Sales,High School,19,88789,married,no,good,0
+58,male,Finance,Bachelor,21,30572,married,yes,excellent,0
+48,female,HR,High School,30,127015,married,yes,good,0
+29,male,Finance,PhD,23,23879,single,yes,good,1
+30,female,Tech,High School,2,48716,married,no,average,0
+44,female,Finance,Master,10,84082,married,no,excellent,0
+46,male,Sales,Bachelor,16,28122,single,no,good,0
+28,female,HR,Bachelor,27,63670,married,yes,average,0
+25,female,Tech,High School,28,94319,single,yes,poor,1
+33,male,Sales,Bachelor,27,78369,single,no,excellent,0
+42,male,Tech,Master,11,60534,married,no,good,0
+54,female,Sales,Bachelor,16,48554,single,no,good,0
+45,male,Tech,High School,9,135772,married,no,average,0
+43,male,Tech,Master,23,69413,married,yes,good,0
+41,male,Operations,Bachelor,6,94397,married,no,good,0
+23,female,Tech,High School,18,117220,single,no,excellent,0
+28,male,Tech,High School,0,130282,married,no,average,0
+59,male,Sales,Bachelor,21,117909,married,no,average,0
+59,female,Tech,PhD,16,130404,married,no,poor,0
+42,female,Tech,High School,25,129167,married,no,excellent,0
+31,male,Finance,Bachelor,15,90063,married,no,excellent,0
+43,female,Operations,Bachelor,7,135926,married,no,good,0
+36,female,Tech,Master,10,108287,married,yes,average,0
+48,male,Sales,Bachelor,33,149904,married,no,average,1
+55,female,Sales,Bachelor,21,71270,single,no,good,1
+49,female,HR,Bachelor,17,24876,single,no,average,0
+58,male,Finance,Bachelor,14,32881,married,yes,average,1
+26,male,Tech,Master,17,110889,single,no,average,0
+34,male,Sales,High School,32,108278,single,yes,good,0
+49,male,Sales,Master,2,121719,married,no,average,0
+48,male,HR,High School,14,139146,married,yes,average,0
+30,female,Finance,High School,16,105816,single,no,average,0
+24,female,Tech,High School,14,21219,married,yes,average,0
+44,female,Operations,Master,17,140533,married,no,poor,0
+22,female,Finance,Master,27,49686,single,no,excellent,0
+49,male,Finance,PhD,19,95260,married,yes,excellent,1
+45,male,Operations,Bachelor,18,119462,married,yes,good,0
+51,male,Tech,High School,8,116115,single,no,average,0
+35,male,Tech,High School,6,81164,single,no,good,0
+58,female,HR,High School,27,142439,married,no,good,1
+53,male,Tech,Bachelor,11,89998,single,yes,average,0
+28,female,Tech,High School,17,115270,married,no,good,0
+36,male,Finance,Master,24,115538,single,no,average,0
+58,male,Sales,Master,15,64283,married,no,poor,0
+54,male,Operations,High School,30,103806,single,no,average,0
+26,male,Sales,Bachelor,24,136112,married,no,good,0
+59,male,Finance,Master,7,29106,married,yes,good,0
+43,female,Finance,Master,34,117327,single,no,good,0
+41,male,Finance,Bachelor,20,92939,single,no,good,0
+55,female,Sales,High School,12,93607,single,yes,good,0
+49,male,Operations,Master,20,115707,married,no,average,0
+55,male,Tech,Bachelor,21,149269,married,no,poor,0
+22,female,Sales,Master,5,107035,married,yes,average,0
+53,female,Tech,Bachelor,20,42754,single,no,average,0
+46,female,Tech,Bachelor,5,40078,single,no,good,1
+52,female,HR,PhD,25,87409,married,no,average,0
+38,male,Tech,Bachelor,4,130362,married,yes,average,0
+54,male,HR,Bachelor,32,32660,married,no,average,0
+50,female,HR,PhD,19,48192,married,yes,good,1
+43,male,Sales,High School,34,47242,single,no,good,0
+40,male,Tech,Master,28,27684,married,no,average,0
+43,female,Tech,High School,3,117886,married,no,average,1
+28,male,Tech,Bachelor,5,70903,married,yes,average,0
+34,female,Operations,Master,1,88955,married,yes,average,0
+43,female,Finance,Bachelor,11,86245,single,no,average,0
+34,male,Finance,Bachelor,12,45555,married,no,poor,0
+22,male,Tech,Master,22,105144,married,no,good,0
+24,male,Sales,Bachelor,24,120590,single,yes,average,0
+44,female,Sales,Bachelor,4,138324,single,no,excellent,0
+56,male,Tech,Bachelor,26,94910,single,no,average,0
+29,male,Sales,Master,5,60917,married,yes,good,0
+36,male,Tech,Bachelor,23,87750,married,yes,average,0
+52,female,Sales,High School,26,117796,married,no,excellent,0
+52,male,Sales,PhD,30,96496,single,no,good,0
+47,male,Operations,Bachelor,21,116941,married,no,good,0
+35,female,Operations,High School,18,147873,married,no,poor,0
+24,male,HR,Bachelor,2,22150,single,no,average,0
+56,male,Sales,High School,2,32991,single,no,good,1
+45,male,Tech,Bachelor,13,148490,single,no,average,0
+35,female,HR,High School,21,75878,married,no,good,0
+32,male,Sales,PhD,5,62903,single,no,good,0
+27,female,Tech,PhD,22,133707,single,no,poor,0
+56,female,Finance,Bachelor,34,93010,married,no,poor,0
+44,male,Sales,High School,9,106552,married,no,poor,0
+26,female,Tech,Bachelor,18,43058,married,no,poor,0
+51,male,Tech,Bachelor,19,99621,single,no,average,0
+41,male,Tech,Bachelor,0,60663,married,no,good,0
+31,female,Tech,High School,29,137776,married,yes,average,0
+36,male,Sales,Bachelor,3,147975,single,no,poor,0
+34,male,Sales,Bachelor,32,133549,married,no,average,0
+45,male,HR,High School,3,82944,single,no,excellent,0
+34,female,Sales,Bachelor,9,96230,single,yes,poor,0
+58,female,Operations,Master,24,43571,married,no,average,0
+38,female,Operations,Bachelor,21,35696,married,yes,poor,1
+34,female,Tech,High School,26,94058,single,no,poor,0
+44,female,Finance,Master,29,143591,single,no,poor,0
+28,female,Sales,High School,24,127256,single,no,average,1
+45,male,Tech,Bachelor,10,94957,single,yes,average,0
+54,female,HR,High School,9,133058,single,no,average,0
+48,female,Tech,Bachelor,30,107699,single,no,good,0
+44,male,Tech,Bachelor,19,145089,married,no,average,0
+38,male,Operations,Master,2,64723,married,no,average,0
+54,female,Tech,High School,19,112816,single,no,poor,0
+23,female,Operations,Master,7,109041,married,no,poor,0
+32,female,Operations,Bachelor,34,81793,married,no,average,0
+56,male,Tech,High School,7,144251,married,no,average,0
+25,male,Tech,Master,26,77298,married,no,poor,0
+39,female,Finance,Bachelor,31,70262,married,no,good,0
+32,female,Finance,PhD,5,43164,married,no,average,0
+47,female,Tech,Master,32,28773,married,no,good,0
+37,female,Tech,Bachelor,3,92452,single,no,average,1
+48,female,Finance,Bachelor,17,105342,married,no,average,0
+42,male,Sales,Bachelor,30,37222,married,no,average,0
+30,female,Sales,High School,21,32423,single,no,average,1
+26,male,Tech,Master,7,96605,married,no,average,0
+37,male,Operations,High School,0,69854,single,no,average,0
+32,male,Finance,High School,3,147364,single,no,average,0
+26,male,HR,Bachelor,32,67457,single,no,average,0
+42,male,Tech,High School,9,22611,married,no,good,1
+36,male,Tech,Master,29,110445,single,no,good,0
+24,female,Finance,Bachelor,5,94141,single,yes,good,0
+45,male,Finance,Master,12,82445,married,yes,poor,0
+53,male,Finance,Master,31,147805,single,yes,poor,0
+21,female,HR,Bachelor,24,84763,married,yes,good,0
+35,male,Tech,Bachelor,1,110953,single,no,excellent,0
+37,male,Tech,Bachelor,20,134015,married,no,excellent,0
+39,male,Tech,Bachelor,20,21549,married,yes,good,0
+39,male,Finance,Bachelor,19,60009,married,no,average,1
+40,female,Sales,Master,4,46232,married,no,average,0
+21,male,Finance,Master,31,122582,single,yes,average,0
+43,male,Finance,Master,11,82090,married,no,average,1
+36,female,Finance,High School,26,37178,single,no,good,1
+44,male,Tech,Bachelor,9,31778,single,no,good,1
+40,male,Sales,High School,26,77517,married,no,average,0
+35,male,Sales,PhD,22,136235,single,no,excellent,0
+44,male,Tech,Master,34,82700,single,no,average,0
+57,female,Sales,Bachelor,30,54765,married,no,average,0
+53,male,Tech,Bachelor,23,88980,married,no,good,0
+52,male,Operations,Master,28,75308,single,yes,good,1
+51,male,Sales,Bachelor,34,42763,single,no,good,1
+35,male,Operations,Bachelor,15,85572,single,yes,average,0
+21,female,Operations,Master,22,92580,married,yes,good,0
+32,female,Tech,High School,12,78295,single,no,excellent,0
+55,male,HR,PhD,25,99294,single,no,excellent,1
+57,male,Operations,Bachelor,1,95543,single,yes,average,0
+50,male,Tech,Master,7,84430,married,no,average,0
+46,male,Operations,PhD,3,136724,married,no,good,0
+31,female,Finance,Master,8,57791,married,no,good,0
+52,female,Sales,Master,2,143812,married,no,good,0
+22,male,Tech,Master,30,50725,single,yes,good,0
+30,female,Finance,Master,9,71640,married,no,good,0
+42,male,Sales,Bachelor,2,49933,single,yes,average,1
+29,male,Sales,High School,5,112047,married,yes,average,0
+50,male,Tech,High School,22,32255,married,no,average,1
+45,male,HR,Bachelor,34,111334,married,no,average,0
+41,male,Tech,High School,5,139976,married,no,average,0
+38,female,Tech,Master,11,117918,married,no,average,0
+40,male,Tech,Bachelor,30,76951,married,no,average,0
+36,male,Sales,Bachelor,12,138087,married,no,average,0
+59,female,Tech,Bachelor,12,21411,married,no,good,0
+55,female,Tech,High School,25,121663,single,no,good,0
+49,male,Tech,Master,1,39899,single,no,average,1
+50,female,Sales,Bachelor,21,91986,married,no,good,0
+23,male,Operations,Bachelor,8,79160,married,no,average,0
+52,male,Sales,Bachelor,27,84903,married,no,good,0
+34,male,Tech,Bachelor,9,90620,married,no,excellent,0
+46,male,Sales,Bachelor,21,49515,single,no,average,0
+25,female,Sales,High School,17,120883,married,no,poor,0
+48,male,Sales,Bachelor,17,83595,married,yes,average,0
+28,female,Finance,High School,27,99870,married,yes,average,1
+53,male,Sales,Master,28,52803,married,yes,average,1
+56,female,Operations,Master,26,61287,married,yes,excellent,0
+33,male,Tech,Bachelor,10,32648,single,yes,poor,1
+40,male,HR,Master,3,132567,married,no,good,0
+38,female,Tech,Bachelor,26,80565,single,no,average,0
+40,male,Sales,Bachelor,2,73924,married,no,average,0
+53,male,Tech,High School,26,143387,single,no,average,0
+41,female,Tech,Master,22,100056,married,yes,good,0
+44,female,HR,High School,1,127478,single,no,poor,1
+48,female,HR,Master,2,92250,married,no,excellent,0
+25,female,Tech,High School,29,23346,married,yes,average,1
+50,male,Finance,Bachelor,12,116068,married,yes,good,0
+44,female,Finance,Bachelor,7,45241,single,yes,excellent,0
+59,female,Sales,Bachelor,18,145539,single,no,good,0
+34,male,Tech,Bachelor,24,93714,single,no,good,0
+56,male,Sales,Bachelor,7,97112,married,yes,average,0
+56,female,Operations,Bachelor,28,64224,married,no,poor,0
+46,male,HR,Bachelor,32,100392,married,no,average,0
+33,male,Tech,Master,25,124992,single,yes,average,0
+41,male,HR,Master,21,40638,married,no,poor,0
+46,male,Tech,Bachelor,4,33761,married,no,average,0
+54,female,Tech,Bachelor,34,122862,married,no,good,0
+34,male,Tech,Bachelor,0,131165,single,no,average,0
+41,female,Finance,Master,26,86612,married,no,average,0
+39,male,Tech,Master,20,128111,married,yes,poor,0
+32,male,Sales,Master,10,37038,single,no,average,0
+56,female,Sales,Bachelor,1,126894,married,no,excellent,1
+50,male,Sales,PhD,1,77593,married,yes,poor,1
+53,female,HR,High School,10,121918,married,no,poor,0
+43,male,Tech,High School,8,88269,single,yes,poor,0
+33,female,Tech,High School,1,82043,single,yes,average,0
+48,female,Tech,Bachelor,3,77591,married,no,average,0
+48,female,Sales,Master,14,107683,married,yes,good,0
+39,male,Sales,Bachelor,17,148922,single,yes,good,0
+57,female,Tech,Bachelor,26,90160,single,no,poor,0
+51,female,Tech,High School,29,141111,married,no,excellent,0
+59,male,Tech,Master,7,67598,married,no,average,0
+37,male,Tech,PhD,18,42648,single,yes,good,0
+48,female,Tech,High School,19,97057,married,no,good,0
+24,male,Finance,High School,30,21383,single,yes,average,0
+26,female,Tech,Bachelor,28,87956,single,yes,average,0
+39,male,Tech,Bachelor,17,92721,single,no,excellent,0
+43,male,Tech,Bachelor,20,52194,married,no,average,0
+26,male,Tech,Bachelor,32,83023,single,yes,excellent,0
+44,female,Finance,Bachelor,9,138384,married,no,good,0
+42,male,Operations,PhD,12,23266,single,yes,good,0
+41,male,Sales,Master,13,115807,married,no,poor,0
+34,female,Finance,PhD,16,130081,single,no,average,0
+44,male,Sales,High School,17,56208,single,no,average,0
+45,female,HR,Master,32,56835,married,yes,average,1
+37,female,Finance,High School,11,41780,married,yes,good,0
+55,female,Operations,Bachelor,33,114372,single,no,good,0
+37,male,Sales,High School,8,85734,single,yes,good,0
+48,male,Tech,Bachelor,30,148471,single,yes,average,0
+22,male,Operations,High School,31,45686,married,no,good,0
+54,male,Finance,Bachelor,1,41246,single,no,average,0
+21,male,Tech,PhD,6,142755,married,yes,average,0
+23,male,Finance,Bachelor,1,77645,married,no,good,1
+42,male,Sales,Bachelor,28,123041,married,no,poor,0
+24,male,Finance,High School,17,63391,married,no,excellent,0
+35,female,Finance,High School,24,35209,single,no,good,0
+56,male,Finance,PhD,29,70411,married,yes,average,1
+59,male,HR,Bachelor,25,40992,single,no,average,0
+32,male,HR,Bachelor,16,104854,married,no,good,0
+57,male,Operations,Master,6,61813,single,no,good,0
+27,male,Finance,High School,30,41166,single,no,average,0
+51,male,Finance,High School,10,103068,single,yes,good,0
+25,male,Tech,Master,32,88706,married,yes,average,0
+47,male,Tech,Bachelor,14,47177,single,no,average,0
+45,male,Operations,High School,18,85292,single,no,poor,0
+37,female,HR,Master,33,114227,single,no,good,0
+48,female,Sales,Master,33,77933,married,no,good,0
+47,female,Tech,Bachelor,15,148453,married,no,poor,0
+46,male,Tech,Bachelor,27,82889,single,no,average,0
+49,female,Operations,Bachelor,29,95326,single,yes,poor,0
+47,male,Sales,Bachelor,0,130072,married,no,average,0
+37,male,Finance,Bachelor,20,102515,married,yes,average,0
+58,male,HR,Bachelor,1,52157,single,no,good,0
+36,male,Tech,Bachelor,11,46193,married,no,average,0
+29,male,HR,Master,12,102688,single,no,excellent,0
+52,female,Operations,Bachelor,13,114665,married,no,good,1
+21,female,Finance,Bachelor,9,56927,married,yes,average,1
+29,female,Tech,Bachelor,30,40448,married,no,poor,0
+27,female,Tech,Master,13,55213,married,no,good,0
+57,male,Tech,Master,1,132627,single,no,average,1
+26,female,Sales,Master,10,68537,single,no,poor,0
+57,male,Operations,High School,31,80861,married,no,average,0
+59,female,Operations,PhD,19,130730,single,no,poor,0
+24,female,Sales,High School,11,59588,married,no,average,0
+57,male,Finance,Bachelor,6,133435,single,no,average,0
+30,female,Finance,Master,5,50438,single,yes,good,0
+30,male,HR,Bachelor,6,26786,single,yes,average,1
+55,female,Tech,Bachelor,31,80848,married,no,average,0
+28,male,Tech,Master,32,30056,married,no,poor,0
+43,female,HR,Bachelor,27,32191,married,no,average,0
+27,male,Tech,Bachelor,13,76308,married,yes,poor,0
+22,female,Tech,Bachelor,3,83632,single,no,average,0
+58,male,Tech,Master,11,143297,married,no,average,0
+40,male,Operations,Bachelor,17,25622,married,no,poor,0
+51,male,Sales,Bachelor,9,107982,married,yes,poor,1
+50,female,Tech,Master,11,63769,married,no,excellent,0
+45,male,Sales,Master,1,23230,married,no,average,1
+30,female,Sales,High School,9,76930,married,no,good,0
+37,male,Tech,High School,29,114216,married,no,excellent,0
+29,male,Sales,High School,16,60385,married,no,poor,0
+52,male,Tech,Bachelor,21,20713,single,no,average,0
+44,male,Tech,Bachelor,11,87481,married,no,excellent,0
+36,female,Operations,High School,32,45809,single,no,excellent,1
+32,female,Tech,Bachelor,31,76559,single,no,average,0
+55,male,Sales,Bachelor,15,70800,married,no,average,0
+37,male,Sales,Master,22,141182,married,no,excellent,1
+49,female,Sales,Bachelor,25,60719,single,no,good,0
+56,female,Sales,Bachelor,14,141369,married,no,good,0
+55,female,Finance,Bachelor,30,59883,married,no,good,0
+24,female,Tech,Bachelor,9,45192,married,no,good,0
+27,female,Finance,High School,20,134120,married,yes,average,0
+39,female,Sales,Bachelor,23,124630,single,yes,average,0
+48,male,Operations,High School,6,63574,married,yes,good,0
+42,female,Operations,High School,23,85693,married,no,good,0
+41,female,HR,High School,19,66361,married,no,poor,0
+25,female,Tech,Bachelor,4,98510,married,no,good,0
+52,male,Operations,Bachelor,4,133509,single,no,average,0
+21,male,Sales,High School,15,20762,married,yes,average,1
+40,female,Operations,Master,19,112910,married,no,good,0
+48,female,HR,Master,23,131230,married,yes,good,1
+57,female,Sales,Master,3,75413,single,yes,average,1
+32,male,Tech,Bachelor,4,88913,married,no,good,0
+38,male,Tech,Master,8,70568,married,no,poor,0
+25,male,Tech,Master,18,42314,single,yes,good,0
+51,female,Operations,Bachelor,34,51560,married,no,average,0
+22,female,Tech,PhD,7,129922,married,yes,good,0
+29,female,Operations,High School,27,137258,married,no,good,0
+22,male,Tech,High School,23,146529,single,no,excellent,0
+38,female,Finance,Bachelor,32,38781,single,no,average,0
+55,male,Tech,High School,19,113951,married,yes,average,0
+45,female,HR,Bachelor,26,147996,married,no,average,0
+36,male,Operations,Bachelor,20,148356,married,yes,average,0
+40,male,Sales,PhD,24,62999,single,no,average,0
+24,male,Operations,Master,11,64274,single,no,average,0
+52,male,Finance,Master,26,30281,single,yes,average,1
+40,male,Tech,High School,9,103951,married,no,poor,0
+59,male,Sales,High School,0,121682,married,no,poor,1
+35,male,Finance,Master,17,29136,married,no,excellent,0
+38,male,Operations,Bachelor,3,60244,married,no,poor,0
+27,female,Finance,Bachelor,18,134933,married,no,good,0
+23,female,Sales,Bachelor,15,130524,single,no,good,0
+28,female,Tech,High School,5,32121,single,no,average,1
+49,male,HR,High School,3,125337,single,no,average,0
+28,female,Tech,PhD,1,101208,married,no,poor,1
+21,male,Tech,Master,12,22792,married,no,good,1
+41,female,Sales,PhD,3,88811,married,no,good,0
+59,female,Tech,Master,12,149961,married,no,poor,0
+22,male,Tech,Bachelor,15,45878,married,no,poor,0
+54,male,Sales,Master,16,102431,married,no,excellent,0
+41,female,Tech,High School,27,96064,single,no,average,0
+53,male,Finance,High School,33,71322,single,no,average,0
+59,male,Operations,High School,21,136462,married,no,good,0
+27,female,Finance,Bachelor,25,100678,married,no,average,0
+35,female,HR,Bachelor,34,137945,married,no,average,0
+29,male,Finance,Bachelor,23,130117,married,no,average,0
+50,male,Finance,Bachelor,19,133297,married,no,good,0
+37,male,Sales,Bachelor,14,50168,married,no,average,0
+58,female,Sales,Master,11,133632,married,yes,poor,0
+59,female,Operations,Bachelor,31,37131,married,yes,good,0
+41,male,HR,Master,25,75645,married,no,good,0
+23,female,Tech,Bachelor,5,86481,married,yes,poor,1
+57,male,Tech,Bachelor,21,78791,single,no,poor,0
+37,male,Tech,High School,18,147818,single,no,average,0
+37,male,HR,High School,12,111126,married,yes,good,0
+31,male,Sales,Bachelor,29,116197,married,yes,average,0
+30,male,Operations,Master,22,51849,married,no,good,0
+21,female,Tech,Master,20,83607,married,no,average,0
+30,male,Operations,Master,26,88937,single,no,average,0
+45,male,Tech,High School,5,46818,married,no,poor,0
+36,male,Tech,Master,24,45785,married,no,good,1
+58,male,Sales,Bachelor,17,58573,single,yes,excellent,0
+52,female,Tech,PhD,33,134139,married,yes,good,0
+45,male,Sales,High School,28,133255,single,no,good,0
+33,male,Tech,Bachelor,22,35149,married,no,average,0
+36,male,Operations,Master,0,87938,single,no,good,0
+40,male,Tech,Master,30,73441,married,yes,average,0
+48,female,Tech,Master,0,55856,married,no,average,0
+28,female,Finance,Bachelor,6,83299,married,no,good,0
+51,female,Tech,Bachelor,29,137416,single,yes,average,1
+48,male,Sales,Bachelor,34,149779,married,no,excellent,1
+49,male,Finance,High School,3,73114,married,yes,average,0
+54,female,Sales,PhD,4,126298,married,no,excellent,0
+57,male,Operations,High School,16,59522,single,yes,good,0
+40,male,Tech,Bachelor,23,131855,married,no,poor,1
+25,female,Tech,Bachelor,0,95018,married,yes,average,0
+47,male,Tech,High School,9,80724,married,no,good,0

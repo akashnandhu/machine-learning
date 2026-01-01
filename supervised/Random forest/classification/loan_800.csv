@@ -1,0 +1,801 @@
+Applicant_Income,Coapplicant_Income,Loan_Amount,Loan_Term,Credit_History,Gender,Married,Education,Self_Employed,Property_Area,Loan_Status
+21966,14877,549,84,0,Female,Yes,Not Graduate,Yes,Semiurban,0
+17725,2777,559,12,1,Male,No,Graduate,Yes,Urban,0
+19730,12298,216,84,1,Male,Yes,Not Graduate,No,Semiurban,1
+23602,3003,523,84,1,Male,Yes,Graduate,Yes,Urban,0
+17377,3871,413,36,1,Female,Yes,Graduate,Yes,Urban,0
+9763,12033,178,240,1,Female,No,Graduate,No,Urban,1
+15435,11657,135,36,1,Female,Yes,Not Graduate,No,Urban,1
+24241,2171,648,12,1,Female,Yes,Not Graduate,No,Rural,0
+2096,1197,522,300,1,Female,No,Graduate,No,Urban,0
+24641,9333,430,84,0,Male,Yes,Not Graduate,Yes,Semiurban,0
+22527,7222,115,36,1,Female,No,Not Graduate,Yes,Rural,1
+22553,12730,235,240,1,Female,Yes,Graduate,No,Urban,1
+7664,12573,195,36,1,Male,No,Graduate,No,Urban,1
+2942,9908,620,120,1,Female,No,Graduate,Yes,Semiurban,0
+24752,14168,568,180,1,Male,Yes,Not Graduate,No,Semiurban,0
+2111,8980,219,180,0,Male,No,Graduate,Yes,Rural,0
+5481,4945,243,36,1,Female,No,Not Graduate,Yes,Semiurban,1
+19747,5907,404,12,0,Female,Yes,Graduate,Yes,Rural,0
+4894,5106,492,36,1,Male,Yes,Graduate,Yes,Semiurban,0
+5325,11495,481,360,1,Male,Yes,Graduate,No,Semiurban,0
+16944,1487,126,180,0,Male,No,Not Graduate,Yes,Rural,0
+19476,11632,373,84,0,Male,Yes,Graduate,No,Rural,0
+9985,1190,200,120,0,Male,Yes,Graduate,No,Urban,0
+20231,6946,676,36,0,Male,No,Graduate,Yes,Rural,0
+14739,10780,195,240,1,Female,Yes,Graduate,Yes,Rural,1
+8484,11629,174,60,1,Female,Yes,Not Graduate,No,Semiurban,1
+18423,8759,382,36,1,Male,No,Graduate,Yes,Urban,1
+19730,7133,313,12,1,Male,Yes,Graduate,Yes,Semiurban,1
+8648,7539,119,240,0,Female,No,Graduate,No,Semiurban,0
+24461,5046,73,180,0,Male,Yes,Graduate,Yes,Rural,0
+19543,6068,429,60,0,Male,No,Graduate,No,Urban,0
+6195,2223,325,300,1,Female,Yes,Not Graduate,No,Rural,1
+4428,6070,190,240,0,Female,Yes,Not Graduate,No,Rural,0
+10028,1311,167,84,1,Female,Yes,Graduate,Yes,Semiurban,1
+5252,12089,235,240,0,Female,Yes,Graduate,No,Rural,0
+19766,9549,211,300,1,Female,No,Not Graduate,Yes,Semiurban,1
+22693,13529,566,240,0,Female,No,Graduate,No,Urban,0
+13894,1348,513,36,0,Male,No,Not Graduate,No,Urban,0
+4338,8219,475,60,1,Male,Yes,Not Graduate,No,Urban,0
+24497,11079,155,180,0,Female,No,Not Graduate,Yes,Urban,0
+18972,14956,208,36,0,Female,No,Not Graduate,Yes,Urban,0
+11896,12015,656,12,0,Male,No,Not Graduate,Yes,Rural,0
+22355,480,168,60,0,Female,No,Graduate,No,Rural,0
+14394,5859,265,60,0,Male,No,Not Graduate,No,Semiurban,0
+19221,5947,448,120,1,Male,Yes,Not Graduate,Yes,Urban,0
+4624,13068,301,36,1,Female,No,Graduate,No,Rural,0
+23323,4563,69,240,0,Female,No,Graduate,No,Semiurban,0
+3442,1297,419,360,1,Female,Yes,Not Graduate,No,Semiurban,0
+11018,2994,461,300,1,Male,No,Graduate,Yes,Urban,0
+11610,12337,663,12,0,Male,No,Graduate,No,Rural,0
+16029,11219,562,360,1,Male,No,Not Graduate,Yes,Semiurban,0
+17631,14634,620,120,0,Male,Yes,Not Graduate,No,Semiurban,0
+22891,10976,684,36,1,Female,No,Not Graduate,No,Urban,0
+11981,3924,524,60,0,Male,Yes,Not Graduate,Yes,Semiurban,0
+19773,3373,400,300,1,Female,Yes,Not Graduate,Yes,Rural,0
+13418,8215,529,300,1,Male,No,Graduate,Yes,Rural,0
+12960,3035,389,120,1,Female,No,Not Graduate,No,Rural,1
+9950,2052,308,360,1,Male,No,Not Graduate,No,Urban,1
+10447,3997,193,60,0,Male,No,Graduate,No,Urban,0
+5316,5418,352,12,1,Female,Yes,Graduate,Yes,Semiurban,1
+22839,5940,115,12,0,Female,Yes,Graduate,Yes,Rural,0
+19334,7063,86,60,1,Male,Yes,Not Graduate,No,Rural,1
+24471,11878,262,12,1,Male,Yes,Not Graduate,No,Urban,1
+19537,5517,436,300,1,Male,Yes,Graduate,Yes,Rural,0
+10747,1763,366,120,0,Female,No,Graduate,Yes,Semiurban,0
+5258,3491,397,12,1,Male,Yes,Graduate,Yes,Rural,1
+11573,14489,522,36,1,Female,No,Not Graduate,Yes,Urban,0
+10887,1782,573,12,0,Female,No,Graduate,No,Rural,0
+8578,7948,427,360,0,Male,No,Graduate,No,Urban,0
+12196,4327,452,60,1,Female,Yes,Graduate,Yes,Rural,0
+9992,11028,573,60,0,Female,Yes,Graduate,No,Urban,0
+3329,2393,161,120,1,Female,No,Not Graduate,No,Urban,0
+18140,5473,200,300,1,Female,Yes,Graduate,Yes,Rural,1
+6626,4647,283,84,0,Female,No,Not Graduate,No,Urban,0
+11729,11469,532,360,1,Female,No,Not Graduate,No,Semiurban,0
+16387,14292,186,12,1,Female,Yes,Not Graduate,No,Rural,1
+7036,810,262,360,0,Male,No,Graduate,No,Semiurban,0
+10534,570,578,12,1,Female,No,Graduate,No,Semiurban,0
+16851,2608,51,180,0,Male,No,Not Graduate,No,Semiurban,0
+21093,10414,380,84,1,Male,No,Graduate,Yes,Urban,1
+4521,14065,246,84,1,Male,No,Not Graduate,Yes,Rural,0
+11705,7314,211,60,1,Male,No,Graduate,No,Urban,1
+7474,8075,291,12,1,Male,No,Not Graduate,No,Semiurban,1
+8027,291,299,84,1,Female,No,Graduate,No,Rural,1
+13523,377,534,12,1,Female,No,Graduate,Yes,Urban,0
+11438,10077,145,36,1,Male,Yes,Graduate,Yes,Rural,1
+18646,1899,443,240,1,Female,No,Graduate,Yes,Semiurban,0
+16601,10272,536,60,0,Male,No,Graduate,No,Rural,0
+19495,8811,126,36,1,Female,Yes,Graduate,Yes,Urban,1
+11230,1406,180,360,0,Male,No,Graduate,No,Urban,0
+16310,342,251,120,1,Male,No,Graduate,Yes,Urban,1
+16803,9021,180,120,0,Male,Yes,Not Graduate,No,Semiurban,0
+3222,1960,128,84,1,Female,No,Not Graduate,Yes,Rural,0
+8284,460,112,84,1,Male,No,Not Graduate,Yes,Rural,1
+2438,2267,506,360,1,Female,No,Not Graduate,Yes,Semiurban,0
+4587,11483,486,60,1,Male,No,Graduate,No,Urban,0
+13046,13074,65,60,1,Male,Yes,Graduate,No,Rural,1
+9569,13412,521,120,1,Female,No,Graduate,Yes,Urban,0
+14221,11806,261,360,0,Male,Yes,Graduate,Yes,Rural,0
+20286,1585,207,180,1,Female,No,Graduate,No,Semiurban,1
+22298,10921,318,60,1,Male,Yes,Graduate,No,Semiurban,1
+22084,12134,245,240,1,Female,No,Graduate,No,Urban,1
+22579,8208,184,60,1,Male,No,Graduate,Yes,Semiurban,1
+20625,731,489,84,0,Male,Yes,Graduate,Yes,Rural,0
+4863,14019,611,300,1,Male,Yes,Graduate,Yes,Rural,0
+20925,6917,533,240,0,Male,No,Graduate,Yes,Urban,0
+14304,9531,262,240,1,Female,No,Graduate,No,Rural,1
+3669,8978,79,60,0,Male,No,Not Graduate,No,Rural,0
+11325,10937,88,300,1,Female,No,Not Graduate,No,Rural,1
+7206,2262,687,180,1,Male,Yes,Graduate,No,Urban,0
+6142,1575,395,300,1,Male,No,Graduate,No,Urban,1
+10463,4908,388,84,0,Male,Yes,Not Graduate,No,Semiurban,0
+21771,12329,575,240,1,Male,Yes,Not Graduate,Yes,Semiurban,0
+16632,10053,488,60,1,Female,No,Not Graduate,No,Urban,0
+13565,5271,89,120,1,Female,Yes,Graduate,Yes,Semiurban,1
+21889,6805,363,84,1,Male,Yes,Not Graduate,Yes,Rural,1
+11635,14388,592,60,1,Female,No,Not Graduate,No,Semiurban,0
+5997,3796,696,240,1,Male,No,Not Graduate,Yes,Urban,0
+19363,4429,304,36,1,Male,No,Graduate,No,Rural,1
+14125,13463,146,300,0,Male,No,Graduate,Yes,Rural,0
+19894,7064,634,240,1,Male,Yes,Not Graduate,Yes,Urban,0
+2321,8336,371,240,1,Female,Yes,Graduate,No,Urban,0
+22340,2170,685,120,1,Male,Yes,Graduate,No,Urban,0
+6862,3186,175,360,0,Male,Yes,Not Graduate,Yes,Semiurban,0
+20380,12286,504,12,1,Male,Yes,Graduate,No,Urban,0
+10515,9069,118,300,0,Male,Yes,Graduate,No,Urban,0
+13911,930,257,240,1,Female,Yes,Not Graduate,Yes,Semiurban,1
+11190,5328,255,36,0,Female,No,Graduate,No,Semiurban,0
+22568,6711,493,180,1,Female,No,Not Graduate,Yes,Urban,0
+17501,5403,506,36,1,Female,No,Not Graduate,No,Rural,0
+23868,8897,567,360,1,Male,Yes,Graduate,No,Urban,0
+3343,12833,478,360,1,Male,No,Not Graduate,No,Semiurban,0
+22388,3136,481,84,1,Female,Yes,Graduate,No,Rural,0
+20912,10862,424,360,1,Female,Yes,Graduate,Yes,Urban,0
+3401,1919,662,60,0,Male,Yes,Graduate,Yes,Urban,0
+18808,5762,307,36,0,Female,No,Graduate,No,Urban,0
+17832,8634,620,60,1,Male,Yes,Graduate,No,Semiurban,0
+17220,7991,598,60,1,Female,Yes,Graduate,Yes,Rural,0
+17295,3093,347,12,0,Male,Yes,Not Graduate,No,Urban,0
+24586,12713,539,180,1,Female,No,Not Graduate,No,Semiurban,0
+22557,10627,260,360,0,Male,No,Not Graduate,Yes,Urban,0
+17566,99,156,240,0,Female,No,Graduate,No,Rural,0
+22870,7910,221,300,1,Male,No,Graduate,Yes,Semiurban,1
+23726,1803,258,180,1,Female,Yes,Not Graduate,No,Semiurban,1
+7318,11556,369,180,1,Male,No,Not Graduate,Yes,Semiurban,1
+23032,13039,53,120,1,Male,Yes,Not Graduate,Yes,Semiurban,1
+14151,5672,235,360,0,Female,Yes,Graduate,Yes,Urban,0
+20378,1081,206,60,1,Female,Yes,Graduate,No,Semiurban,1
+9244,2110,372,360,0,Female,No,Not Graduate,No,Rural,0
+10652,9542,522,120,1,Male,No,Not Graduate,No,Semiurban,0
+19898,13790,415,60,1,Male,No,Not Graduate,No,Semiurban,0
+14923,13188,518,300,1,Female,Yes,Not Graduate,No,Semiurban,0
+6231,8282,127,360,1,Female,No,Graduate,No,Semiurban,1
+17117,13656,536,360,1,Male,Yes,Graduate,No,Rural,0
+3452,3600,473,240,1,Male,Yes,Not Graduate,Yes,Semiurban,0
+2763,6043,514,240,1,Female,Yes,Graduate,No,Semiurban,0
+7879,10102,468,180,1,Male,No,Not Graduate,Yes,Semiurban,0
+18041,10138,236,36,1,Male,Yes,Not Graduate,No,Urban,1
+3230,14772,552,360,0,Female,Yes,Not Graduate,No,Semiurban,0
+5512,8880,580,84,1,Female,No,Not Graduate,No,Rural,0
+16807,4188,67,60,0,Male,Yes,Graduate,Yes,Urban,0
+6671,11579,400,84,0,Female,Yes,Not Graduate,No,Semiurban,0
+10673,9754,352,360,0,Female,No,Graduate,No,Rural,0
+20947,592,203,360,1,Male,Yes,Graduate,No,Rural,1
+10209,8828,346,12,1,Female,No,Not Graduate,No,Semiurban,1
+15400,7205,171,120,1,Male,Yes,Graduate,No,Urban,1
+21671,1359,642,84,1,Female,No,Graduate,No,Urban,0
+14485,1928,195,300,1,Male,Yes,Graduate,Yes,Rural,1
+12849,12032,253,84,1,Female,No,Not Graduate,Yes,Semiurban,1
+12802,3592,391,60,1,Female,No,Graduate,No,Semiurban,1
+15442,1329,598,180,1,Male,No,Graduate,No,Rural,0
+10121,3526,94,60,0,Female,No,Not Graduate,Yes,Semiurban,0
+11123,7915,444,120,0,Male,No,Not Graduate,Yes,Semiurban,0
+7650,9124,190,360,0,Female,Yes,Not Graduate,No,Rural,0
+12715,8946,616,240,1,Female,No,Graduate,Yes,Urban,0
+14214,8699,661,360,0,Female,Yes,Not Graduate,No,Rural,0
+12743,14846,394,84,1,Female,No,Graduate,Yes,Rural,1
+6169,4229,617,360,0,Male,No,Not Graduate,Yes,Semiurban,0
+17313,2212,179,60,1,Male,Yes,Graduate,Yes,Rural,1
+21006,9341,694,12,1,Female,Yes,Not Graduate,Yes,Rural,0
+20115,2854,418,360,1,Male,Yes,Graduate,Yes,Urban,0
+20059,14979,312,60,1,Female,Yes,Graduate,Yes,Rural,1
+23914,1444,204,60,0,Male,No,Graduate,Yes,Rural,0
+12332,5321,208,60,1,Male,No,Graduate,Yes,Urban,1
+21331,8034,538,180,1,Female,Yes,Graduate,No,Urban,0
+8701,11783,305,36,1,Male,Yes,Graduate,Yes,Rural,1
+16970,8726,159,36,1,Female,Yes,Graduate,Yes,Urban,1
+22922,1267,658,180,1,Male,No,Graduate,Yes,Urban,0
+17547,1862,183,360,1,Female,No,Graduate,Yes,Rural,1
+21227,3444,564,84,0,Female,Yes,Graduate,No,Semiurban,0
+18825,9406,531,36,1,Male,Yes,Graduate,Yes,Urban,0
+6718,1601,572,240,1,Female,No,Graduate,Yes,Semiurban,0
+13771,2341,280,240,1,Female,Yes,Not Graduate,Yes,Semiurban,1
+22739,12947,493,36,1,Female,No,Graduate,No,Urban,0
+7731,1950,411,36,1,Male,No,Not Graduate,No,Semiurban,0
+12958,3741,111,120,0,Male,Yes,Graduate,Yes,Urban,0
+23845,6319,73,84,0,Male,No,Not Graduate,No,Urban,0
+21958,11992,627,180,1,Male,Yes,Graduate,Yes,Rural,0
+11528,12297,616,180,0,Female,Yes,Graduate,Yes,Urban,0
+17319,699,341,360,0,Male,Yes,Not Graduate,Yes,Rural,0
+18996,6224,463,360,0,Male,No,Not Graduate,No,Semiurban,0
+9044,12168,365,120,0,Male,No,Graduate,Yes,Rural,0
+6421,3946,492,12,0,Female,Yes,Graduate,Yes,Urban,0
+12552,13113,568,300,1,Male,No,Not Graduate,No,Semiurban,0
+16985,1951,50,36,1,Female,Yes,Graduate,No,Urban,1
+12913,1111,632,240,1,Female,Yes,Graduate,No,Semiurban,0
+7189,2447,194,60,0,Female,No,Not Graduate,No,Semiurban,0
+12876,109,302,120,1,Female,No,Graduate,No,Semiurban,1
+13657,10658,525,60,0,Female,Yes,Graduate,Yes,Rural,0
+13515,11508,336,240,1,Female,Yes,Graduate,Yes,Rural,1
+7660,14698,593,120,0,Female,Yes,Graduate,Yes,Urban,0
+14610,942,302,180,1,Male,No,Graduate,No,Urban,1
+11956,1517,535,240,0,Female,Yes,Graduate,Yes,Semiurban,0
+20179,3728,244,180,1,Male,No,Graduate,No,Semiurban,1
+18131,7964,682,300,0,Male,Yes,Not Graduate,Yes,Semiurban,0
+19115,7736,348,12,1,Male,Yes,Not Graduate,No,Rural,1
+21749,13794,517,84,0,Male,Yes,Not Graduate,No,Urban,0
+6951,12483,80,240,1,Female,No,Not Graduate,No,Rural,1
+16165,7174,570,120,0,Female,Yes,Graduate,No,Rural,0
+14953,9874,685,360,0,Male,Yes,Graduate,No,Rural,0
+16737,14830,494,360,0,Male,Yes,Graduate,No,Rural,0
+7306,13928,432,300,1,Female,No,Graduate,No,Rural,0
+2194,4309,520,240,1,Female,No,Graduate,No,Urban,0
+7421,8708,137,36,1,Female,No,Not Graduate,No,Urban,1
+21466,2224,143,240,0,Male,No,Not Graduate,No,Rural,0
+19141,12798,70,84,1,Male,No,Graduate,Yes,Rural,1
+23472,10719,165,360,0,Male,No,Graduate,No,Semiurban,0
+19689,1787,333,60,1,Female,Yes,Graduate,No,Urban,1
+22835,11136,671,60,0,Male,Yes,Graduate,Yes,Urban,0
+13843,13247,64,240,1,Male,No,Not Graduate,Yes,Urban,1
+24131,4563,99,120,1,Female,Yes,Not Graduate,Yes,Urban,1
+5393,2936,296,12,1,Female,Yes,Not Graduate,Yes,Urban,1
+18838,10613,652,36,1,Male,Yes,Not Graduate,Yes,Rural,0
+20275,5039,84,180,1,Male,Yes,Graduate,No,Rural,1
+5026,4580,492,360,0,Female,Yes,Not Graduate,Yes,Rural,0
+8364,8699,409,84,1,Female,Yes,Not Graduate,No,Rural,0
+24950,13451,370,300,1,Male,No,Graduate,Yes,Semiurban,1
+12408,2065,218,240,1,Female,No,Graduate,No,Rural,1
+11705,3700,226,240,0,Female,No,Not Graduate,No,Rural,0
+24743,8492,308,36,1,Male,No,Not Graduate,No,Semiurban,1
+10936,3634,657,360,1,Male,Yes,Not Graduate,Yes,Semiurban,0
+17765,6641,163,360,1,Male,Yes,Graduate,Yes,Semiurban,1
+8962,14340,407,240,0,Male,Yes,Not Graduate,No,Urban,0
+24436,3486,615,180,1,Male,Yes,Not Graduate,No,Semiurban,0
+2604,705,311,360,1,Female,No,Graduate,Yes,Semiurban,0
+8115,11052,597,180,1,Female,Yes,Not Graduate,Yes,Semiurban,0
+8483,2618,134,12,0,Female,Yes,Not Graduate,Yes,Semiurban,0
+24865,1921,356,60,1,Female,Yes,Graduate,Yes,Urban,1
+13239,10577,139,36,1,Male,No,Graduate,Yes,Urban,1
+3132,695,52,60,1,Female,No,Not Graduate,No,Semiurban,0
+4621,1826,351,360,1,Female,Yes,Not Graduate,Yes,Rural,0
+15301,5035,359,120,1,Female,No,Graduate,No,Semiurban,1
+6343,6808,186,300,1,Male,Yes,Graduate,Yes,Urban,1
+14023,4879,87,12,1,Female,Yes,Graduate,Yes,Urban,1
+13278,14649,474,360,1,Female,No,Graduate,Yes,Semiurban,0
+4878,13608,419,360,0,Female,No,Not Graduate,No,Urban,0
+2924,6443,386,84,1,Male,Yes,Graduate,Yes,Semiurban,0
+24766,3693,175,300,0,Female,Yes,Graduate,Yes,Urban,0
+11342,14995,518,360,0,Male,Yes,Not Graduate,No,Urban,0
+4191,6714,156,240,1,Male,No,Graduate,Yes,Urban,0
+10113,1731,621,84,1,Female,No,Graduate,No,Semiurban,0
+4512,7028,228,360,0,Female,Yes,Graduate,No,Semiurban,0
+2639,3359,276,300,1,Female,No,Graduate,Yes,Rural,0
+14782,3315,180,12,1,Male,No,Graduate,No,Semiurban,1
+5054,2387,197,180,0,Female,Yes,Graduate,No,Rural,0
+13860,14271,162,360,1,Female,Yes,Graduate,No,Urban,1
+3771,14630,422,120,0,Female,No,Not Graduate,No,Urban,0
+8895,12686,327,36,1,Female,Yes,Graduate,No,Urban,1
+7338,10641,521,120,1,Female,Yes,Graduate,No,Semiurban,0
+16852,4034,92,180,1,Male,No,Not Graduate,No,Rural,1
+14437,11463,482,120,0,Female,Yes,Not Graduate,Yes,Urban,0
+18928,2844,206,12,1,Female,No,Graduate,Yes,Urban,1
+17745,14791,637,240,0,Female,Yes,Graduate,Yes,Rural,0
+16178,4224,520,120,1,Male,No,Graduate,Yes,Semiurban,0
+16442,10602,106,60,1,Female,No,Not Graduate,No,Urban,1
+15778,2165,464,360,1,Female,No,Not Graduate,Yes,Urban,0
+20023,14548,681,84,1,Female,Yes,Not Graduate,No,Rural,0
+3594,2278,600,300,1,Female,No,Graduate,No,Semiurban,0
+10102,14380,649,60,1,Female,No,Not Graduate,Yes,Rural,0
+23393,2625,345,120,0,Female,No,Not Graduate,Yes,Semiurban,0
+9341,7457,531,180,0,Female,Yes,Not Graduate,No,Urban,0
+21222,4500,664,36,1,Female,Yes,Graduate,Yes,Rural,0
+14341,14511,129,84,0,Male,Yes,Not Graduate,No,Semiurban,0
+12201,4256,242,180,1,Female,No,Graduate,Yes,Semiurban,1
+10522,1911,583,180,1,Male,Yes,Graduate,No,Urban,0
+20927,4198,447,36,0,Male,Yes,Graduate,Yes,Semiurban,0
+22259,10168,532,300,1,Female,Yes,Not Graduate,Yes,Urban,0
+2881,3623,424,120,1,Male,No,Graduate,Yes,Urban,0
+16686,1222,419,84,1,Female,No,Not Graduate,Yes,Urban,0
+14871,1550,236,84,0,Female,Yes,Graduate,Yes,Urban,0
+21957,8648,500,120,1,Male,Yes,Graduate,Yes,Semiurban,0
+7971,4765,503,180,1,Female,No,Not Graduate,Yes,Semiurban,0
+23366,10027,300,360,1,Male,No,Graduate,Yes,Semiurban,1
+21485,6770,94,60,0,Male,No,Not Graduate,No,Rural,0
+10485,1718,296,84,1,Male,No,Graduate,Yes,Rural,1
+10325,6395,268,12,1,Female,No,Graduate,No,Urban,1
+9249,1524,572,120,1,Female,No,Graduate,Yes,Rural,0
+12829,11280,371,360,1,Male,No,Graduate,Yes,Urban,1
+16361,2021,109,12,1,Male,No,Not Graduate,Yes,Urban,1
+10801,1958,253,360,0,Male,No,Not Graduate,Yes,Urban,0
+14917,14127,362,12,1,Male,No,Graduate,Yes,Rural,1
+8621,10068,649,60,1,Male,No,Graduate,No,Rural,0
+22934,3970,73,36,1,Female,Yes,Graduate,Yes,Urban,1
+4490,1444,409,240,1,Female,Yes,Not Graduate,No,Rural,0
+7533,4092,70,300,1,Male,Yes,Graduate,No,Urban,1
+16929,6416,627,300,0,Female,Yes,Graduate,Yes,Semiurban,0
+5358,6736,537,240,1,Female,Yes,Graduate,No,Semiurban,0
+24967,11765,164,300,0,Female,No,Not Graduate,No,Rural,0
+10656,3786,104,300,1,Male,No,Not Graduate,Yes,Rural,1
+21468,4297,123,360,0,Male,Yes,Not Graduate,No,Semiurban,0
+7722,7872,348,300,1,Male,No,Graduate,No,Urban,1
+13731,201,127,12,1,Female,Yes,Graduate,Yes,Rural,1
+16428,1560,650,36,1,Female,Yes,Graduate,No,Semiurban,0
+22006,2575,528,120,1,Male,No,Graduate,Yes,Semiurban,0
+11570,4790,208,12,1,Female,Yes,Graduate,Yes,Rural,1
+3543,11365,661,84,1,Female,Yes,Graduate,Yes,Urban,0
+8309,10485,555,84,1,Female,No,Graduate,Yes,Rural,0
+10206,5919,394,84,1,Female,Yes,Not Graduate,No,Urban,1
+14913,3262,208,180,1,Male,No,Not Graduate,No,Urban,1
+14928,51,136,180,0,Male,Yes,Not Graduate,No,Urban,0
+15954,7448,611,120,0,Male,Yes,Not Graduate,No,Semiurban,0
+18358,4492,322,240,1,Male,No,Not Graduate,No,Rural,1
+11253,11626,375,84,1,Male,Yes,Graduate,No,Semiurban,1
+9087,13903,310,60,0,Male,No,Graduate,Yes,Semiurban,0
+23566,7537,151,36,0,Male,Yes,Not Graduate,Yes,Semiurban,0
+9229,2920,381,120,0,Female,No,Graduate,No,Rural,0
+11084,13651,241,12,1,Female,No,Graduate,No,Semiurban,1
+10553,14875,361,240,0,Female,No,Not Graduate,Yes,Urban,0
+11297,7355,304,360,0,Female,Yes,Graduate,Yes,Urban,0
+12462,11271,149,36,0,Male,Yes,Graduate,No,Urban,0
+12682,9720,519,60,1,Female,Yes,Not Graduate,No,Semiurban,0
+21462,2462,254,36,1,Male,No,Graduate,Yes,Rural,1
+22324,2037,511,120,0,Male,No,Graduate,No,Semiurban,0
+12202,13531,119,36,1,Male,No,Graduate,No,Urban,1
+20673,5596,463,120,1,Male,No,Graduate,No,Semiurban,0
+8086,9833,680,240,1,Female,No,Not Graduate,Yes,Semiurban,0
+22321,2365,116,240,1,Male,Yes,Graduate,Yes,Rural,1
+9427,4001,314,12,1,Male,Yes,Not Graduate,No,Semiurban,1
+19512,7780,56,36,0,Male,No,Graduate,Yes,Rural,0
+3662,8105,181,60,1,Male,Yes,Graduate,No,Urban,0
+8477,14075,81,360,1,Female,No,Not Graduate,Yes,Urban,1
+4654,979,266,300,1,Male,No,Not Graduate,No,Rural,0
+12405,5060,145,12,1,Male,No,Not Graduate,Yes,Rural,1
+15139,11354,512,120,1,Female,Yes,Not Graduate,Yes,Rural,0
+11986,8804,463,84,1,Male,No,Not Graduate,No,Semiurban,0
+11440,7460,204,180,0,Male,No,Not Graduate,No,Urban,0
+15838,11294,163,120,0,Female,Yes,Graduate,No,Rural,0
+22994,9376,332,300,1,Female,No,Graduate,No,Urban,1
+15147,14063,247,120,1,Female,No,Graduate,Yes,Rural,1
+14654,9823,226,12,1,Male,Yes,Graduate,No,Urban,1
+13502,848,684,300,0,Male,No,Not Graduate,Yes,Semiurban,0
+19056,5034,612,84,1,Female,Yes,Not Graduate,No,Semiurban,0
+6050,3862,262,360,0,Female,Yes,Not Graduate,Yes,Rural,0
+4999,11247,422,180,1,Female,Yes,Not Graduate,Yes,Rural,0
+4425,8108,584,60,1,Female,Yes,Not Graduate,No,Semiurban,0
+11504,12328,536,84,0,Female,Yes,Not Graduate,No,Semiurban,0
+23251,13540,585,84,1,Female,No,Graduate,Yes,Semiurban,0
+20143,3834,623,120,0,Male,No,Not Graduate,Yes,Urban,0
+23737,4984,346,300,0,Male,Yes,Graduate,Yes,Semiurban,0
+15559,11856,336,36,0,Female,Yes,Graduate,No,Semiurban,0
+6976,9839,557,360,1,Male,Yes,Graduate,Yes,Semiurban,0
+20139,3601,412,36,1,Female,Yes,Not Graduate,Yes,Urban,0
+18206,3981,52,240,1,Male,Yes,Graduate,Yes,Semiurban,1
+20543,11259,390,12,0,Female,Yes,Not Graduate,No,Rural,0
+3557,6031,584,12,0,Female,No,Graduate,Yes,Semiurban,0
+4747,2172,657,12,1,Male,Yes,Not Graduate,No,Urban,0
+17188,5399,655,300,0,Male,No,Not Graduate,Yes,Semiurban,0
+22550,7654,567,84,1,Female,Yes,Not Graduate,Yes,Rural,0
+21645,1730,111,120,1,Male,No,Not Graduate,No,Semiurban,1
+6344,11148,184,120,1,Female,Yes,Not Graduate,No,Semiurban,1
+9384,12070,295,360,1,Female,Yes,Not Graduate,Yes,Semiurban,1
+21679,13332,67,84,1,Female,No,Not Graduate,Yes,Semiurban,1
+13585,8764,346,240,1,Female,Yes,Graduate,Yes,Urban,1
+2016,6034,351,36,1,Female,No,Graduate,No,Rural,0
+23978,11983,384,36,1,Female,No,Graduate,No,Rural,1
+21329,1307,56,240,1,Male,No,Not Graduate,No,Urban,1
+23639,11332,540,120,1,Male,No,Not Graduate,No,Rural,0
+20725,8583,144,360,1,Female,Yes,Graduate,Yes,Semiurban,1
+17763,3470,50,84,0,Female,Yes,Not Graduate,Yes,Urban,0
+22223,7669,119,84,1,Female,No,Graduate,Yes,Semiurban,1
+6976,10440,79,84,1,Female,Yes,Graduate,No,Semiurban,1
+2191,1937,628,240,1,Female,Yes,Not Graduate,No,Rural,0
+9908,531,356,240,1,Male,No,Not Graduate,No,Rural,1
+13128,2275,678,120,1,Female,No,Graduate,Yes,Semiurban,0
+13668,11948,348,240,1,Female,Yes,Not Graduate,Yes,Semiurban,1
+9454,747,169,300,1,Female,No,Graduate,Yes,Urban,1
+19619,7833,328,360,1,Female,Yes,Not Graduate,Yes,Urban,1
+15125,10177,204,12,0,Female,No,Not Graduate,Yes,Urban,0
+18497,933,253,300,1,Female,Yes,Graduate,Yes,Semiurban,1
+4446,10117,210,36,0,Female,Yes,Not Graduate,No,Semiurban,0
+17132,8194,649,180,0,Male,No,Not Graduate,Yes,Semiurban,0
+4625,7060,154,300,1,Male,No,Graduate,Yes,Rural,0
+7397,3542,394,300,1,Female,Yes,Not Graduate,No,Semiurban,1
+6028,13104,140,300,0,Male,No,Graduate,No,Semiurban,0
+8139,2553,533,12,1,Male,Yes,Not Graduate,Yes,Semiurban,0
+23020,6227,340,36,1,Male,Yes,Graduate,No,Rural,1
+23288,6572,97,120,1,Male,Yes,Not Graduate,Yes,Urban,1
+5092,7453,398,36,1,Female,No,Not Graduate,Yes,Semiurban,1
+24966,2043,450,36,1,Male,Yes,Not Graduate,No,Semiurban,0
+7880,11679,167,360,1,Male,Yes,Not Graduate,Yes,Semiurban,1
+23087,8559,609,240,1,Male,No,Graduate,No,Rural,0
+14255,2817,259,240,0,Female,No,Graduate,Yes,Semiurban,0
+9790,2991,601,300,1,Male,No,Not Graduate,Yes,Urban,0
+12987,359,255,240,0,Female,No,Graduate,No,Rural,0
+20983,1830,65,36,1,Male,No,Not Graduate,No,Urban,1
+10473,14181,196,60,1,Male,No,Graduate,Yes,Urban,1
+2687,9887,570,240,1,Female,Yes,Graduate,Yes,Semiurban,0
+12114,4890,334,180,1,Male,Yes,Graduate,No,Semiurban,1
+9391,14859,304,36,0,Male,No,Graduate,No,Rural,0
+12080,10157,300,12,1,Male,Yes,Graduate,No,Urban,1
+15609,6614,435,36,1,Male,Yes,Graduate,No,Rural,0
+19484,1870,618,60,1,Female,Yes,Not Graduate,Yes,Urban,0
+18170,11451,85,12,1,Male,No,Graduate,No,Semiurban,1
+8085,1634,149,60,0,Male,Yes,Not Graduate,No,Rural,0
+4917,13800,144,12,1,Male,No,Graduate,No,Rural,0
+4751,14641,461,12,1,Male,No,Not Graduate,Yes,Urban,0
+11413,3306,394,120,0,Male,No,Not Graduate,Yes,Semiurban,0
+11666,962,213,12,1,Male,No,Graduate,No,Semiurban,1
+21162,10062,314,240,0,Male,Yes,Not Graduate,No,Urban,0
+10423,12868,500,240,1,Female,Yes,Not Graduate,No,Rural,0
+17827,10843,109,12,0,Female,No,Graduate,Yes,Semiurban,0
+11617,5543,232,360,1,Male,No,Not Graduate,No,Semiurban,1
+5273,7817,315,360,0,Female,No,Not Graduate,Yes,Urban,0
+17539,1709,178,36,1,Male,Yes,Graduate,Yes,Semiurban,1
+3326,4053,114,12,0,Male,No,Graduate,Yes,Semiurban,0
+18115,3458,634,36,1,Female,No,Graduate,No,Rural,0
+21505,10417,588,120,1,Female,Yes,Not Graduate,No,Urban,0
+4557,13029,372,12,1,Male,No,Not Graduate,No,Urban,0
+17880,4195,338,300,1,Female,No,Not Graduate,Yes,Urban,1
+7616,1857,439,12,0,Male,No,Graduate,Yes,Semiurban,0
+8546,12469,331,120,1,Male,No,Not Graduate,Yes,Rural,1
+22391,10168,415,240,0,Female,Yes,Not Graduate,Yes,Urban,0
+19306,9944,675,12,1,Male,Yes,Not Graduate,No,Rural,0
+12587,7333,220,60,1,Female,No,Graduate,No,Rural,1
+21690,9213,291,84,1,Female,Yes,Graduate,Yes,Semiurban,1
+24130,9541,585,120,1,Male,Yes,Graduate,Yes,Urban,0
+22585,6862,197,12,0,Female,Yes,Graduate,Yes,Rural,0
+6591,7828,357,360,1,Female,Yes,Not Graduate,No,Semiurban,1
+15895,57,219,360,1,Female,No,Graduate,No,Urban,1
+5665,83,487,360,1,Female,Yes,Graduate,Yes,Rural,0
+23140,14732,126,36,1,Female,Yes,Not Graduate,No,Semiurban,1
+15805,13898,131,12,1,Female,No,Graduate,No,Semiurban,1
+10986,4163,206,180,0,Male,Yes,Not Graduate,Yes,Semiurban,0
+18110,4788,602,36,1,Male,Yes,Graduate,Yes,Semiurban,0
+22347,11681,231,120,1,Female,No,Not Graduate,Yes,Semiurban,1
+17933,7629,96,360,1,Female,Yes,Not Graduate,No,Rural,1
+10487,9402,629,36,1,Female,Yes,Not Graduate,No,Semiurban,0
+5892,3897,359,36,1,Male,Yes,Not Graduate,No,Semiurban,1
+10911,12453,477,300,0,Female,No,Graduate,No,Urban,0
+4174,907,497,120,1,Male,No,Graduate,No,Semiurban,0
+22744,8397,572,12,1,Female,No,Not Graduate,Yes,Urban,0
+20430,2103,562,12,1,Male,No,Graduate,No,Urban,0
+12960,3839,653,36,1,Male,No,Graduate,Yes,Semiurban,0
+3282,3469,121,360,1,Male,Yes,Graduate,No,Rural,0
+21255,2392,251,180,0,Female,Yes,Not Graduate,No,Urban,0
+18564,274,567,84,0,Male,No,Graduate,No,Urban,0
+21203,14459,536,60,0,Female,No,Not Graduate,No,Urban,0
+21751,9848,88,240,1,Male,No,Not Graduate,Yes,Urban,1
+14087,5201,101,60,0,Male,Yes,Graduate,No,Urban,0
+4880,8432,96,300,1,Female,Yes,Graduate,No,Semiurban,0
+23709,13643,628,360,0,Female,Yes,Not Graduate,No,Rural,0
+14487,1919,601,180,1,Male,Yes,Graduate,Yes,Rural,0
+8173,4674,364,60,1,Male,No,Graduate,Yes,Urban,1
+24566,2888,622,84,1,Male,No,Graduate,Yes,Semiurban,0
+12570,12892,483,240,1,Male,Yes,Not Graduate,Yes,Urban,0
+14222,27,73,84,1,Male,No,Graduate,Yes,Semiurban,1
+10626,2292,515,180,0,Male,Yes,Not Graduate,Yes,Rural,0
+18340,3797,642,360,0,Male,Yes,Graduate,No,Rural,0
+12419,2944,465,240,1,Male,Yes,Not Graduate,Yes,Rural,0
+4483,9099,358,300,1,Female,No,Not Graduate,No,Semiurban,0
+3649,13379,405,120,1,Male,No,Graduate,Yes,Urban,0
+13264,7639,583,12,0,Male,No,Not Graduate,No,Rural,0
+6321,7612,406,36,1,Male,Yes,Graduate,No,Urban,0
+15342,5506,507,12,1,Female,Yes,Graduate,Yes,Urban,0
+5860,4090,284,300,0,Female,Yes,Graduate,Yes,Rural,0
+13287,7045,406,36,1,Male,Yes,Not Graduate,Yes,Urban,0
+20962,3712,411,360,1,Female,Yes,Not Graduate,No,Urban,0
+21516,5840,348,84,0,Male,No,Graduate,No,Urban,0
+23115,11906,650,84,0,Female,No,Not Graduate,Yes,Semiurban,0
+23400,7346,268,84,1,Female,No,Graduate,Yes,Semiurban,1
+9699,4098,323,60,1,Female,Yes,Graduate,No,Rural,1
+15428,11127,628,120,0,Female,Yes,Not Graduate,No,Rural,0
+4201,14984,511,84,1,Male,No,Not Graduate,No,Semiurban,0
+2126,10385,148,120,1,Male,Yes,Not Graduate,Yes,Semiurban,0
+20407,6752,420,84,0,Female,No,Not Graduate,Yes,Urban,0
+12551,6122,163,300,1,Female,No,Graduate,Yes,Rural,1
+11199,13593,448,60,0,Male,Yes,Not Graduate,No,Rural,0
+3524,12791,335,36,0,Male,Yes,Not Graduate,No,Semiurban,0
+10285,2709,221,240,0,Female,Yes,Not Graduate,Yes,Semiurban,0
+24776,3579,61,60,1,Male,No,Not Graduate,Yes,Semiurban,1
+22880,5880,263,36,1,Female,Yes,Graduate,Yes,Urban,1
+14871,7616,311,300,1,Female,No,Not Graduate,Yes,Urban,1
+24702,1874,56,60,0,Female,No,Not Graduate,No,Urban,0
+2191,12613,335,300,1,Female,Yes,Not Graduate,Yes,Semiurban,0
+11743,5529,209,120,1,Male,Yes,Graduate,No,Rural,1
+24646,6980,434,12,1,Female,No,Graduate,Yes,Rural,0
+21715,4817,533,12,1,Male,No,Graduate,Yes,Urban,0
+12580,3199,140,84,1,Male,Yes,Graduate,Yes,Urban,1
+2545,3052,536,300,0,Female,No,Not Graduate,No,Rural,0
+23245,526,98,84,1,Female,Yes,Graduate,Yes,Semiurban,1
+14007,5011,317,120,1,Male,Yes,Graduate,Yes,Urban,1
+23794,6447,362,60,1,Male,Yes,Graduate,No,Semiurban,1
+2268,7678,303,360,0,Male,Yes,Graduate,Yes,Semiurban,0
+2538,12277,472,300,1,Female,No,Not Graduate,Yes,Semiurban,0
+2455,2459,73,60,0,Male,No,Graduate,Yes,Rural,0
+19320,676,681,60,1,Male,No,Not Graduate,Yes,Rural,0
+22265,14130,501,180,0,Female,Yes,Not Graduate,No,Semiurban,0
+13919,14920,693,240,1,Female,Yes,Graduate,Yes,Rural,0
+3258,14041,514,120,1,Male,No,Not Graduate,Yes,Semiurban,0
+16893,6163,652,12,1,Female,No,Not Graduate,Yes,Rural,0
+15252,1258,506,180,1,Male,No,Not Graduate,No,Semiurban,0
+18103,5766,202,360,0,Female,No,Not Graduate,Yes,Rural,0
+5561,9394,347,12,0,Female,Yes,Graduate,No,Urban,0
+9099,2105,623,180,1,Female,Yes,Graduate,Yes,Urban,0
+2713,8200,407,84,1,Female,No,Graduate,Yes,Semiurban,0
+9310,2080,87,84,1,Female,No,Not Graduate,No,Semiurban,1
+24305,5845,235,360,1,Female,No,Graduate,No,Semiurban,1
+24229,8640,259,60,0,Male,No,Graduate,No,Semiurban,0
+18085,3207,192,240,1,Male,Yes,Not Graduate,Yes,Urban,1
+22488,5169,268,240,0,Male,No,Graduate,No,Urban,0
+11984,2934,276,360,1,Female,No,Not Graduate,Yes,Urban,1
+9958,12001,165,360,1,Male,No,Graduate,No,Urban,1
+23934,11055,508,300,1,Female,No,Graduate,No,Urban,0
+3118,2110,85,360,0,Female,No,Graduate,No,Urban,0
+6985,3046,249,12,0,Male,Yes,Graduate,Yes,Semiurban,0
+4255,8280,106,300,1,Female,No,Graduate,No,Urban,0
+2060,3424,279,60,1,Female,Yes,Not Graduate,Yes,Semiurban,0
+22250,456,498,84,0,Male,No,Not Graduate,No,Rural,0
+11956,12151,653,240,1,Female,Yes,Graduate,No,Rural,0
+18051,12779,157,60,1,Male,No,Not Graduate,No,Rural,1
+20879,1264,451,120,1,Female,Yes,Not Graduate,No,Rural,0
+12670,7376,243,36,1,Male,Yes,Not Graduate,No,Semiurban,1
+15643,376,584,84,1,Male,Yes,Graduate,Yes,Urban,0
+13650,8274,564,36,1,Female,No,Not Graduate,Yes,Urban,0
+6501,4360,130,84,0,Female,Yes,Not Graduate,No,Urban,0
+18114,14729,207,60,1,Male,Yes,Graduate,Yes,Semiurban,1
+23076,13528,496,360,1,Female,No,Graduate,Yes,Urban,0
+21740,9876,379,300,1,Female,Yes,Graduate,No,Semiurban,1
+19986,11795,207,360,0,Male,No,Graduate,No,Rural,0
+5796,10123,295,36,0,Female,Yes,Graduate,Yes,Rural,0
+18800,3302,176,360,1,Female,Yes,Not Graduate,No,Semiurban,1
+8703,2993,99,12,1,Female,Yes,Not Graduate,No,Rural,1
+22838,12750,503,360,1,Male,Yes,Graduate,No,Semiurban,0
+4856,9733,465,120,1,Female,No,Graduate,No,Rural,0
+11338,12088,134,360,1,Male,Yes,Graduate,No,Semiurban,1
+4533,4420,69,360,0,Female,No,Graduate,No,Rural,0
+6310,78,596,84,1,Female,Yes,Not Graduate,Yes,Semiurban,0
+19942,8415,673,300,1,Female,Yes,Not Graduate,Yes,Semiurban,0
+12432,7931,287,180,1,Female,Yes,Not Graduate,No,Rural,1
+3684,7858,656,180,1,Male,Yes,Graduate,No,Semiurban,0
+19823,2626,436,360,0,Female,No,Graduate,No,Rural,0
+12604,4738,505,36,0,Female,No,Graduate,No,Urban,0
+17001,14030,670,60,1,Male,Yes,Not Graduate,Yes,Rural,0
+4080,175,132,60,1,Female,No,Graduate,No,Rural,0
+23691,14431,631,240,1,Female,Yes,Not Graduate,Yes,Urban,0
+7000,2887,400,120,0,Male,Yes,Graduate,Yes,Urban,0
+19488,7813,399,12,1,Female,No,Graduate,Yes,Rural,1
+18965,5124,227,300,1,Male,No,Graduate,No,Urban,1
+13181,1902,425,120,1,Male,Yes,Not Graduate,Yes,Rural,0
+14294,11791,506,84,1,Female,Yes,Graduate,Yes,Rural,0
+17487,13549,237,84,0,Male,Yes,Not Graduate,No,Urban,0
+15318,9268,388,36,0,Female,No,Not Graduate,No,Semiurban,0
+11848,10000,286,12,0,Male,No,Graduate,No,Semiurban,0
+12232,13094,124,180,1,Female,No,Not Graduate,No,Rural,1
+8884,1924,142,60,1,Female,No,Graduate,No,Urban,1
+8084,12887,406,360,1,Female,Yes,Graduate,Yes,Urban,0
+23641,12568,287,84,1,Male,No,Not Graduate,Yes,Semiurban,1
+5943,13844,97,36,0,Male,Yes,Not Graduate,No,Semiurban,0
+16107,13933,411,84,1,Male,No,Graduate,Yes,Rural,0
+18173,8327,689,84,0,Male,No,Not Graduate,No,Rural,0
+14820,7853,397,12,1,Female,Yes,Graduate,Yes,Rural,1
+11981,13262,326,300,1,Female,No,Graduate,Yes,Urban,1
+16706,4386,254,84,1,Female,No,Not Graduate,Yes,Semiurban,1
+15987,8473,645,84,1,Male,No,Not Graduate,Yes,Rural,0
+24341,3939,344,240,1,Female,No,Graduate,Yes,Urban,1
+2821,9697,624,36,1,Female,No,Not Graduate,No,Rural,0
+10226,8994,147,180,1,Female,No,Graduate,Yes,Urban,1
+14310,1526,57,180,0,Male,Yes,Graduate,No,Semiurban,0
+7373,11022,260,240,1,Female,Yes,Graduate,Yes,Rural,1
+13945,2472,630,36,1,Male,Yes,Graduate,Yes,Rural,0
+3789,14728,152,240,1,Male,No,Graduate,No,Semiurban,0
+4397,12451,680,36,0,Male,No,Graduate,Yes,Urban,0
+2329,2483,585,36,1,Male,No,Graduate,Yes,Semiurban,0
+21268,8298,327,12,0,Male,No,Graduate,Yes,Semiurban,0
+5708,3959,152,360,1,Male,Yes,Graduate,Yes,Rural,1
+19146,1465,367,360,1,Female,Yes,Not Graduate,No,Rural,1
+16761,13273,661,120,1,Female,Yes,Graduate,Yes,Rural,0
+13933,14857,357,240,0,Male,No,Graduate,No,Urban,0
+11926,9373,325,240,1,Male,No,Not Graduate,No,Semiurban,1
+2389,14313,541,60,0,Male,Yes,Not Graduate,No,Urban,0
+17559,636,87,36,1,Female,Yes,Not Graduate,Yes,Semiurban,1
+14083,5347,168,84,0,Male,Yes,Not Graduate,No,Rural,0
+14505,10169,227,300,1,Female,No,Not Graduate,Yes,Urban,1
+6602,2000,79,12,1,Male,No,Not Graduate,No,Rural,1
+12065,5336,578,300,1,Female,No,Not Graduate,Yes,Rural,0
+19891,3402,184,36,0,Female,No,Not Graduate,No,Semiurban,0
+7571,9146,554,300,1,Male,No,Not Graduate,Yes,Urban,0
+4741,9838,588,36,1,Female,No,Graduate,Yes,Rural,0
+22283,12702,456,240,1,Male,Yes,Not Graduate,No,Urban,0
+23430,2635,463,60,1,Male,No,Graduate,No,Urban,0
+7015,10392,242,180,0,Male,No,Graduate,Yes,Semiurban,0
+23878,4057,459,240,0,Female,No,Graduate,No,Rural,0
+15438,8614,413,180,1,Male,Yes,Graduate,No,Semiurban,0
+6309,55,480,120,0,Male,Yes,Not Graduate,Yes,Semiurban,0
+7543,9676,131,360,1,Male,Yes,Not Graduate,Yes,Urban,1
+16801,7325,238,360,1,Female,Yes,Not Graduate,Yes,Urban,1
+19087,12546,550,60,1,Female,No,Not Graduate,No,Rural,0
+15350,8734,132,240,1,Male,Yes,Graduate,Yes,Semiurban,1
+9918,9343,123,36,1,Male,No,Graduate,No,Urban,1
+15796,9428,219,12,1,Male,No,Not Graduate,Yes,Rural,1
+20553,5165,205,84,1,Male,No,Graduate,Yes,Rural,1
+14526,8866,233,60,0,Female,Yes,Not Graduate,No,Rural,0
+4793,13916,648,84,0,Male,Yes,Graduate,No,Rural,0
+24035,8332,67,60,1,Female,No,Not Graduate,No,Urban,1
+19006,1821,132,360,0,Female,No,Not Graduate,Yes,Urban,0
+12904,8645,110,84,0,Female,No,Not Graduate,No,Urban,0
+9301,9354,625,84,1,Male,No,Graduate,No,Urban,0
+7235,9994,412,240,1,Male,No,Graduate,No,Urban,0
+13731,241,614,84,1,Male,No,Not Graduate,Yes,Semiurban,0
+12184,13717,630,360,0,Female,Yes,Not Graduate,Yes,Urban,0
+24247,3425,119,360,1,Male,No,Not Graduate,Yes,Semiurban,1
+7184,5597,126,360,1,Female,No,Not Graduate,Yes,Semiurban,1
+10274,7236,248,180,0,Male,Yes,Not Graduate,No,Semiurban,0
+4341,286,438,360,1,Female,Yes,Graduate,Yes,Urban,0
+5355,9819,350,60,1,Female,No,Graduate,Yes,Urban,1
+20350,8606,66,36,1,Male,No,Graduate,No,Semiurban,1
+15358,11606,409,36,1,Male,Yes,Not Graduate,No,Urban,0
+24025,13826,610,240,0,Female,No,Not Graduate,Yes,Urban,0
+11559,12450,471,120,1,Female,Yes,Graduate,Yes,Urban,0
+13737,4436,358,84,1,Female,Yes,Graduate,Yes,Semiurban,1
+13396,7739,460,36,1,Female,No,Graduate,Yes,Semiurban,0
+18725,11092,483,84,1,Female,No,Graduate,Yes,Urban,0
+10737,8713,649,180,0,Female,No,Not Graduate,Yes,Rural,0
+8040,11514,381,180,0,Male,No,Not Graduate,Yes,Rural,0
+6758,459,449,300,1,Male,Yes,Not Graduate,Yes,Urban,0
+7895,10906,87,180,1,Male,No,Not Graduate,No,Urban,1
+7805,868,531,120,0,Male,No,Graduate,No,Semiurban,0
+21697,13451,63,240,0,Male,Yes,Graduate,Yes,Urban,0
+17293,2902,202,60,1,Female,No,Graduate,Yes,Semiurban,1
+13058,11861,167,84,0,Female,No,Not Graduate,No,Urban,0
+6885,3542,565,180,0,Female,Yes,Graduate,No,Urban,0
+12028,12886,300,360,1,Male,Yes,Graduate,Yes,Semiurban,1
+20864,1934,91,180,1,Female,No,Not Graduate,Yes,Rural,1
+6851,4761,683,84,1,Male,Yes,Not Graduate,Yes,Semiurban,0
+5707,5109,323,300,1,Female,No,Not Graduate,No,Semiurban,1
+2690,12699,60,120,0,Female,No,Graduate,No,Urban,0
+6635,2444,104,120,1,Female,Yes,Graduate,Yes,Rural,1
+16178,2146,450,300,1,Male,No,Graduate,Yes,Rural,0
+3978,13796,514,360,1,Male,Yes,Not Graduate,No,Semiurban,0
+24263,12843,375,84,1,Male,No,Graduate,No,Rural,1
+11061,37,245,300,1,Male,Yes,Graduate,No,Urban,1
+21141,2819,685,300,1,Male,Yes,Not Graduate,Yes,Urban,0
+18112,205,417,60,1,Male,No,Graduate,Yes,Urban,0
+10013,4398,223,84,1,Male,Yes,Graduate,No,Semiurban,1
+18880,2020,533,36,1,Female,Yes,Graduate,Yes,Semiurban,0
+8043,8711,284,120,0,Male,Yes,Graduate,No,Semiurban,0
+5017,4033,557,180,0,Male,Yes,Not Graduate,No,Urban,0
+22077,9735,334,180,1,Male,No,Not Graduate,Yes,Rural,1
+18814,3064,494,36,1,Male,No,Not Graduate,Yes,Urban,0
+19923,1752,150,84,1,Male,No,Not Graduate,Yes,Rural,1
+9639,14333,528,36,1,Female,Yes,Graduate,No,Rural,0
+22845,14682,605,120,0,Female,No,Graduate,Yes,Urban,0
+21519,2634,570,36,0,Male,Yes,Not Graduate,Yes,Urban,0
+10186,7994,513,360,1,Female,No,Graduate,Yes,Semiurban,0
+8428,6672,665,12,1,Female,No,Graduate,No,Rural,0
+16168,12665,689,180,1,Female,No,Not Graduate,Yes,Rural,0
+5166,14749,538,360,1,Male,No,Not Graduate,No,Rural,0
+11134,6962,102,60,0,Female,No,Not Graduate,Yes,Semiurban,0
+21442,11832,455,360,0,Female,No,Graduate,No,Urban,0
+13501,2185,635,36,1,Female,Yes,Graduate,Yes,Semiurban,0
+16501,7969,502,36,1,Female,No,Not Graduate,Yes,Urban,0
+11056,10361,98,36,0,Female,Yes,Graduate,Yes,Rural,0
+21697,14990,662,60,1,Male,No,Graduate,No,Semiurban,0
+18583,7414,510,84,1,Male,No,Graduate,No,Semiurban,0
+12127,3925,231,60,1,Male,No,Not Graduate,No,Urban,1
+7221,9727,658,180,0,Female,Yes,Not Graduate,No,Semiurban,0
+14264,408,278,180,0,Male,No,Graduate,No,Rural,0
+15089,9357,503,120,0,Male,No,Graduate,No,Rural,0
+19278,7832,605,36,1,Male,No,Not Graduate,No,Urban,0
+3669,14188,298,84,1,Female,Yes,Not Graduate,Yes,Urban,0
+8631,2228,197,240,1,Female,No,Not Graduate,Yes,Semiurban,1
+22310,13584,563,300,1,Male,Yes,Graduate,No,Semiurban,0
+19009,10602,201,360,1,Female,No,Not Graduate,Yes,Semiurban,1
+15460,1345,643,36,0,Female,Yes,Graduate,Yes,Rural,0
+20786,13660,315,360,1,Female,Yes,Graduate,No,Urban,1
+12140,3156,371,240,1,Male,Yes,Not Graduate,No,Urban,1
+9650,3375,657,240,0,Female,Yes,Not Graduate,Yes,Semiurban,0
+16176,6017,511,12,1,Female,Yes,Not Graduate,Yes,Rural,0
+20713,4220,636,300,1,Female,No,Not Graduate,No,Rural,0
+14305,2494,141,60,1,Female,Yes,Graduate,No,Rural,1
+13293,4959,237,84,1,Male,No,Not Graduate,Yes,Semiurban,1
+2022,7239,401,84,1,Male,No,Graduate,No,Urban,0
+5119,4451,446,36,1,Female,Yes,Not Graduate,Yes,Semiurban,0
+14726,1460,654,60,1,Male,No,Not Graduate,Yes,Semiurban,0
+5565,10714,364,120,0,Female,No,Not Graduate,No,Semiurban,0
+9806,7163,223,60,1,Male,Yes,Not Graduate,No,Semiurban,1
+2505,282,642,120,1,Female,No,Not Graduate,No,Semiurban,0
+10214,4713,511,300,0,Male,Yes,Graduate,Yes,Urban,0
+12791,2966,342,300,1,Female,Yes,Graduate,Yes,Rural,1
+4623,5308,300,60,1,Female,No,Not Graduate,No,Semiurban,0
+10263,11531,80,120,0,Female,No,Graduate,Yes,Urban,0
+5469,7493,55,12,1,Male,Yes,Graduate,Yes,Semiurban,1
+5451,9386,558,240,1,Male,Yes,Not Graduate,No,Urban,0
+14758,12439,139,60,0,Male,No,Not Graduate,No,Urban,0
+6973,9316,170,240,1,Male,Yes,Not Graduate,Yes,Urban,1
+15313,14904,396,300,1,Female,No,Not Graduate,Yes,Semiurban,1
+11593,1048,64,240,1,Male,No,Graduate,Yes,Urban,1
+8871,9390,376,120,1,Female,No,Not Graduate,Yes,Rural,1
+24770,3756,140,360,1,Female,Yes,Not Graduate,No,Urban,1
+24371,740,520,12,0,Male,No,Not Graduate,No,Rural,0
+8671,9349,180,180,1,Female,No,Not Graduate,Yes,Rural,1
+18223,7030,352,180,1,Female,No,Not Graduate,No,Urban,1
+4074,7892,689,240,1,Male,No,Not Graduate,No,Rural,0
+13278,13726,579,240,1,Female,No,Graduate,No,Rural,0
+24512,5728,189,36,1,Male,Yes,Graduate,Yes,Rural,1
+6419,10351,693,120,0,Male,Yes,Not Graduate,No,Semiurban,0
+18377,5328,579,180,1,Male,No,Graduate,No,Urban,0
+14027,1145,648,36,1,Female,No,Not Graduate,Yes,Rural,0
+24539,6560,266,360,1,Male,Yes,Graduate,Yes,Rural,1
+2070,624,358,180,1,Female,No,Graduate,No,Semiurban,0
+19123,321,116,120,1,Male,Yes,Not Graduate,No,Urban,1
+3431,3188,448,300,1,Male,Yes,Not Graduate,Yes,Semiurban,0
+9749,12775,298,300,1,Female,No,Not Graduate,Yes,Rural,1
+4159,14304,86,12,1,Male,Yes,Not Graduate,No,Urban,0
+19576,3500,247,240,1,Male,No,Not Graduate,No,Urban,1
+18876,3981,472,180,1,Male,No,Not Graduate,Yes,Urban,0
+5358,1241,678,60,0,Male,No,Graduate,Yes,Semiurban,0
+12644,12281,508,12,1,Female,Yes,Not Graduate,Yes,Urban,0
+24587,4823,520,36,1,Female,Yes,Not Graduate,Yes,Rural,0
+18335,3452,540,12,1,Male,No,Graduate,Yes,Rural,0
+2461,9739,368,60,0,Male,Yes,Not Graduate,Yes,Urban,0
+17320,5810,648,180,0,Male,Yes,Graduate,Yes,Urban,0
+6365,14920,194,36,1,Male,Yes,Graduate,Yes,Urban,1
+17717,12291,251,180,0,Male,No,Not Graduate,No,Semiurban,0
+22817,6788,613,300,1,Male,No,Not Graduate,Yes,Semiurban,0
+8413,14388,520,60,1,Female,Yes,Graduate,No,Semiurban,0
+3735,5700,397,60,1,Female,No,Not Graduate,No,Semiurban,0
+24764,8779,162,12,1,Female,Yes,Graduate,Yes,Rural,1
+12776,172,539,60,1,Female,Yes,Not Graduate,No,Semiurban,0
+14257,11914,669,240,1,Male,Yes,Not Graduate,No,Urban,0
+7996,12123,682,360,0,Male,No,Not Graduate,Yes,Urban,0
+22587,1525,698,300,1,Female,Yes,Not Graduate,Yes,Semiurban,0
+9835,3604,487,60,0,Male,Yes,Not Graduate,No,Rural,0
+15399,2698,586,120,1,Female,No,Not Graduate,Yes,Rural,0
+18401,4123,122,12,0,Male,No,Graduate,No,Rural,0
+24584,13212,329,12,1,Male,No,Graduate,Yes,Semiurban,1
+14129,5712,192,360,0,Male,No,Graduate,No,Semiurban,0
+3705,6601,399,240,1,Female,No,Not Graduate,No,Semiurban,0
+12050,12238,570,84,0,Male,Yes,Graduate,Yes,Semiurban,0
+3163,9840,683,84,1,Male,No,Not Graduate,No,Urban,0
+8563,9343,141,60,0,Male,No,Graduate,Yes,Urban,0
+12322,13867,524,120,1,Female,No,Not Graduate,Yes,Rural,0
+9243,14748,573,300,0,Male,No,Not Graduate,No,Rural,0
+18656,13891,78,60,1,Male,No,Not Graduate,Yes,Semiurban,1
+22650,5094,487,180,0,Female,Yes,Graduate,No,Semiurban,0
+7211,4716,540,84,1,Male,No,Graduate,No,Rural,0
+21733,10391,472,60,1,Female,No,Not Graduate,No,Semiurban,0
+23183,5773,59,12,1,Male,No,Not Graduate,No,Urban,1
+21849,4727,540,300,1,Male,Yes,Not Graduate,No,Rural,0
+13909,14538,567,240,1,Male,Yes,Graduate,Yes,Rural,0
+20763,11522,482,240,0,Female,Yes,Graduate,No,Urban,0
+3470,4234,402,300,1,Male,No,Graduate,Yes,Semiurban,0
+13973,6830,572,360,1,Female,No,Graduate,Yes,Rural,0
+10682,14317,644,60,1,Male,Yes,Graduate,Yes,Semiurban,0
+8613,12209,374,36,1,Male,Yes,Graduate,Yes,Urban,1
+22401,7685,419,84,1,Male,No,Graduate,No,Semiurban,0
+8223,3123,64,84,0,Female,Yes,Graduate,No,Rural,0
+3944,12320,560,300,1,Female,Yes,Not Graduate,Yes,Urban,0
+19440,752,550,300,1,Male,Yes,Not Graduate,Yes,Semiurban,0
+2760,656,556,240,1,Female,Yes,Not Graduate,Yes,Urban,0
+15312,12583,449,120,1,Male,Yes,Not Graduate,Yes,Urban,0
+4192,12945,103,12,1,Male,Yes,Not Graduate,Yes,Rural,0
+8570,9515,416,180,0,Female,Yes,Not Graduate,No,Semiurban,0
+20873,622,212,12,1,Male,Yes,Not Graduate,No,Semiurban,1
+5218,10499,63,36,1,Female,Yes,Graduate,Yes,Urban,1
+19777,14691,103,180,1,Female,No,Graduate,No,Semiurban,1
+6434,8943,653,12,1,Female,No,Graduate,No,Urban,0
+4643,5350,531,180,1,Male,No,Graduate,Yes,Urban,0
+5840,9456,282,360,1,Female,Yes,Not Graduate,No,Rural,1
+7334,13368,221,180,1,Male,No,Graduate,No,Urban,1
+20063,7502,514,12,1,Female,Yes,Graduate,No,Rural,0
+3687,13232,377,360,1,Male,Yes,Not Graduate,Yes,Semiurban,0
+17059,12712,476,240,1,Female,No,Not Graduate,No,Semiurban,0
+15262,13657,328,120,1,Female,No,Not Graduate,Yes,Rural,1
+20623,416,121,240,0,Female,No,Not Graduate,No,Urban,0
+16999,10943,562,180,0,Female,No,Not Graduate,No,Urban,0
+8244,6427,629,300,1,Male,No,Not Graduate,Yes,Rural,0
+7055,10077,613,300,1,Male,No,Graduate,Yes,Semiurban,0
+24696,8627,96,300,0,Male,No,Graduate,Yes,Semiurban,0
+17520,2221,396,180,1,Male,Yes,Graduate,Yes,Urban,1
+5295,3419,382,36,1,Female,Yes,Not Graduate,Yes,Rural,1
+7561,7020,353,12,1,Female,No,Graduate,Yes,Rural,1
+23372,5307,451,180,1,Male,Yes,Graduate,No,Rural,0
+22151,4193,370,36,0,Female,No,Graduate,No,Urban,0
+15150,7177,326,240,1,Female,Yes,Graduate,No,Semiurban,1
+10974,12213,76,36,1,Male,Yes,Graduate,No,Urban,1
+15120,230,426,240,1,Female,No,Not Graduate,Yes,Semiurban,0
+3904,14384,552,12,1,Female,Yes,Graduate,Yes,Rural,0
+16884,12622,428,180,0,Male,Yes,Not Graduate,Yes,Rural,0
+7359,2219,426,300,0,Female,Yes,Not Graduate,No,Semiurban,0

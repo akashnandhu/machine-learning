@@ -1,0 +1,1001 @@
+Customer_Region,Age_Group,Prefers_Online_Shopping,Has_Loyalty_Card,Buys_On_Discount,Visits_Store_Frequency,Customer_Satisfaction,Preferred_Payment_Method,Recommends_To_Friends,Responds_To_Offers,Active_Customer
+North,18-25,No,Yes,Yes,Rarely,Very Satisfied,Debit Card,No,No,No
+Central,46-60,No,Yes,Yes,Sometimes,Satisfied,Credit Card,Yes,Yes,No
+South,26-35,Yes,Yes,No,Sometimes,Dissatisfied,Wallet,Yes,No,Yes
+North,36-45,No,Yes,No,Sometimes,Satisfied,Cash,Yes,Yes,No
+East,60+,No,Yes,No,Never,Very Satisfied,Debit Card,No,No,No
+West,46-60,Yes,Yes,Yes,Rarely,Neutral,Debit Card,No,Yes,No
+West,60+,No,No,No,Often,Very Satisfied,Debit Card,Yes,No,No
+Central,18-25,Yes,No,No,Often,Satisfied,Credit Card,Yes,No,No
+Central,36-45,No,Yes,Yes,Never,Satisfied,Cash,Yes,No,Yes
+North,60+,Yes,Yes,No,Often,Satisfied,Wallet,Yes,No,Yes
+North,46-60,No,No,Yes,Rarely,Very Satisfied,Debit Card,Yes,No,No
+West,18-25,No,Yes,Yes,Never,Neutral,Debit Card,No,Yes,No
+South,46-60,No,Yes,No,Sometimes,Dissatisfied,Credit Card,Yes,No,No
+East,18-25,Yes,No,Yes,Rarely,Satisfied,Debit Card,Yes,Yes,Yes
+North,18-25,No,No,Yes,Often,Dissatisfied,Wallet,No,Yes,Yes
+South,36-45,No,No,Yes,Often,Very Satisfied,Cash,No,No,Yes
+North,36-45,Yes,No,Yes,Often,Satisfied,Debit Card,No,Yes,No
+West,46-60,No,Yes,Yes,Sometimes,Dissatisfied,UPI,No,No,Yes
+East,46-60,No,No,No,Never,Neutral,Credit Card,Yes,Yes,Yes
+North,36-45,No,Yes,Yes,Rarely,Dissatisfied,Debit Card,Yes,No,No
+West,60+,No,Yes,No,Sometimes,Very Satisfied,UPI,No,Yes,Yes
+West,60+,Yes,Yes,Yes,Often,Dissatisfied,Debit Card,No,No,No
+Central,60+,No,No,No,Often,Dissatisfied,Cash,No,Yes,Yes
+South,18-25,Yes,Yes,Yes,Never,Dissatisfied,Credit Card,No,No,Yes
+South,26-35,Yes,No,No,Never,Dissatisfied,UPI,No,Yes,Yes
+South,18-25,No,Yes,Yes,Often,Neutral,Wallet,Yes,Yes,No
+West,18-25,No,Yes,No,Sometimes,Neutral,Credit Card,Yes,No,No
+East,26-35,No,No,Yes,Often,Satisfied,Wallet,Yes,No,No
+West,18-25,No,Yes,No,Sometimes,Very Satisfied,Cash,No,No,No
+North,36-45,No,Yes,No,Rarely,Satisfied,Debit Card,No,No,No
+South,18-25,No,Yes,Yes,Never,Dissatisfied,Credit Card,No,No,No
+West,26-35,No,Yes,Yes,Rarely,Dissatisfied,Debit Card,No,Yes,No
+South,36-45,No,No,No,Often,Satisfied,Wallet,No,No,Yes
+East,26-35,No,Yes,No,Rarely,Very Satisfied,Credit Card,Yes,No,Yes
+West,26-35,Yes,No,No,Rarely,Neutral,Debit Card,No,Yes,No
+Central,18-25,No,Yes,Yes,Sometimes,Satisfied,Credit Card,No,Yes,Yes
+East,18-25,Yes,Yes,No,Sometimes,Very Satisfied,Wallet,Yes,No,No
+South,46-60,Yes,Yes,Yes,Never,Dissatisfied,UPI,No,Yes,No
+East,26-35,No,No,No,Rarely,Very Satisfied,Debit Card,Yes,Yes,No
+East,26-35,Yes,No,No,Often,Dissatisfied,Debit Card,Yes,Yes,No
+West,26-35,Yes,Yes,Yes,Sometimes,Satisfied,Cash,Yes,Yes,No
+West,26-35,No,No,Yes,Often,Very Satisfied,UPI,Yes,Yes,Yes
+South,18-25,No,Yes,No,Never,Neutral,Debit Card,Yes,Yes,No
+East,46-60,Yes,Yes,Yes,Often,Very Satisfied,Wallet,Yes,Yes,No
+East,60+,Yes,Yes,No,Never,Neutral,Cash,Yes,No,No
+South,60+,No,Yes,Yes,Often,Satisfied,Credit Card,Yes,Yes,No
+North,26-35,No,No,No,Rarely,Dissatisfied,Wallet,Yes,Yes,No
+East,36-45,No,Yes,No,Sometimes,Neutral,UPI,No,No,No
+East,18-25,No,Yes,Yes,Sometimes,Dissatisfied,Cash,Yes,Yes,Yes
+North,36-45,Yes,Yes,No,Often,Dissatisfied,Cash,Yes,No,No
+Central,36-45,Yes,No,No,Often,Satisfied,Credit Card,Yes,Yes,Yes
+Central,60+,Yes,No,Yes,Often,Satisfied,Credit Card,Yes,No,No
+South,60+,No,Yes,Yes,Sometimes,Neutral,Cash,Yes,Yes,Yes
+West,60+,Yes,Yes,Yes,Sometimes,Satisfied,UPI,No,Yes,Yes
+North,18-25,Yes,No,No,Often,Dissatisfied,Cash,Yes,Yes,Yes
+Central,60+,No,No,No,Never,Dissatisfied,Credit Card,No,No,No
+North,46-60,Yes,No,No,Rarely,Neutral,Credit Card,Yes,No,No
+North,18-25,Yes,No,Yes,Sometimes,Neutral,UPI,Yes,Yes,Yes
+West,18-25,Yes,Yes,No,Rarely,Neutral,Cash,Yes,Yes,Yes
+North,26-35,Yes,Yes,No,Rarely,Dissatisfied,Debit Card,No,Yes,Yes
+Central,60+,No,No,Yes,Sometimes,Very Satisfied,Wallet,No,No,No
+West,36-45,Yes,Yes,Yes,Never,Dissatisfied,Credit Card,Yes,Yes,No
+North,18-25,Yes,No,No,Often,Very Satisfied,Debit Card,No,No,Yes
+North,46-60,No,Yes,Yes,Often,Neutral,Credit Card,No,No,Yes
+East,60+,Yes,No,Yes,Often,Neutral,Credit Card,No,No,No
+South,18-25,No,Yes,No,Often,Satisfied,Wallet,Yes,No,Yes
+South,26-35,Yes,Yes,Yes,Often,Satisfied,Debit Card,No,No,No
+Central,36-45,No,Yes,No,Often,Satisfied,Wallet,Yes,Yes,No
+West,36-45,No,No,No,Often,Dissatisfied,Cash,Yes,Yes,No
+Central,18-25,No,No,No,Sometimes,Very Satisfied,Cash,Yes,No,Yes
+South,46-60,No,Yes,No,Sometimes,Very Satisfied,Cash,No,No,Yes
+East,46-60,No,Yes,Yes,Never,Satisfied,UPI,No,Yes,Yes
+South,18-25,Yes,Yes,Yes,Sometimes,Very Satisfied,Wallet,Yes,No,Yes
+North,26-35,No,No,Yes,Often,Neutral,Debit Card,Yes,Yes,Yes
+South,18-25,Yes,No,No,Never,Very Satisfied,Credit Card,Yes,No,No
+Central,36-45,Yes,Yes,No,Never,Very Satisfied,Wallet,No,No,Yes
+Central,46-60,Yes,No,Yes,Never,Very Satisfied,Cash,Yes,Yes,Yes
+South,36-45,No,No,Yes,Never,Very Satisfied,Wallet,Yes,Yes,Yes
+Central,36-45,No,Yes,Yes,Often,Satisfied,UPI,No,Yes,Yes
+East,26-35,Yes,Yes,Yes,Sometimes,Satisfied,Credit Card,No,No,Yes
+Central,46-60,Yes,No,No,Never,Very Satisfied,Debit Card,Yes,No,Yes
+South,60+,No,No,No,Never,Dissatisfied,Credit Card,No,Yes,Yes
+North,26-35,Yes,Yes,No,Rarely,Neutral,UPI,Yes,No,No
+East,26-35,No,Yes,No,Never,Neutral,Credit Card,No,Yes,No
+South,26-35,Yes,No,No,Never,Neutral,Credit Card,Yes,No,No
+Central,18-25,No,Yes,Yes,Never,Dissatisfied,UPI,Yes,Yes,No
+East,18-25,Yes,Yes,Yes,Often,Very Satisfied,Wallet,No,No,No
+West,36-45,No,No,No,Never,Very Satisfied,Credit Card,No,Yes,No
+Central,18-25,Yes,No,No,Never,Very Satisfied,Cash,Yes,No,No
+West,18-25,No,Yes,Yes,Sometimes,Neutral,UPI,No,Yes,No
+Central,18-25,No,No,No,Often,Neutral,Cash,No,Yes,No
+West,36-45,Yes,Yes,No,Often,Satisfied,UPI,Yes,Yes,No
+Central,46-60,Yes,No,No,Sometimes,Dissatisfied,Cash,Yes,No,Yes
+North,18-25,Yes,No,No,Never,Very Satisfied,Debit Card,No,Yes,Yes
+South,18-25,Yes,Yes,No,Never,Very Satisfied,Wallet,No,Yes,No
+South,60+,Yes,Yes,No,Rarely,Dissatisfied,Cash,No,No,Yes
+Central,60+,No,No,No,Often,Satisfied,Debit Card,No,No,Yes
+Central,46-60,No,Yes,Yes,Sometimes,Very Satisfied,Debit Card,No,No,No
+South,18-25,Yes,Yes,No,Often,Very Satisfied,UPI,Yes,No,No
+Central,26-35,Yes,No,No,Sometimes,Satisfied,Debit Card,No,No,No
+Central,36-45,No,Yes,Yes,Often,Neutral,UPI,Yes,No,Yes
+Central,60+,Yes,No,No,Sometimes,Dissatisfied,Credit Card,Yes,Yes,No
+West,46-60,Yes,No,Yes,Sometimes,Dissatisfied,Credit Card,Yes,No,No
+East,36-45,Yes,No,Yes,Never,Satisfied,Wallet,Yes,Yes,No
+North,18-25,Yes,Yes,No,Often,Neutral,Cash,Yes,Yes,No
+South,60+,Yes,Yes,Yes,Often,Neutral,UPI,Yes,No,Yes
+West,26-35,No,Yes,Yes,Often,Satisfied,Wallet,No,No,Yes
+North,18-25,Yes,No,No,Often,Neutral,UPI,Yes,Yes,No
+South,46-60,No,Yes,No,Sometimes,Satisfied,Wallet,No,No,Yes
+Central,46-60,No,Yes,No,Never,Neutral,UPI,Yes,No,No
+West,26-35,No,No,Yes,Often,Very Satisfied,Credit Card,No,No,Yes
+North,60+,Yes,Yes,No,Sometimes,Dissatisfied,Wallet,No,Yes,No
+South,26-35,Yes,Yes,No,Often,Satisfied,Credit Card,Yes,No,No
+East,26-35,No,Yes,No,Sometimes,Dissatisfied,Cash,No,Yes,Yes
+West,46-60,No,No,Yes,Rarely,Satisfied,Debit Card,No,Yes,Yes
+Central,26-35,Yes,No,No,Often,Neutral,Cash,Yes,Yes,Yes
+West,46-60,No,Yes,Yes,Often,Neutral,Wallet,Yes,Yes,No
+North,26-35,Yes,Yes,No,Never,Dissatisfied,Wallet,Yes,Yes,Yes
+North,26-35,No,Yes,No,Often,Neutral,Credit Card,No,Yes,Yes
+Central,18-25,Yes,No,No,Sometimes,Satisfied,Debit Card,Yes,No,No
+Central,18-25,No,Yes,No,Never,Dissatisfied,Cash,No,No,No
+South,60+,No,No,No,Often,Dissatisfied,Debit Card,Yes,No,No
+South,46-60,No,No,Yes,Often,Dissatisfied,Wallet,No,Yes,Yes
+Central,18-25,No,Yes,No,Often,Dissatisfied,Cash,Yes,No,No
+West,18-25,No,Yes,Yes,Sometimes,Dissatisfied,Cash,No,No,Yes
+Central,26-35,No,No,No,Sometimes,Satisfied,Credit Card,Yes,Yes,Yes
+East,36-45,Yes,Yes,Yes,Sometimes,Satisfied,UPI,Yes,Yes,Yes
+Central,26-35,No,Yes,No,Often,Neutral,Wallet,Yes,No,No
+West,60+,No,No,Yes,Rarely,Dissatisfied,UPI,Yes,No,No
+West,36-45,Yes,No,Yes,Never,Dissatisfied,Credit Card,No,No,No
+Central,60+,No,No,Yes,Rarely,Neutral,Cash,No,No,Yes
+South,26-35,Yes,Yes,No,Never,Dissatisfied,Wallet,Yes,Yes,Yes
+Central,26-35,Yes,No,Yes,Rarely,Neutral,Debit Card,Yes,No,Yes
+West,26-35,Yes,No,Yes,Never,Dissatisfied,Debit Card,No,No,Yes
+Central,60+,Yes,No,Yes,Sometimes,Satisfied,Credit Card,No,No,Yes
+Central,36-45,Yes,No,Yes,Often,Very Satisfied,Credit Card,Yes,No,No
+East,36-45,Yes,Yes,Yes,Sometimes,Dissatisfied,UPI,Yes,Yes,No
+South,46-60,No,Yes,No,Rarely,Dissatisfied,UPI,No,Yes,Yes
+North,18-25,No,No,Yes,Often,Very Satisfied,Cash,Yes,Yes,No
+North,60+,Yes,No,Yes,Sometimes,Neutral,Credit Card,No,No,No
+Central,36-45,Yes,No,Yes,Never,Neutral,Debit Card,No,Yes,No
+West,60+,No,Yes,Yes,Never,Dissatisfied,Debit Card,Yes,No,No
+North,36-45,No,No,Yes,Sometimes,Neutral,UPI,Yes,Yes,No
+Central,60+,No,Yes,Yes,Rarely,Dissatisfied,Wallet,No,No,No
+South,18-25,Yes,No,Yes,Never,Satisfied,UPI,Yes,No,Yes
+East,60+,Yes,No,Yes,Rarely,Satisfied,Cash,No,Yes,No
+South,60+,Yes,No,Yes,Never,Dissatisfied,Cash,No,No,No
+Central,46-60,No,Yes,Yes,Sometimes,Satisfied,Credit Card,No,Yes,No
+South,60+,No,No,No,Never,Neutral,Cash,Yes,No,No
+Central,18-25,No,Yes,Yes,Never,Satisfied,Cash,No,Yes,Yes
+South,26-35,No,No,No,Rarely,Dissatisfied,Debit Card,No,No,No
+East,18-25,Yes,Yes,Yes,Sometimes,Dissatisfied,Debit Card,No,No,No
+East,60+,Yes,No,Yes,Never,Satisfied,Wallet,No,Yes,Yes
+West,36-45,No,No,Yes,Sometimes,Very Satisfied,UPI,Yes,No,No
+East,46-60,No,No,No,Rarely,Neutral,Cash,No,No,Yes
+Central,26-35,Yes,Yes,Yes,Rarely,Neutral,UPI,Yes,No,Yes
+North,26-35,No,No,Yes,Sometimes,Dissatisfied,Wallet,Yes,Yes,No
+Central,60+,No,Yes,No,Never,Neutral,Debit Card,Yes,Yes,Yes
+East,26-35,No,Yes,No,Often,Neutral,Debit Card,No,Yes,Yes
+South,60+,No,No,No,Never,Satisfied,Debit Card,Yes,No,Yes
+Central,18-25,No,Yes,No,Often,Dissatisfied,Debit Card,Yes,No,Yes
+West,18-25,No,Yes,Yes,Never,Neutral,Debit Card,Yes,Yes,No
+North,46-60,No,No,No,Never,Dissatisfied,Credit Card,No,Yes,Yes
+West,36-45,No,Yes,No,Never,Neutral,Wallet,Yes,No,No
+West,36-45,Yes,No,No,Sometimes,Very Satisfied,Wallet,No,No,Yes
+South,26-35,No,Yes,No,Often,Neutral,Credit Card,No,Yes,Yes
+Central,36-45,Yes,Yes,Yes,Sometimes,Satisfied,Credit Card,No,Yes,Yes
+West,60+,Yes,Yes,Yes,Often,Very Satisfied,Cash,Yes,No,Yes
+South,36-45,No,Yes,No,Sometimes,Very Satisfied,Cash,No,Yes,No
+West,36-45,Yes,No,No,Often,Satisfied,Credit Card,No,No,No
+North,46-60,Yes,No,No,Sometimes,Very Satisfied,Debit Card,Yes,No,No
+East,26-35,No,Yes,No,Never,Neutral,Credit Card,Yes,No,Yes
+East,18-25,Yes,No,No,Rarely,Neutral,Cash,Yes,Yes,Yes
+Central,60+,No,No,No,Rarely,Neutral,Credit Card,No,No,No
+Central,18-25,No,No,Yes,Never,Dissatisfied,Wallet,No,Yes,Yes
+North,18-25,Yes,Yes,No,Sometimes,Dissatisfied,Wallet,No,No,No
+South,26-35,Yes,Yes,No,Often,Satisfied,Credit Card,Yes,Yes,Yes
+Central,26-35,Yes,Yes,No,Often,Satisfied,Wallet,No,No,No
+East,18-25,No,No,No,Never,Very Satisfied,Credit Card,No,No,No
+East,60+,No,Yes,Yes,Sometimes,Very Satisfied,Wallet,No,No,Yes
+Central,36-45,Yes,Yes,No,Sometimes,Satisfied,Debit Card,Yes,Yes,No
+South,36-45,No,No,Yes,Rarely,Dissatisfied,Wallet,No,No,Yes
+South,18-25,Yes,No,Yes,Often,Satisfied,Cash,No,No,No
+West,46-60,Yes,No,No,Rarely,Very Satisfied,Debit Card,Yes,No,Yes
+Central,18-25,Yes,Yes,No,Rarely,Dissatisfied,Credit Card,No,No,Yes
+South,26-35,No,No,Yes,Never,Satisfied,Credit Card,No,No,No
+East,60+,No,Yes,No,Sometimes,Dissatisfied,UPI,No,Yes,No
+South,36-45,No,No,Yes,Never,Dissatisfied,Debit Card,Yes,Yes,No
+South,26-35,No,Yes,No,Rarely,Very Satisfied,Cash,No,No,No
+Central,18-25,Yes,Yes,No,Never,Satisfied,UPI,Yes,No,Yes
+West,18-25,No,Yes,Yes,Never,Dissatisfied,Wallet,Yes,No,Yes
+West,46-60,No,Yes,Yes,Often,Dissatisfied,Wallet,No,No,No
+North,26-35,Yes,Yes,Yes,Never,Dissatisfied,Credit Card,Yes,Yes,Yes
+Central,18-25,No,Yes,Yes,Often,Satisfied,UPI,Yes,Yes,No
+Central,18-25,Yes,Yes,No,Never,Dissatisfied,Credit Card,Yes,No,No
+West,26-35,Yes,No,Yes,Often,Very Satisfied,Cash,No,Yes,Yes
+South,18-25,No,Yes,Yes,Sometimes,Very Satisfied,UPI,Yes,No,Yes
+West,26-35,Yes,Yes,No,Often,Very Satisfied,Wallet,No,Yes,No
+North,18-25,No,Yes,No,Rarely,Satisfied,Cash,Yes,No,Yes
+West,26-35,Yes,No,Yes,Rarely,Very Satisfied,Credit Card,Yes,Yes,No
+South,46-60,Yes,Yes,No,Never,Neutral,Cash,Yes,Yes,No
+North,18-25,Yes,No,No,Never,Very Satisfied,UPI,Yes,No,Yes
+Central,46-60,No,Yes,No,Rarely,Neutral,Debit Card,No,No,No
+West,18-25,Yes,No,Yes,Rarely,Dissatisfied,Cash,No,No,No
+West,36-45,Yes,No,No,Sometimes,Dissatisfied,Credit Card,Yes,No,No
+South,60+,No,Yes,No,Never,Very Satisfied,Credit Card,No,Yes,Yes
+East,60+,No,No,Yes,Often,Dissatisfied,Cash,No,Yes,Yes
+Central,46-60,Yes,No,Yes,Rarely,Neutral,Debit Card,Yes,Yes,No
+Central,46-60,Yes,Yes,Yes,Never,Neutral,Cash,No,No,No
+North,46-60,No,Yes,No,Often,Dissatisfied,Wallet,Yes,Yes,No
+North,36-45,Yes,No,No,Never,Dissatisfied,Wallet,No,No,No
+East,26-35,No,No,No,Rarely,Dissatisfied,Cash,Yes,No,No
+South,60+,No,Yes,Yes,Often,Very Satisfied,Cash,Yes,Yes,No
+West,18-25,No,No,Yes,Rarely,Satisfied,Credit Card,Yes,Yes,Yes
+South,18-25,No,Yes,No,Often,Neutral,UPI,No,No,No
+Central,46-60,No,No,No,Never,Satisfied,Debit Card,No,No,Yes
+West,46-60,Yes,Yes,Yes,Rarely,Dissatisfied,Debit Card,No,No,Yes
+Central,18-25,Yes,No,No,Sometimes,Dissatisfied,Credit Card,No,Yes,Yes
+Central,18-25,Yes,No,Yes,Often,Neutral,Credit Card,Yes,No,Yes
+West,36-45,Yes,Yes,Yes,Often,Satisfied,Credit Card,No,No,No
+South,26-35,No,Yes,Yes,Never,Satisfied,Cash,Yes,Yes,No
+Central,60+,No,Yes,No,Sometimes,Satisfied,Debit Card,Yes,Yes,No
+East,36-45,Yes,No,No,Rarely,Neutral,Credit Card,Yes,No,Yes
+East,36-45,Yes,No,Yes,Rarely,Satisfied,Cash,Yes,No,No
+Central,36-45,Yes,No,No,Rarely,Very Satisfied,Credit Card,Yes,Yes,No
+North,46-60,No,No,Yes,Rarely,Satisfied,Debit Card,No,Yes,Yes
+Central,36-45,No,Yes,No,Rarely,Very Satisfied,Debit Card,No,No,No
+West,18-25,Yes,No,Yes,Sometimes,Dissatisfied,Credit Card,Yes,Yes,Yes
+West,18-25,No,No,Yes,Sometimes,Neutral,UPI,No,No,Yes
+Central,26-35,Yes,Yes,Yes,Sometimes,Neutral,Credit Card,No,No,Yes
+West,18-25,No,No,No,Never,Dissatisfied,Cash,Yes,Yes,No
+North,18-25,No,Yes,Yes,Sometimes,Dissatisfied,Cash,Yes,No,No
+West,36-45,Yes,Yes,No,Often,Satisfied,Debit Card,No,No,No
+North,26-35,Yes,No,No,Sometimes,Neutral,Debit Card,No,Yes,Yes
+Central,60+,Yes,Yes,Yes,Sometimes,Satisfied,Credit Card,No,No,Yes
+Central,18-25,Yes,No,No,Sometimes,Satisfied,UPI,Yes,No,Yes
+Central,36-45,No,Yes,No,Sometimes,Neutral,UPI,No,Yes,No
+West,18-25,No,No,No,Never,Dissatisfied,Wallet,Yes,No,Yes
+Central,46-60,Yes,Yes,No,Sometimes,Dissatisfied,Wallet,No,Yes,Yes
+Central,36-45,No,No,No,Rarely,Satisfied,Wallet,No,No,Yes
+South,36-45,Yes,No,No,Rarely,Dissatisfied,Credit Card,Yes,No,Yes
+South,18-25,No,Yes,No,Often,Dissatisfied,Wallet,No,Yes,No
+North,46-60,Yes,Yes,No,Often,Dissatisfied,Debit Card,Yes,No,No
+East,18-25,No,No,No,Rarely,Satisfied,Credit Card,Yes,No,Yes
+West,46-60,Yes,Yes,Yes,Rarely,Dissatisfied,Wallet,Yes,No,No
+East,60+,No,Yes,No,Sometimes,Satisfied,Cash,No,Yes,Yes
+Central,18-25,Yes,No,No,Rarely,Neutral,UPI,Yes,Yes,Yes
+Central,60+,Yes,Yes,Yes,Rarely,Neutral,UPI,Yes,Yes,Yes
+West,26-35,No,Yes,Yes,Never,Very Satisfied,Debit Card,No,Yes,Yes
+South,36-45,No,Yes,No,Sometimes,Dissatisfied,UPI,Yes,No,No
+Central,46-60,No,Yes,Yes,Never,Neutral,Wallet,No,No,Yes
+South,60+,Yes,No,Yes,Often,Very Satisfied,Cash,Yes,No,No
+North,60+,No,No,No,Rarely,Very Satisfied,UPI,No,Yes,No
+South,18-25,Yes,Yes,Yes,Often,Dissatisfied,Cash,Yes,Yes,Yes
+Central,18-25,Yes,No,Yes,Rarely,Satisfied,Debit Card,No,No,No
+West,26-35,No,Yes,Yes,Never,Neutral,UPI,Yes,Yes,Yes
+West,18-25,No,No,Yes,Rarely,Very Satisfied,Debit Card,Yes,No,No
+East,26-35,No,No,No,Sometimes,Dissatisfied,Cash,Yes,No,Yes
+South,18-25,Yes,Yes,No,Never,Dissatisfied,UPI,No,Yes,Yes
+West,46-60,Yes,Yes,Yes,Never,Dissatisfied,Wallet,No,No,Yes
+South,26-35,Yes,Yes,Yes,Often,Dissatisfied,Wallet,Yes,Yes,Yes
+Central,46-60,No,No,Yes,Often,Neutral,UPI,No,No,No
+East,60+,Yes,Yes,Yes,Never,Neutral,UPI,Yes,Yes,No
+North,18-25,Yes,No,No,Never,Very Satisfied,Debit Card,Yes,Yes,Yes
+West,46-60,No,Yes,Yes,Often,Very Satisfied,Wallet,No,Yes,Yes
+West,46-60,No,No,Yes,Sometimes,Dissatisfied,Debit Card,No,No,Yes
+South,18-25,Yes,Yes,No,Rarely,Dissatisfied,UPI,No,Yes,No
+North,60+,Yes,Yes,No,Sometimes,Satisfied,UPI,No,Yes,No
+East,46-60,Yes,Yes,No,Often,Satisfied,UPI,Yes,No,No
+South,18-25,Yes,Yes,Yes,Often,Satisfied,Credit Card,No,Yes,No
+South,26-35,No,Yes,No,Often,Very Satisfied,Wallet,No,Yes,No
+Central,18-25,No,Yes,Yes,Rarely,Satisfied,Debit Card,No,Yes,No
+North,18-25,No,Yes,Yes,Rarely,Very Satisfied,UPI,Yes,Yes,Yes
+West,36-45,No,No,Yes,Sometimes,Dissatisfied,Cash,No,Yes,Yes
+East,60+,No,Yes,Yes,Often,Dissatisfied,Debit Card,Yes,Yes,No
+Central,46-60,Yes,Yes,Yes,Rarely,Dissatisfied,Wallet,No,Yes,Yes
+Central,18-25,Yes,No,No,Never,Very Satisfied,Credit Card,Yes,Yes,Yes
+East,26-35,No,Yes,Yes,Never,Neutral,Cash,No,Yes,Yes
+Central,60+,Yes,Yes,Yes,Rarely,Satisfied,Wallet,Yes,No,Yes
+South,26-35,Yes,Yes,Yes,Often,Neutral,UPI,Yes,No,Yes
+South,46-60,Yes,No,Yes,Often,Satisfied,Debit Card,No,No,Yes
+South,36-45,No,Yes,Yes,Often,Neutral,Debit Card,Yes,No,Yes
+East,46-60,No,No,Yes,Rarely,Dissatisfied,Credit Card,No,No,Yes
+Central,18-25,No,Yes,Yes,Never,Very Satisfied,UPI,No,Yes,No
+East,60+,Yes,No,Yes,Rarely,Satisfied,Credit Card,Yes,No,Yes
+South,26-35,No,No,Yes,Never,Neutral,Wallet,No,No,No
+South,18-25,Yes,No,No,Sometimes,Very Satisfied,Wallet,No,Yes,No
+Central,60+,No,No,No,Never,Neutral,Wallet,Yes,No,Yes
+South,60+,No,No,Yes,Sometimes,Very Satisfied,Debit Card,Yes,No,No
+Central,36-45,Yes,Yes,Yes,Sometimes,Dissatisfied,UPI,No,No,Yes
+West,26-35,Yes,Yes,Yes,Never,Dissatisfied,UPI,Yes,Yes,Yes
+South,26-35,Yes,No,No,Sometimes,Very Satisfied,UPI,Yes,Yes,Yes
+Central,18-25,No,No,No,Never,Satisfied,Credit Card,Yes,Yes,No
+South,60+,No,No,Yes,Sometimes,Very Satisfied,Debit Card,No,Yes,Yes
+East,26-35,No,No,No,Often,Dissatisfied,Credit Card,No,No,Yes
+South,46-60,No,No,Yes,Never,Very Satisfied,UPI,Yes,Yes,No
+Central,18-25,Yes,No,No,Sometimes,Dissatisfied,UPI,Yes,No,No
+Central,18-25,Yes,No,Yes,Often,Neutral,Credit Card,Yes,No,No
+South,36-45,No,No,No,Often,Dissatisfied,Wallet,No,No,No
+Central,46-60,Yes,No,Yes,Sometimes,Very Satisfied,Credit Card,Yes,No,No
+North,18-25,No,Yes,Yes,Never,Satisfied,Wallet,Yes,Yes,Yes
+East,18-25,Yes,No,Yes,Sometimes,Satisfied,Cash,Yes,Yes,No
+South,46-60,No,Yes,Yes,Rarely,Very Satisfied,UPI,No,Yes,Yes
+North,60+,Yes,No,No,Sometimes,Dissatisfied,UPI,No,Yes,Yes
+East,60+,No,No,Yes,Never,Satisfied,UPI,Yes,No,Yes
+North,36-45,No,Yes,Yes,Rarely,Dissatisfied,Debit Card,No,No,Yes
+West,18-25,No,No,No,Sometimes,Dissatisfied,Debit Card,No,No,No
+East,60+,No,No,Yes,Rarely,Very Satisfied,Cash,No,Yes,Yes
+West,26-35,Yes,Yes,No,Sometimes,Satisfied,Wallet,No,No,No
+East,18-25,No,No,No,Sometimes,Very Satisfied,Cash,Yes,No,Yes
+East,36-45,No,Yes,Yes,Never,Neutral,Cash,Yes,No,No
+Central,46-60,No,No,Yes,Never,Satisfied,Cash,No,No,No
+East,26-35,Yes,No,No,Never,Satisfied,Debit Card,Yes,No,No
+North,46-60,Yes,Yes,Yes,Rarely,Satisfied,Cash,Yes,No,Yes
+North,18-25,Yes,Yes,Yes,Often,Very Satisfied,Debit Card,No,Yes,No
+East,60+,No,Yes,Yes,Often,Dissatisfied,Cash,Yes,Yes,Yes
+North,26-35,No,No,Yes,Rarely,Very Satisfied,Debit Card,No,Yes,No
+East,18-25,Yes,Yes,Yes,Sometimes,Neutral,UPI,No,Yes,No
+Central,36-45,No,Yes,Yes,Sometimes,Very Satisfied,Cash,No,Yes,No
+South,36-45,Yes,Yes,Yes,Never,Neutral,UPI,No,Yes,No
+East,46-60,Yes,No,No,Often,Neutral,Debit Card,No,Yes,Yes
+South,46-60,Yes,No,Yes,Sometimes,Neutral,Cash,Yes,No,No
+West,36-45,Yes,Yes,No,Never,Satisfied,Credit Card,Yes,No,Yes
+North,60+,No,Yes,Yes,Often,Neutral,Credit Card,Yes,No,No
+North,26-35,No,No,Yes,Never,Very Satisfied,Wallet,No,Yes,Yes
+West,60+,Yes,No,Yes,Sometimes,Very Satisfied,Debit Card,Yes,Yes,No
+Central,26-35,No,Yes,Yes,Often,Dissatisfied,Credit Card,No,No,Yes
+West,18-25,Yes,No,Yes,Sometimes,Neutral,Debit Card,No,No,No
+West,46-60,Yes,No,No,Sometimes,Very Satisfied,Wallet,No,Yes,No
+East,26-35,No,No,No,Sometimes,Satisfied,Cash,No,No,Yes
+South,26-35,No,No,No,Sometimes,Neutral,UPI,Yes,No,Yes
+East,26-35,No,No,No,Sometimes,Neutral,Credit Card,Yes,Yes,Yes
+West,18-25,Yes,No,Yes,Often,Very Satisfied,Credit Card,Yes,No,No
+North,36-45,No,No,Yes,Often,Neutral,Debit Card,Yes,Yes,No
+North,46-60,Yes,No,Yes,Often,Very Satisfied,Wallet,Yes,No,Yes
+North,36-45,No,No,Yes,Often,Neutral,Credit Card,No,No,Yes
+East,36-45,Yes,No,Yes,Rarely,Very Satisfied,Cash,No,Yes,No
+Central,36-45,Yes,Yes,Yes,Rarely,Satisfied,Credit Card,Yes,No,No
+East,46-60,Yes,No,Yes,Sometimes,Dissatisfied,Wallet,Yes,No,No
+South,36-45,No,Yes,No,Sometimes,Neutral,Cash,Yes,No,Yes
+East,18-25,Yes,Yes,No,Rarely,Satisfied,UPI,Yes,Yes,Yes
+Central,60+,No,Yes,Yes,Sometimes,Neutral,Credit Card,Yes,No,No
+West,60+,No,No,Yes,Never,Very Satisfied,Debit Card,Yes,Yes,No
+Central,18-25,No,No,Yes,Often,Satisfied,Credit Card,No,No,No
+West,36-45,No,Yes,No,Often,Dissatisfied,Credit Card,Yes,Yes,Yes
+East,60+,Yes,No,No,Sometimes,Dissatisfied,UPI,Yes,No,Yes
+North,36-45,Yes,No,Yes,Often,Neutral,Debit Card,Yes,Yes,Yes
+West,18-25,No,Yes,Yes,Rarely,Neutral,UPI,Yes,No,No
+Central,60+,No,No,Yes,Rarely,Very Satisfied,Debit Card,No,No,Yes
+South,18-25,Yes,Yes,Yes,Never,Neutral,Credit Card,No,No,No
+East,46-60,No,No,Yes,Rarely,Dissatisfied,Wallet,Yes,No,Yes
+North,46-60,Yes,Yes,No,Never,Neutral,Wallet,Yes,Yes,Yes
+North,46-60,Yes,Yes,Yes,Sometimes,Dissatisfied,Wallet,Yes,Yes,No
+East,18-25,No,No,Yes,Rarely,Satisfied,Cash,No,No,No
+East,46-60,Yes,Yes,Yes,Sometimes,Satisfied,Cash,Yes,Yes,Yes
+Central,18-25,Yes,No,No,Sometimes,Dissatisfied,Debit Card,Yes,No,Yes
+South,26-35,Yes,No,No,Sometimes,Neutral,Credit Card,Yes,Yes,Yes
+South,36-45,Yes,No,No,Often,Neutral,Credit Card,No,Yes,No
+Central,46-60,Yes,Yes,Yes,Sometimes,Neutral,UPI,No,No,Yes
+North,18-25,No,Yes,Yes,Rarely,Very Satisfied,Debit Card,No,No,No
+South,46-60,No,No,Yes,Sometimes,Very Satisfied,Wallet,No,No,Yes
+Central,36-45,Yes,No,Yes,Rarely,Neutral,Debit Card,Yes,No,Yes
+South,36-45,No,Yes,No,Rarely,Dissatisfied,Credit Card,Yes,Yes,Yes
+East,36-45,No,No,No,Rarely,Neutral,UPI,Yes,Yes,No
+East,18-25,No,Yes,No,Sometimes,Satisfied,UPI,Yes,No,No
+East,60+,Yes,Yes,No,Sometimes,Dissatisfied,UPI,Yes,No,Yes
+South,60+,Yes,Yes,No,Often,Dissatisfied,Debit Card,No,Yes,No
+South,46-60,Yes,No,Yes,Never,Dissatisfied,UPI,No,Yes,Yes
+Central,46-60,Yes,Yes,No,Often,Very Satisfied,Debit Card,No,Yes,No
+East,26-35,Yes,Yes,No,Never,Neutral,Credit Card,Yes,No,Yes
+Central,36-45,No,No,No,Never,Dissatisfied,Cash,No,No,Yes
+South,46-60,Yes,Yes,Yes,Never,Dissatisfied,Debit Card,No,Yes,No
+East,60+,Yes,Yes,No,Often,Neutral,Cash,Yes,No,Yes
+East,36-45,Yes,Yes,Yes,Never,Dissatisfied,Credit Card,Yes,Yes,No
+Central,46-60,No,No,No,Never,Neutral,Wallet,Yes,Yes,No
+Central,46-60,Yes,Yes,No,Often,Dissatisfied,Cash,No,No,No
+Central,46-60,No,No,Yes,Sometimes,Very Satisfied,Wallet,Yes,Yes,No
+West,60+,Yes,No,Yes,Never,Neutral,Cash,Yes,Yes,No
+East,46-60,Yes,No,Yes,Never,Dissatisfied,Cash,No,No,Yes
+Central,46-60,No,Yes,Yes,Sometimes,Very Satisfied,UPI,Yes,Yes,No
+North,60+,No,Yes,No,Often,Dissatisfied,UPI,Yes,No,Yes
+South,26-35,No,Yes,Yes,Never,Very Satisfied,UPI,No,Yes,No
+East,36-45,No,No,Yes,Sometimes,Satisfied,Cash,No,No,No
+Central,60+,No,Yes,No,Sometimes,Very Satisfied,Debit Card,No,No,Yes
+Central,60+,No,Yes,No,Sometimes,Satisfied,Credit Card,No,Yes,Yes
+South,46-60,No,Yes,No,Never,Dissatisfied,UPI,No,No,No
+West,46-60,No,Yes,Yes,Often,Neutral,Wallet,Yes,No,No
+North,46-60,No,Yes,Yes,Sometimes,Neutral,Cash,No,No,No
+Central,18-25,No,No,No,Sometimes,Very Satisfied,Cash,No,No,No
+South,46-60,No,No,No,Never,Satisfied,Credit Card,No,No,No
+East,18-25,Yes,No,No,Often,Dissatisfied,Credit Card,No,No,Yes
+South,18-25,Yes,No,Yes,Never,Very Satisfied,Credit Card,No,Yes,No
+Central,18-25,Yes,No,No,Rarely,Dissatisfied,Wallet,No,Yes,Yes
+North,36-45,Yes,No,Yes,Sometimes,Dissatisfied,Cash,Yes,No,No
+North,46-60,Yes,Yes,No,Often,Neutral,UPI,No,No,Yes
+West,26-35,No,No,No,Rarely,Neutral,Cash,Yes,Yes,No
+South,46-60,Yes,Yes,Yes,Never,Satisfied,Credit Card,No,No,No
+Central,46-60,Yes,No,No,Rarely,Very Satisfied,Debit Card,Yes,Yes,Yes
+South,18-25,Yes,Yes,Yes,Rarely,Satisfied,Cash,Yes,Yes,No
+North,46-60,No,No,No,Sometimes,Dissatisfied,Credit Card,Yes,Yes,No
+East,18-25,No,Yes,No,Never,Neutral,Cash,Yes,No,No
+East,46-60,Yes,Yes,No,Sometimes,Dissatisfied,Credit Card,Yes,No,Yes
+North,60+,Yes,Yes,No,Often,Satisfied,Wallet,No,No,Yes
+East,26-35,No,Yes,No,Often,Satisfied,Credit Card,No,No,Yes
+West,18-25,No,No,Yes,Rarely,Neutral,Wallet,No,Yes,Yes
+South,46-60,Yes,No,Yes,Sometimes,Dissatisfied,Debit Card,No,Yes,No
+North,26-35,No,No,No,Never,Satisfied,Debit Card,No,Yes,No
+North,26-35,No,Yes,No,Rarely,Neutral,Credit Card,No,No,No
+Central,18-25,Yes,Yes,No,Rarely,Very Satisfied,UPI,No,No,No
+South,36-45,Yes,No,Yes,Rarely,Neutral,Wallet,Yes,No,Yes
+North,26-35,No,No,No,Sometimes,Dissatisfied,Cash,No,No,Yes
+Central,36-45,Yes,No,No,Sometimes,Very Satisfied,UPI,No,No,Yes
+South,46-60,Yes,Yes,No,Rarely,Neutral,Credit Card,Yes,No,Yes
+South,26-35,No,No,No,Rarely,Dissatisfied,Debit Card,Yes,No,No
+North,36-45,No,Yes,Yes,Often,Very Satisfied,Debit Card,No,Yes,Yes
+East,36-45,Yes,Yes,Yes,Rarely,Neutral,Wallet,No,Yes,No
+Central,46-60,No,Yes,Yes,Often,Satisfied,Wallet,No,Yes,No
+West,60+,Yes,Yes,Yes,Rarely,Dissatisfied,Debit Card,Yes,Yes,Yes
+South,18-25,Yes,Yes,No,Never,Dissatisfied,Cash,No,No,No
+South,18-25,No,No,Yes,Sometimes,Satisfied,Debit Card,Yes,No,Yes
+Central,26-35,No,No,No,Sometimes,Satisfied,Cash,No,No,Yes
+East,36-45,Yes,No,Yes,Often,Very Satisfied,Cash,No,No,No
+Central,18-25,No,Yes,Yes,Never,Dissatisfied,Credit Card,Yes,No,Yes
+South,46-60,No,Yes,No,Never,Neutral,UPI,Yes,No,Yes
+West,26-35,No,Yes,Yes,Rarely,Dissatisfied,Debit Card,No,Yes,Yes
+North,18-25,No,No,No,Sometimes,Very Satisfied,Credit Card,Yes,No,Yes
+Central,18-25,No,Yes,No,Sometimes,Dissatisfied,Cash,No,Yes,Yes
+West,36-45,No,Yes,No,Rarely,Satisfied,Wallet,No,No,Yes
+North,60+,No,Yes,No,Rarely,Dissatisfied,Credit Card,No,No,No
+North,60+,Yes,Yes,No,Sometimes,Dissatisfied,Cash,No,Yes,Yes
+East,46-60,Yes,No,No,Often,Neutral,Credit Card,Yes,Yes,No
+South,60+,No,No,No,Often,Neutral,UPI,No,No,No
+West,46-60,Yes,No,Yes,Often,Very Satisfied,UPI,No,No,Yes
+North,26-35,Yes,Yes,No,Often,Dissatisfied,UPI,No,Yes,Yes
+South,36-45,No,Yes,Yes,Often,Satisfied,Debit Card,No,No,Yes
+Central,26-35,Yes,No,Yes,Sometimes,Satisfied,UPI,No,Yes,Yes
+North,26-35,No,Yes,Yes,Rarely,Dissatisfied,Wallet,Yes,Yes,No
+West,46-60,No,Yes,Yes,Never,Very Satisfied,Wallet,Yes,No,Yes
+South,46-60,No,No,No,Sometimes,Neutral,Cash,No,No,Yes
+Central,60+,No,No,Yes,Often,Satisfied,Credit Card,Yes,No,No
+Central,46-60,Yes,No,No,Rarely,Dissatisfied,Cash,No,Yes,Yes
+East,18-25,Yes,Yes,No,Sometimes,Very Satisfied,Debit Card,No,No,No
+Central,36-45,No,Yes,No,Sometimes,Satisfied,UPI,Yes,No,Yes
+South,26-35,Yes,Yes,Yes,Rarely,Satisfied,UPI,No,Yes,No
+Central,60+,No,No,Yes,Often,Satisfied,Cash,No,Yes,No
+East,18-25,No,Yes,No,Never,Very Satisfied,Cash,Yes,No,Yes
+North,36-45,Yes,Yes,No,Never,Neutral,Wallet,No,No,No
+West,18-25,Yes,No,No,Often,Satisfied,Wallet,No,Yes,No
+South,26-35,No,No,No,Sometimes,Neutral,Cash,No,Yes,No
+North,18-25,No,No,No,Often,Satisfied,Cash,No,No,No
+South,18-25,No,No,Yes,Rarely,Very Satisfied,Cash,Yes,No,No
+North,46-60,Yes,Yes,Yes,Sometimes,Satisfied,Wallet,Yes,No,No
+East,60+,No,Yes,Yes,Never,Satisfied,UPI,Yes,Yes,No
+North,26-35,Yes,Yes,Yes,Rarely,Neutral,Debit Card,No,Yes,No
+South,26-35,Yes,Yes,Yes,Rarely,Dissatisfied,Debit Card,Yes,Yes,Yes
+North,18-25,Yes,No,No,Rarely,Very Satisfied,Credit Card,No,Yes,Yes
+East,46-60,No,Yes,Yes,Never,Neutral,Cash,Yes,No,No
+Central,36-45,No,No,Yes,Sometimes,Neutral,Wallet,Yes,Yes,Yes
+East,36-45,No,Yes,No,Never,Dissatisfied,Debit Card,No,Yes,No
+North,60+,Yes,Yes,Yes,Sometimes,Neutral,Cash,Yes,Yes,Yes
+Central,26-35,Yes,Yes,Yes,Often,Neutral,UPI,Yes,No,Yes
+West,26-35,No,No,No,Sometimes,Dissatisfied,Wallet,Yes,Yes,Yes
+North,60+,Yes,Yes,No,Sometimes,Very Satisfied,Cash,No,Yes,Yes
+North,36-45,Yes,No,Yes,Rarely,Very Satisfied,Debit Card,No,Yes,Yes
+Central,36-45,No,No,Yes,Often,Dissatisfied,Wallet,Yes,No,No
+Central,18-25,Yes,Yes,No,Sometimes,Very Satisfied,Credit Card,No,No,Yes
+South,46-60,Yes,Yes,No,Rarely,Very Satisfied,Debit Card,No,Yes,Yes
+Central,18-25,No,Yes,No,Never,Very Satisfied,Debit Card,No,Yes,No
+South,46-60,No,No,Yes,Never,Satisfied,Debit Card,Yes,Yes,Yes
+South,26-35,Yes,Yes,Yes,Sometimes,Satisfied,UPI,Yes,Yes,Yes
+East,18-25,Yes,Yes,No,Never,Dissatisfied,Credit Card,Yes,Yes,Yes
+East,60+,No,No,No,Never,Very Satisfied,Credit Card,Yes,Yes,No
+West,60+,Yes,No,No,Often,Very Satisfied,Cash,Yes,No,No
+Central,18-25,No,Yes,No,Sometimes,Very Satisfied,Debit Card,Yes,Yes,No
+East,46-60,Yes,No,No,Sometimes,Neutral,Wallet,Yes,No,No
+West,36-45,Yes,No,Yes,Often,Satisfied,UPI,No,Yes,Yes
+East,36-45,No,Yes,No,Sometimes,Satisfied,Cash,Yes,Yes,Yes
+North,18-25,Yes,Yes,No,Sometimes,Dissatisfied,Cash,Yes,Yes,No
+South,26-35,Yes,No,No,Sometimes,Satisfied,Wallet,No,Yes,Yes
+East,46-60,Yes,Yes,No,Often,Dissatisfied,Wallet,No,No,Yes
+South,36-45,No,No,Yes,Sometimes,Neutral,Debit Card,No,No,No
+West,36-45,Yes,No,Yes,Never,Very Satisfied,Credit Card,Yes,Yes,Yes
+North,26-35,Yes,No,No,Rarely,Satisfied,Cash,Yes,No,No
+South,18-25,Yes,No,No,Sometimes,Neutral,Cash,Yes,No,Yes
+East,60+,No,Yes,Yes,Sometimes,Neutral,Credit Card,No,No,No
+South,60+,No,Yes,Yes,Often,Very Satisfied,Cash,No,No,Yes
+South,46-60,Yes,No,Yes,Sometimes,Neutral,Cash,Yes,No,No
+West,18-25,No,No,Yes,Sometimes,Satisfied,Wallet,Yes,No,Yes
+West,46-60,Yes,No,No,Often,Satisfied,Credit Card,No,Yes,No
+South,46-60,Yes,No,Yes,Often,Dissatisfied,Wallet,No,Yes,No
+West,18-25,Yes,No,No,Never,Neutral,Debit Card,Yes,Yes,No
+West,36-45,Yes,No,Yes,Rarely,Very Satisfied,UPI,Yes,No,No
+East,18-25,No,No,Yes,Often,Neutral,Credit Card,No,Yes,Yes
+East,46-60,No,Yes,Yes,Sometimes,Dissatisfied,Cash,No,Yes,Yes
+East,46-60,Yes,Yes,No,Rarely,Satisfied,Debit Card,No,Yes,Yes
+North,18-25,No,Yes,No,Rarely,Dissatisfied,Credit Card,No,Yes,Yes
+Central,46-60,No,No,No,Rarely,Very Satisfied,UPI,No,Yes,Yes
+Central,18-25,No,No,No,Sometimes,Dissatisfied,Wallet,No,No,Yes
+North,26-35,No,Yes,No,Rarely,Satisfied,Credit Card,Yes,No,No
+West,26-35,No,No,No,Often,Neutral,UPI,Yes,No,No
+South,36-45,Yes,No,No,Never,Dissatisfied,UPI,Yes,No,Yes
+North,26-35,No,No,Yes,Often,Satisfied,UPI,No,No,No
+Central,60+,Yes,No,No,Often,Dissatisfied,Credit Card,Yes,No,No
+Central,60+,Yes,Yes,No,Often,Satisfied,UPI,No,No,No
+South,36-45,No,No,Yes,Rarely,Satisfied,Debit Card,No,Yes,Yes
+North,18-25,Yes,Yes,Yes,Sometimes,Dissatisfied,Cash,Yes,Yes,No
+West,60+,Yes,Yes,Yes,Never,Neutral,Cash,No,Yes,No
+Central,26-35,Yes,No,No,Never,Dissatisfied,Debit Card,No,Yes,Yes
+South,36-45,No,No,No,Never,Dissatisfied,Wallet,No,Yes,No
+West,36-45,No,No,No,Sometimes,Satisfied,Debit Card,Yes,No,Yes
+Central,36-45,No,Yes,No,Often,Satisfied,Debit Card,No,Yes,No
+Central,60+,Yes,No,No,Never,Satisfied,Debit Card,Yes,Yes,Yes
+East,46-60,Yes,Yes,No,Rarely,Dissatisfied,Debit Card,No,Yes,No
+North,36-45,No,Yes,Yes,Rarely,Satisfied,Wallet,Yes,Yes,Yes
+Central,60+,No,Yes,Yes,Often,Very Satisfied,Credit Card,Yes,Yes,No
+South,46-60,No,Yes,Yes,Sometimes,Very Satisfied,Debit Card,Yes,No,No
+East,36-45,No,No,Yes,Never,Very Satisfied,Wallet,No,No,Yes
+East,36-45,Yes,Yes,No,Sometimes,Dissatisfied,Wallet,No,Yes,No
+Central,46-60,No,No,No,Sometimes,Dissatisfied,Wallet,No,Yes,No
+Central,18-25,No,No,Yes,Rarely,Dissatisfied,Debit Card,Yes,No,Yes
+South,60+,Yes,Yes,No,Sometimes,Neutral,Debit Card,No,No,Yes
+North,60+,Yes,No,Yes,Often,Satisfied,Debit Card,No,Yes,No
+East,26-35,No,Yes,No,Often,Very Satisfied,UPI,No,No,Yes
+West,26-35,No,Yes,Yes,Sometimes,Satisfied,Wallet,No,Yes,No
+Central,46-60,No,No,No,Rarely,Neutral,Credit Card,Yes,Yes,No
+East,26-35,Yes,No,Yes,Rarely,Dissatisfied,UPI,Yes,Yes,Yes
+West,26-35,Yes,Yes,No,Often,Satisfied,Cash,Yes,Yes,Yes
+North,36-45,No,Yes,No,Often,Dissatisfied,Debit Card,Yes,Yes,Yes
+West,46-60,Yes,Yes,No,Never,Satisfied,Credit Card,Yes,Yes,No
+North,26-35,Yes,No,Yes,Rarely,Satisfied,Credit Card,No,Yes,No
+West,26-35,No,Yes,Yes,Often,Dissatisfied,Credit Card,No,No,Yes
+Central,60+,Yes,No,No,Rarely,Neutral,Cash,Yes,No,No
+Central,18-25,No,No,No,Often,Dissatisfied,Debit Card,No,No,No
+South,18-25,Yes,Yes,No,Often,Neutral,Wallet,Yes,Yes,No
+Central,46-60,Yes,Yes,Yes,Often,Satisfied,Credit Card,Yes,No,Yes
+South,46-60,Yes,Yes,No,Never,Very Satisfied,UPI,Yes,No,Yes
+Central,36-45,No,Yes,Yes,Sometimes,Dissatisfied,Credit Card,No,Yes,Yes
+West,60+,No,No,Yes,Sometimes,Very Satisfied,Debit Card,No,Yes,Yes
+Central,18-25,No,Yes,Yes,Rarely,Neutral,Cash,No,Yes,Yes
+East,18-25,No,No,Yes,Never,Neutral,Credit Card,Yes,Yes,No
+Central,46-60,No,Yes,Yes,Rarely,Dissatisfied,Debit Card,No,No,No
+East,60+,Yes,Yes,Yes,Often,Very Satisfied,UPI,Yes,No,No
+West,36-45,Yes,Yes,Yes,Never,Very Satisfied,Wallet,Yes,Yes,Yes
+East,18-25,Yes,Yes,No,Rarely,Satisfied,Debit Card,No,No,No
+Central,26-35,Yes,No,Yes,Never,Dissatisfied,Cash,No,No,No
+South,60+,Yes,Yes,Yes,Rarely,Dissatisfied,Wallet,Yes,No,No
+South,36-45,No,No,Yes,Never,Satisfied,Cash,Yes,No,No
+East,46-60,No,Yes,No,Often,Dissatisfied,Wallet,No,Yes,Yes
+West,26-35,No,Yes,Yes,Sometimes,Dissatisfied,Credit Card,No,Yes,No
+South,18-25,Yes,Yes,Yes,Never,Very Satisfied,Cash,No,Yes,No
+North,36-45,No,Yes,No,Rarely,Satisfied,Debit Card,Yes,Yes,No
+North,26-35,No,No,Yes,Never,Satisfied,Cash,Yes,Yes,No
+West,18-25,Yes,No,Yes,Sometimes,Satisfied,Debit Card,No,No,Yes
+North,36-45,Yes,No,Yes,Never,Dissatisfied,UPI,Yes,No,No
+South,46-60,No,Yes,No,Sometimes,Satisfied,Debit Card,No,No,No
+East,46-60,No,Yes,Yes,Often,Dissatisfied,Cash,Yes,No,No
+South,26-35,Yes,Yes,No,Never,Dissatisfied,Wallet,No,Yes,Yes
+North,18-25,Yes,No,Yes,Never,Neutral,Wallet,Yes,Yes,Yes
+Central,18-25,No,Yes,No,Rarely,Satisfied,Wallet,Yes,Yes,Yes
+South,18-25,No,Yes,Yes,Often,Satisfied,Credit Card,Yes,Yes,No
+North,36-45,No,Yes,Yes,Never,Neutral,Cash,No,Yes,No
+Central,26-35,No,Yes,No,Never,Very Satisfied,Wallet,Yes,Yes,Yes
+South,60+,Yes,Yes,Yes,Rarely,Satisfied,Wallet,No,No,Yes
+North,46-60,No,No,Yes,Sometimes,Satisfied,Cash,Yes,Yes,No
+South,36-45,Yes,No,No,Often,Neutral,Cash,No,No,No
+Central,18-25,Yes,Yes,Yes,Sometimes,Neutral,Cash,No,No,No
+South,60+,No,No,Yes,Sometimes,Satisfied,UPI,Yes,Yes,Yes
+South,36-45,Yes,Yes,Yes,Never,Very Satisfied,Wallet,Yes,No,Yes
+West,26-35,No,Yes,No,Never,Neutral,UPI,Yes,No,No
+Central,36-45,Yes,Yes,No,Never,Neutral,Wallet,Yes,Yes,Yes
+South,26-35,Yes,Yes,Yes,Never,Neutral,Cash,Yes,No,No
+East,18-25,Yes,No,Yes,Often,Very Satisfied,Credit Card,No,No,No
+East,26-35,No,No,Yes,Rarely,Very Satisfied,UPI,No,Yes,No
+Central,46-60,Yes,No,Yes,Rarely,Dissatisfied,Wallet,Yes,Yes,No
+North,36-45,Yes,Yes,Yes,Often,Satisfied,Debit Card,No,No,No
+West,36-45,No,Yes,No,Rarely,Neutral,Credit Card,Yes,Yes,Yes
+North,18-25,No,No,No,Often,Neutral,Debit Card,Yes,Yes,Yes
+Central,60+,Yes,No,Yes,Never,Satisfied,Debit Card,No,Yes,No
+West,18-25,Yes,Yes,Yes,Often,Satisfied,Cash,No,No,No
+North,26-35,Yes,No,No,Rarely,Very Satisfied,Debit Card,Yes,No,No
+North,18-25,No,No,Yes,Rarely,Neutral,UPI,Yes,Yes,Yes
+North,18-25,No,No,No,Often,Dissatisfied,Cash,Yes,Yes,No
+East,18-25,No,No,Yes,Never,Satisfied,Credit Card,Yes,Yes,Yes
+Central,26-35,No,Yes,Yes,Rarely,Very Satisfied,UPI,No,Yes,Yes
+East,36-45,No,No,No,Often,Satisfied,Cash,Yes,Yes,Yes
+Central,60+,No,No,No,Sometimes,Neutral,Credit Card,Yes,No,No
+South,36-45,No,No,Yes,Never,Very Satisfied,Cash,No,Yes,Yes
+East,46-60,No,No,No,Sometimes,Very Satisfied,Cash,No,No,Yes
+Central,46-60,No,No,No,Sometimes,Very Satisfied,UPI,Yes,No,No
+East,46-60,No,No,Yes,Often,Dissatisfied,Cash,No,No,Yes
+South,18-25,Yes,Yes,Yes,Rarely,Very Satisfied,Credit Card,Yes,Yes,Yes
+West,46-60,No,Yes,Yes,Sometimes,Neutral,UPI,Yes,Yes,Yes
+South,36-45,No,Yes,Yes,Sometimes,Very Satisfied,UPI,Yes,No,Yes
+North,26-35,No,No,Yes,Rarely,Dissatisfied,UPI,No,No,Yes
+East,60+,No,No,Yes,Never,Neutral,Credit Card,Yes,No,Yes
+North,18-25,Yes,Yes,Yes,Never,Dissatisfied,Wallet,No,No,No
+North,36-45,No,No,Yes,Often,Satisfied,UPI,No,Yes,No
+East,26-35,Yes,No,No,Often,Neutral,Debit Card,Yes,No,No
+East,60+,No,No,No,Often,Satisfied,Cash,Yes,Yes,Yes
+West,18-25,Yes,No,Yes,Often,Neutral,Credit Card,Yes,No,Yes
+Central,18-25,No,No,No,Sometimes,Very Satisfied,UPI,Yes,No,Yes
+South,18-25,No,Yes,No,Never,Satisfied,Wallet,Yes,Yes,Yes
+East,36-45,No,Yes,Yes,Rarely,Satisfied,UPI,Yes,Yes,Yes
+North,36-45,No,Yes,Yes,Sometimes,Neutral,Wallet,No,Yes,No
+East,46-60,Yes,No,No,Sometimes,Satisfied,Cash,Yes,Yes,Yes
+South,18-25,Yes,Yes,Yes,Rarely,Dissatisfied,Cash,No,Yes,No
+South,26-35,No,No,No,Never,Neutral,Credit Card,No,Yes,No
+East,26-35,No,Yes,Yes,Often,Very Satisfied,UPI,No,No,No
+West,46-60,Yes,No,No,Rarely,Dissatisfied,Credit Card,Yes,Yes,No
+East,18-25,Yes,Yes,Yes,Rarely,Satisfied,Cash,Yes,Yes,No
+Central,36-45,Yes,Yes,No,Sometimes,Dissatisfied,Wallet,No,No,No
+East,26-35,Yes,No,Yes,Often,Satisfied,Debit Card,No,Yes,No
+North,36-45,Yes,Yes,Yes,Often,Neutral,UPI,No,No,Yes
+West,36-45,No,Yes,No,Often,Neutral,UPI,No,Yes,No
+East,60+,No,Yes,Yes,Sometimes,Very Satisfied,Credit Card,Yes,Yes,No
+Central,26-35,Yes,No,Yes,Often,Neutral,Debit Card,No,No,No
+Central,36-45,Yes,No,Yes,Rarely,Satisfied,Debit Card,No,Yes,Yes
+North,60+,Yes,No,No,Never,Dissatisfied,Cash,No,No,Yes
+Central,18-25,No,No,Yes,Often,Very Satisfied,Cash,No,No,Yes
+West,60+,No,Yes,Yes,Sometimes,Satisfied,Debit Card,No,No,Yes
+West,18-25,Yes,Yes,No,Sometimes,Dissatisfied,Debit Card,Yes,No,Yes
+South,60+,No,Yes,No,Often,Dissatisfied,Cash,No,Yes,No
+West,46-60,No,Yes,Yes,Rarely,Satisfied,Cash,No,Yes,Yes
+North,26-35,No,No,No,Rarely,Neutral,Credit Card,Yes,No,No
+East,18-25,No,No,Yes,Often,Dissatisfied,Cash,Yes,No,Yes
+East,36-45,No,No,No,Never,Satisfied,Wallet,No,No,Yes
+North,26-35,Yes,Yes,No,Often,Very Satisfied,Debit Card,Yes,No,Yes
+South,46-60,No,Yes,No,Often,Satisfied,Cash,Yes,No,Yes
+West,18-25,Yes,Yes,No,Never,Dissatisfied,Credit Card,Yes,Yes,No
+South,36-45,No,No,No,Never,Satisfied,Credit Card,No,No,Yes
+Central,46-60,Yes,No,Yes,Sometimes,Very Satisfied,Credit Card,No,Yes,Yes
+South,60+,Yes,No,No,Rarely,Dissatisfied,Credit Card,No,Yes,No
+South,46-60,No,Yes,Yes,Sometimes,Neutral,Debit Card,No,Yes,Yes
+East,18-25,No,No,No,Often,Very Satisfied,Cash,No,No,No
+North,18-25,No,No,No,Never,Neutral,Cash,Yes,Yes,No
+East,60+,No,Yes,No,Sometimes,Dissatisfied,Debit Card,Yes,Yes,Yes
+West,46-60,Yes,Yes,Yes,Sometimes,Very Satisfied,Debit Card,Yes,Yes,No
+North,18-25,Yes,Yes,Yes,Rarely,Satisfied,Wallet,No,No,Yes
+West,60+,Yes,Yes,No,Never,Satisfied,Wallet,No,No,No
+West,36-45,Yes,No,No,Rarely,Dissatisfied,Wallet,Yes,Yes,Yes
+South,18-25,No,Yes,No,Never,Dissatisfied,UPI,No,No,No
+South,36-45,Yes,No,No,Never,Satisfied,Debit Card,No,Yes,No
+South,60+,Yes,Yes,No,Often,Satisfied,Wallet,No,Yes,No
+Central,26-35,No,No,Yes,Often,Dissatisfied,Debit Card,No,No,Yes
+East,18-25,No,No,No,Sometimes,Neutral,UPI,Yes,No,No
+West,46-60,Yes,Yes,Yes,Often,Satisfied,Credit Card,Yes,Yes,Yes
+East,36-45,No,Yes,Yes,Rarely,Neutral,Cash,No,Yes,Yes
+South,46-60,Yes,No,Yes,Sometimes,Dissatisfied,UPI,Yes,No,Yes
+Central,46-60,No,Yes,Yes,Rarely,Very Satisfied,UPI,No,Yes,Yes
+Central,60+,No,No,Yes,Rarely,Very Satisfied,UPI,No,Yes,Yes
+North,46-60,Yes,Yes,Yes,Often,Satisfied,Wallet,No,Yes,Yes
+West,36-45,Yes,No,Yes,Never,Satisfied,Cash,No,No,No
+Central,18-25,No,No,Yes,Sometimes,Satisfied,Credit Card,No,Yes,Yes
+Central,18-25,Yes,Yes,No,Often,Dissatisfied,Credit Card,Yes,No,Yes
+East,46-60,No,Yes,Yes,Rarely,Dissatisfied,Debit Card,Yes,Yes,No
+North,60+,Yes,No,Yes,Sometimes,Dissatisfied,Wallet,Yes,No,No
+North,46-60,Yes,Yes,No,Sometimes,Neutral,Cash,Yes,Yes,No
+Central,18-25,No,No,Yes,Never,Neutral,UPI,Yes,No,Yes
+Central,60+,Yes,No,Yes,Sometimes,Neutral,Debit Card,No,Yes,No
+West,36-45,Yes,No,Yes,Rarely,Satisfied,Wallet,No,No,Yes
+East,36-45,Yes,Yes,Yes,Never,Very Satisfied,Cash,No,Yes,No
+Central,26-35,No,Yes,Yes,Sometimes,Satisfied,UPI,Yes,Yes,Yes
+South,36-45,No,Yes,No,Never,Very Satisfied,Wallet,Yes,No,Yes
+West,60+,Yes,No,Yes,Often,Dissatisfied,Debit Card,No,No,No
+West,36-45,Yes,No,Yes,Never,Neutral,Wallet,Yes,Yes,Yes
+South,18-25,No,No,Yes,Rarely,Neutral,UPI,No,Yes,No
+North,26-35,Yes,Yes,No,Never,Dissatisfied,UPI,Yes,Yes,Yes
+Central,18-25,Yes,Yes,Yes,Rarely,Neutral,Wallet,Yes,No,Yes
+North,36-45,No,No,Yes,Sometimes,Satisfied,Wallet,Yes,Yes,No
+Central,46-60,Yes,No,Yes,Never,Neutral,Debit Card,No,Yes,Yes
+East,46-60,No,No,Yes,Rarely,Neutral,Cash,No,No,Yes
+South,60+,Yes,No,Yes,Rarely,Neutral,Wallet,No,Yes,Yes
+West,18-25,No,Yes,Yes,Sometimes,Satisfied,Wallet,Yes,Yes,Yes
+North,60+,Yes,No,Yes,Never,Satisfied,Cash,No,Yes,No
+Central,36-45,No,No,No,Rarely,Dissatisfied,UPI,Yes,Yes,No
+North,18-25,No,Yes,No,Sometimes,Neutral,Cash,Yes,Yes,No
+North,26-35,Yes,Yes,No,Sometimes,Very Satisfied,Wallet,No,Yes,Yes
+East,60+,Yes,No,No,Never,Very Satisfied,Wallet,Yes,No,No
+East,18-25,No,No,No,Never,Satisfied,Credit Card,No,No,Yes
+South,60+,Yes,No,No,Never,Very Satisfied,UPI,Yes,No,Yes
+Central,36-45,No,Yes,No,Never,Neutral,Cash,Yes,Yes,Yes
+Central,46-60,No,No,Yes,Never,Dissatisfied,Credit Card,No,No,Yes
+North,26-35,No,No,Yes,Often,Very Satisfied,Wallet,Yes,Yes,Yes
+East,26-35,No,No,Yes,Often,Very Satisfied,UPI,Yes,No,Yes
+North,18-25,No,Yes,No,Often,Dissatisfied,Debit Card,No,Yes,Yes
+East,26-35,No,Yes,Yes,Rarely,Satisfied,Credit Card,Yes,Yes,No
+East,46-60,Yes,No,Yes,Rarely,Very Satisfied,Wallet,Yes,Yes,Yes
+East,26-35,Yes,Yes,No,Rarely,Satisfied,Cash,Yes,Yes,Yes
+West,36-45,Yes,Yes,No,Rarely,Very Satisfied,UPI,No,No,No
+West,26-35,Yes,No,No,Often,Very Satisfied,Cash,No,Yes,No
+North,46-60,Yes,No,Yes,Sometimes,Satisfied,Credit Card,No,Yes,No
+East,60+,No,No,Yes,Sometimes,Satisfied,Cash,Yes,Yes,No
+South,26-35,No,Yes,No,Rarely,Neutral,Cash,Yes,No,Yes
+South,26-35,No,No,No,Never,Dissatisfied,Cash,Yes,No,No
+West,18-25,No,Yes,No,Rarely,Satisfied,UPI,Yes,No,No
+East,46-60,No,No,No,Often,Dissatisfied,Cash,Yes,Yes,Yes
+South,18-25,No,No,No,Sometimes,Dissatisfied,Cash,Yes,No,No
+East,36-45,No,No,Yes,Never,Satisfied,Debit Card,Yes,Yes,Yes
+Central,46-60,No,Yes,Yes,Often,Dissatisfied,Wallet,No,Yes,Yes
+East,36-45,Yes,No,No,Sometimes,Very Satisfied,UPI,Yes,No,Yes
+Central,26-35,No,Yes,Yes,Never,Neutral,Debit Card,No,Yes,Yes
+Central,18-25,Yes,Yes,No,Sometimes,Dissatisfied,Debit Card,No,No,No
+Central,26-35,No,No,No,Often,Satisfied,Cash,Yes,No,No
+East,26-35,No,Yes,No,Rarely,Dissatisfied,Cash,No,Yes,Yes
+East,18-25,Yes,Yes,Yes,Rarely,Satisfied,Debit Card,No,No,No
+West,46-60,Yes,Yes,Yes,Sometimes,Satisfied,Debit Card,No,Yes,No
+North,18-25,No,Yes,No,Often,Very Satisfied,Cash,Yes,Yes,Yes
+East,36-45,Yes,Yes,No,Rarely,Neutral,Debit Card,Yes,No,No
+East,46-60,Yes,Yes,Yes,Often,Neutral,UPI,No,No,Yes
+East,46-60,No,No,No,Never,Very Satisfied,Debit Card,No,No,No
+West,46-60,No,Yes,No,Often,Dissatisfied,UPI,No,No,Yes
+East,26-35,Yes,No,No,Sometimes,Dissatisfied,Cash,No,Yes,No
+Central,36-45,No,Yes,No,Never,Neutral,Cash,No,No,Yes
+North,18-25,No,No,Yes,Never,Dissatisfied,Credit Card,No,Yes,No
+Central,46-60,Yes,Yes,Yes,Sometimes,Neutral,Credit Card,No,No,Yes
+North,26-35,No,Yes,No,Often,Dissatisfied,Cash,Yes,No,No
+East,36-45,No,Yes,Yes,Often,Dissatisfied,Wallet,Yes,No,Yes
+Central,18-25,Yes,Yes,No,Never,Very Satisfied,Credit Card,No,No,Yes
+East,26-35,No,No,Yes,Rarely,Neutral,Wallet,No,No,No
+East,60+,No,Yes,No,Never,Satisfied,Credit Card,Yes,Yes,Yes
+North,36-45,No,Yes,No,Never,Very Satisfied,UPI,Yes,Yes,Yes
+Central,60+,No,No,Yes,Never,Dissatisfied,Cash,Yes,No,No
+North,26-35,Yes,No,No,Rarely,Neutral,Cash,No,No,No
+South,60+,No,No,Yes,Sometimes,Neutral,Debit Card,Yes,No,Yes
+East,26-35,No,Yes,No,Rarely,Very Satisfied,Debit Card,No,Yes,Yes
+East,26-35,No,No,No,Never,Very Satisfied,Debit Card,Yes,No,Yes
+Central,60+,Yes,Yes,Yes,Never,Neutral,Wallet,Yes,No,No
+Central,36-45,Yes,No,No,Never,Dissatisfied,UPI,Yes,Yes,Yes
+Central,18-25,No,No,Yes,Sometimes,Dissatisfied,UPI,No,No,No
+East,46-60,Yes,No,Yes,Rarely,Very Satisfied,Debit Card,Yes,No,Yes
+East,60+,No,No,No,Rarely,Dissatisfied,Wallet,Yes,Yes,No
+Central,60+,Yes,No,Yes,Sometimes,Neutral,Wallet,No,Yes,Yes
+South,26-35,No,No,No,Sometimes,Dissatisfied,Wallet,Yes,No,Yes
+Central,60+,No,Yes,Yes,Often,Neutral,Wallet,Yes,Yes,No
+West,46-60,No,Yes,No,Often,Neutral,UPI,No,No,No
+East,46-60,Yes,No,Yes,Sometimes,Dissatisfied,Wallet,No,No,No
+West,26-35,No,Yes,No,Sometimes,Satisfied,UPI,No,No,No
+East,60+,No,Yes,No,Often,Neutral,Debit Card,No,Yes,No
+South,46-60,No,No,Yes,Often,Dissatisfied,Wallet,No,Yes,Yes
+West,60+,Yes,No,Yes,Rarely,Satisfied,UPI,Yes,Yes,No
+Central,26-35,Yes,Yes,Yes,Sometimes,Satisfied,UPI,No,No,Yes
+West,36-45,Yes,No,No,Sometimes,Neutral,Wallet,Yes,No,No
+Central,36-45,Yes,No,Yes,Often,Satisfied,Wallet,Yes,Yes,No
+West,18-25,Yes,No,Yes,Sometimes,Satisfied,Debit Card,Yes,No,Yes
+North,18-25,No,No,Yes,Never,Very Satisfied,UPI,No,No,Yes
+Central,26-35,No,Yes,Yes,Rarely,Neutral,UPI,No,Yes,Yes
+East,26-35,Yes,No,Yes,Sometimes,Very Satisfied,UPI,Yes,No,No
+North,18-25,No,Yes,Yes,Often,Neutral,Wallet,Yes,Yes,Yes
+West,46-60,No,Yes,Yes,Often,Very Satisfied,Debit Card,No,No,Yes
+North,26-35,No,Yes,Yes,Often,Very Satisfied,Cash,Yes,Yes,Yes
+North,46-60,Yes,No,No,Rarely,Neutral,Cash,Yes,No,Yes
+Central,18-25,No,No,No,Never,Neutral,Debit Card,Yes,No,No
+West,36-45,Yes,No,No,Rarely,Dissatisfied,Debit Card,Yes,Yes,Yes
+North,46-60,Yes,Yes,Yes,Never,Neutral,Credit Card,Yes,No,Yes
+North,46-60,No,Yes,No,Sometimes,Dissatisfied,Debit Card,No,No,No
+Central,26-35,Yes,No,Yes,Often,Satisfied,UPI,No,No,No
+South,46-60,No,No,No,Often,Satisfied,UPI,Yes,No,No
+West,18-25,No,Yes,Yes,Never,Dissatisfied,Wallet,No,Yes,No
+Central,60+,Yes,Yes,Yes,Often,Satisfied,Debit Card,No,Yes,No
+Central,60+,Yes,No,Yes,Often,Dissatisfied,Wallet,No,Yes,Yes
+East,18-25,Yes,No,Yes,Often,Dissatisfied,Wallet,Yes,No,No
+West,36-45,No,No,No,Sometimes,Satisfied,Wallet,No,Yes,Yes
+East,36-45,Yes,No,No,Often,Very Satisfied,UPI,Yes,No,No
+South,18-25,No,No,Yes,Never,Dissatisfied,Cash,Yes,No,Yes
+South,60+,Yes,No,Yes,Rarely,Very Satisfied,Credit Card,No,No,Yes
+West,26-35,Yes,Yes,Yes,Rarely,Very Satisfied,Credit Card,No,Yes,No
+West,18-25,No,No,No,Never,Very Satisfied,Debit Card,No,Yes,No
+Central,18-25,No,Yes,Yes,Never,Neutral,Credit Card,No,Yes,Yes
+Central,60+,Yes,Yes,No,Sometimes,Very Satisfied,Credit Card,Yes,No,No
+East,60+,No,Yes,Yes,Often,Dissatisfied,Wallet,Yes,No,Yes
+East,26-35,Yes,No,Yes,Often,Satisfied,Credit Card,Yes,No,No
+North,26-35,No,No,No,Never,Very Satisfied,Debit Card,Yes,Yes,Yes
+Central,60+,No,No,Yes,Rarely,Dissatisfied,Cash,Yes,No,Yes
+North,26-35,No,Yes,No,Often,Satisfied,Credit Card,No,No,Yes
+East,26-35,No,No,Yes,Often,Dissatisfied,Cash,No,Yes,Yes
+South,26-35,Yes,Yes,Yes,Never,Satisfied,Cash,No,Yes,No
+North,60+,Yes,No,No,Never,Neutral,Credit Card,Yes,No,No
+West,60+,Yes,No,No,Never,Neutral,Cash,No,Yes,No
+West,46-60,No,No,Yes,Rarely,Neutral,Wallet,Yes,Yes,Yes
+South,60+,Yes,Yes,No,Never,Dissatisfied,Cash,No,No,No
+North,26-35,Yes,Yes,Yes,Often,Dissatisfied,Wallet,Yes,No,No
+Central,26-35,Yes,Yes,No,Often,Neutral,Cash,Yes,Yes,No
+Central,18-25,No,No,No,Rarely,Very Satisfied,Cash,No,No,No
+Central,60+,No,Yes,Yes,Sometimes,Satisfied,Debit Card,Yes,Yes,Yes
+East,46-60,No,Yes,No,Never,Neutral,Credit Card,No,Yes,Yes
+East,60+,Yes,Yes,No,Never,Neutral,Cash,No,Yes,No
+Central,36-45,No,Yes,No,Never,Dissatisfied,UPI,No,No,No
+North,36-45,Yes,No,No,Never,Satisfied,Credit Card,Yes,Yes,Yes
+Central,26-35,Yes,Yes,No,Never,Very Satisfied,Cash,No,No,Yes
+North,60+,No,Yes,No,Often,Neutral,Debit Card,No,No,Yes
+East,36-45,Yes,No,No,Sometimes,Dissatisfied,Debit Card,No,No,Yes
+South,46-60,No,No,No,Sometimes,Satisfied,Credit Card,No,No,No
+West,36-45,Yes,Yes,No,Never,Neutral,Wallet,No,No,Yes
+East,46-60,No,No,No,Sometimes,Satisfied,UPI,Yes,Yes,No
+North,60+,No,No,Yes,Often,Very Satisfied,Credit Card,No,Yes,No
+Central,18-25,No,Yes,Yes,Rarely,Very Satisfied,Debit Card,Yes,No,No
+Central,46-60,Yes,No,No,Never,Very Satisfied,Wallet,No,No,Yes
+Central,26-35,No,No,Yes,Never,Dissatisfied,UPI,Yes,No,Yes
+West,18-25,No,Yes,Yes,Sometimes,Satisfied,UPI,Yes,No,Yes
+South,46-60,No,No,Yes,Sometimes,Satisfied,Debit Card,No,Yes,Yes
+Central,18-25,Yes,Yes,No,Sometimes,Neutral,UPI,No,No,Yes
+West,18-25,Yes,No,No,Rarely,Satisfied,Wallet,No,No,No
+North,46-60,Yes,Yes,No,Often,Satisfied,Wallet,Yes,No,Yes
+West,46-60,No,Yes,Yes,Often,Dissatisfied,UPI,No,No,No
+East,46-60,No,No,No,Often,Neutral,Credit Card,No,Yes,Yes
+East,46-60,Yes,Yes,No,Often,Very Satisfied,UPI,No,Yes,No
+Central,46-60,Yes,Yes,Yes,Rarely,Dissatisfied,UPI,Yes,No,Yes
+North,26-35,No,Yes,No,Often,Very Satisfied,Cash,No,No,No
+South,36-45,Yes,No,Yes,Often,Dissatisfied,Wallet,No,No,No
+Central,18-25,No,No,Yes,Never,Neutral,Cash,No,No,Yes
+South,36-45,No,Yes,No,Rarely,Dissatisfied,Credit Card,Yes,Yes,Yes
+West,60+,No,No,No,Rarely,Very Satisfied,Credit Card,No,Yes,No
+South,18-25,Yes,Yes,Yes,Rarely,Very Satisfied,Cash,Yes,No,Yes
+North,36-45,No,No,Yes,Often,Neutral,UPI,No,No,Yes
+West,60+,No,No,No,Rarely,Dissatisfied,Wallet,No,Yes,No
+West,46-60,Yes,No,No,Never,Satisfied,Wallet,No,No,No
+East,18-25,Yes,No,No,Often,Satisfied,UPI,Yes,No,No
+East,46-60,No,Yes,Yes,Rarely,Very Satisfied,Wallet,No,Yes,No
+West,36-45,No,No,No,Often,Satisfied,Cash,No,Yes,Yes
+Central,26-35,Yes,No,No,Never,Neutral,Credit Card,No,No,Yes
+North,46-60,No,Yes,No,Rarely,Satisfied,Debit Card,Yes,No,Yes
+West,36-45,Yes,No,Yes,Rarely,Dissatisfied,Wallet,No,Yes,No
+South,18-25,No,No,No,Often,Very Satisfied,Debit Card,Yes,No,No
+East,60+,No,Yes,Yes,Sometimes,Dissatisfied,Credit Card,Yes,No,Yes
+Central,36-45,No,No,Yes,Rarely,Neutral,Debit Card,No,No,No
+East,60+,No,No,Yes,Never,Dissatisfied,Debit Card,Yes,Yes,No
+East,36-45,No,No,No,Often,Very Satisfied,Debit Card,Yes,No,Yes
+West,26-35,Yes,No,Yes,Never,Neutral,Cash,No,No,No
+West,36-45,Yes,Yes,No,Rarely,Dissatisfied,Wallet,No,Yes,Yes
+East,60+,No,Yes,Yes,Often,Dissatisfied,Wallet,Yes,No,Yes
+East,36-45,No,No,Yes,Often,Very Satisfied,UPI,No,Yes,No
+West,36-45,Yes,No,No,Rarely,Very Satisfied,Credit Card,Yes,Yes,Yes
+East,46-60,Yes,No,Yes,Often,Neutral,Credit Card,Yes,Yes,No
+West,18-25,No,Yes,Yes,Often,Neutral,Credit Card,Yes,No,Yes
+Central,26-35,Yes,No,No,Often,Satisfied,Debit Card,No,No,Yes
+East,46-60,Yes,No,Yes,Often,Neutral,Credit Card,No,No,Yes
+East,46-60,No,Yes,No,Sometimes,Neutral,Credit Card,No,No,No
+West,60+,Yes,No,Yes,Often,Satisfied,UPI,No,Yes,No
+East,26-35,No,No,Yes,Rarely,Satisfied,Debit Card,Yes,Yes,Yes
+Central,26-35,Yes,Yes,No,Never,Satisfied,Credit Card,No,Yes,No
+Central,26-35,Yes,No,Yes,Rarely,Satisfied,Debit Card,No,No,No
+South,18-25,Yes,No,No,Rarely,Satisfied,Cash,Yes,Yes,Yes
+North,18-25,No,No,Yes,Sometimes,Dissatisfied,UPI,No,Yes,No
+Central,60+,No,Yes,No,Sometimes,Very Satisfied,Credit Card,No,No,No
+West,46-60,No,No,No,Often,Very Satisfied,Wallet,No,No,Yes
+West,36-45,Yes,Yes,No,Rarely,Satisfied,UPI,No,No,Yes
+East,18-25,No,Yes,Yes,Sometimes,Very Satisfied,Debit Card,Yes,Yes,No
+East,46-60,Yes,Yes,Yes,Never,Dissatisfied,Debit Card,No,No,No
+West,60+,No,No,No,Never,Dissatisfied,Credit Card,Yes,No,Yes
+Central,46-60,No,Yes,No,Never,Dissatisfied,Cash,No,Yes,Yes
+Central,46-60,No,No,No,Rarely,Satisfied,Wallet,Yes,No,No
+North,26-35,No,No,Yes,Never,Very Satisfied,Credit Card,No,No,No
+East,46-60,No,Yes,Yes,Rarely,Very Satisfied,Debit Card,No,No,No
+North,26-35,No,Yes,No,Sometimes,Satisfied,Credit Card,No,Yes,Yes
+South,36-45,No,No,No,Sometimes,Very Satisfied,Debit Card,Yes,Yes,No
+North,26-35,No,Yes,Yes,Often,Satisfied,Cash,Yes,No,Yes
+North,36-45,No,Yes,No,Often,Neutral,Credit Card,No,Yes,No
+West,60+,No,No,No,Often,Satisfied,Wallet,No,Yes,Yes
+South,60+,No,No,Yes,Often,Neutral,Cash,No,Yes,Yes
+Central,46-60,Yes,No,No,Sometimes,Satisfied,Debit Card,Yes,Yes,Yes
+North,36-45,Yes,No,Yes,Often,Neutral,Cash,No,Yes,No
+South,60+,No,Yes,No,Never,Very Satisfied,Credit Card,No,Yes,No
+West,60+,No,No,No,Often,Very Satisfied,Credit Card,No,Yes,No
+Central,60+,No,No,Yes,Often,Very Satisfied,Credit Card,Yes,Yes,No
+Central,36-45,Yes,No,Yes,Sometimes,Neutral,Wallet,Yes,No,No
+West,26-35,Yes,Yes,No,Never,Very Satisfied,Credit Card,Yes,No,No
+South,18-25,No,No,No,Never,Very Satisfied,UPI,Yes,Yes,No
+West,36-45,Yes,No,No,Never,Dissatisfied,Credit Card,No,No,Yes
+North,46-60,No,Yes,No,Never,Dissatisfied,UPI,No,Yes,Yes
+North,18-25,No,Yes,Yes,Sometimes,Satisfied,Cash,No,Yes,Yes
+Central,36-45,No,Yes,Yes,Sometimes,Neutral,Debit Card,Yes,No,Yes
+East,46-60,Yes,No,No,Never,Neutral,UPI,No,No,Yes
+South,46-60,Yes,Yes,No,Rarely,Very Satisfied,Wallet,No,No,Yes
+East,36-45,Yes,Yes,Yes,Often,Satisfied,Credit Card,No,Yes,No
+West,26-35,Yes,Yes,Yes,Often,Dissatisfied,Debit Card,Yes,No,Yes
+West,26-35,Yes,No,Yes,Rarely,Very Satisfied,Credit Card,Yes,No,Yes
+West,46-60,Yes,Yes,Yes,Never,Satisfied,Credit Card,No,No,Yes
+Central,26-35,No,Yes,Yes,Never,Very Satisfied,UPI,No,No,No
+East,36-45,Yes,No,No,Rarely,Very Satisfied,UPI,Yes,No,Yes
+South,18-25,Yes,Yes,No,Rarely,Very Satisfied,Cash,Yes,Yes,No
+North,36-45,Yes,Yes,No,Never,Neutral,Wallet,Yes,Yes,Yes
+Central,18-25,Yes,Yes,Yes,Rarely,Dissatisfied,Credit Card,Yes,No,Yes
+South,60+,Yes,Yes,No,Often,Satisfied,Wallet,No,Yes,Yes
+Central,46-60,Yes,Yes,No,Rarely,Very Satisfied,UPI,Yes,No,Yes
+North,36-45,No,Yes,Yes,Never,Satisfied,UPI,Yes,No,Yes
+East,18-25,Yes,Yes,Yes,Often,Dissatisfied,Debit Card,No,No,No
+South,18-25,Yes,Yes,No,Never,Satisfied,Wallet,No,No,Yes
+North,36-45,Yes,No,No,Often,Satisfied,UPI,Yes,Yes,No
+East,36-45,Yes,Yes,No,Never,Satisfied,UPI,Yes,Yes,No
+South,46-60,No,Yes,Yes,Often,Very Satisfied,Wallet,No,Yes,Yes
+Central,60+,No,Yes,Yes,Rarely,Very Satisfied,UPI,Yes,No,Yes
+West,46-60,Yes,Yes,Yes,Sometimes,Dissatisfied,Debit Card,No,Yes,No
+South,36-45,No,No,No,Rarely,Neutral,Debit Card,Yes,Yes,No
+South,46-60,No,Yes,No,Sometimes,Dissatisfied,Wallet,No,No,Yes
+East,18-25,Yes,No,Yes,Often,Satisfied,Wallet,No,No,No
+North,18-25,Yes,Yes,No,Often,Neutral,Cash,No,Yes,No
+North,26-35,No,Yes,Yes,Sometimes,Dissatisfied,Cash,Yes,No,No
+North,26-35,Yes,No,No,Never,Very Satisfied,Wallet,No,No,No
+Central,60+,No,No,No,Often,Neutral,Wallet,No,Yes,No
+South,18-25,Yes,Yes,No,Never,Dissatisfied,Credit Card,No,Yes,Yes
+South,60+,Yes,Yes,No,Often,Satisfied,Debit Card,No,Yes,No
+West,26-35,No,No,Yes,Sometimes,Satisfied,UPI,No,Yes,Yes
+North,26-35,Yes,Yes,Yes,Sometimes,Neutral,Wallet,No,No,Yes
+East,46-60,Yes,Yes,Yes,Often,Dissatisfied,Cash,No,Yes,Yes
+South,18-25,No,No,No,Often,Dissatisfied,Credit Card,No,Yes,No
+Central,60+,Yes,No,Yes,Often,Very Satisfied,Credit Card,Yes,Yes,No
+Central,60+,Yes,Yes,No,Sometimes,Very Satisfied,Wallet,Yes,No,Yes
+North,60+,Yes,No,No,Rarely,Very Satisfied,Debit Card,No,No,No
+West,60+,No,Yes,No,Never,Neutral,Credit Card,Yes,Yes,No
+East,46-60,Yes,No,Yes,Sometimes,Neutral,Debit Card,Yes,No,No
+East,26-35,Yes,No,Yes,Often,Neutral,Wallet,Yes,Yes,No
+East,26-35,No,No,No,Rarely,Dissatisfied,Credit Card,No,No,No
+Central,60+,Yes,No,Yes,Sometimes,Neutral,Credit Card,Yes,No,Yes
+South,36-45,Yes,Yes,Yes,Never,Very Satisfied,Cash,No,Yes,No
+South,26-35,Yes,No,No,Often,Very Satisfied,Cash,Yes,Yes,No
+East,26-35,Yes,No,No,Never,Very Satisfied,UPI,Yes,Yes,No
+Central,60+,No,Yes,Yes,Rarely,Very Satisfied,Credit Card,Yes,No,Yes
+West,46-60,No,No,No,Rarely,Dissatisfied,UPI,No,No,Yes
+South,46-60,No,Yes,Yes,Sometimes,Dissatisfied,Wallet,Yes,Yes,Yes
+South,18-25,Yes,No,No,Often,Dissatisfied,Credit Card,No,Yes,Yes
+Central,46-60,No,No,No,Never,Very Satisfied,Debit Card,Yes,No,Yes
+East,18-25,No,No,Yes,Never,Dissatisfied,Wallet,No,No,Yes
+Central,46-60,Yes,No,Yes,Never,Dissatisfied,Debit Card,No,Yes,Yes
+Central,36-45,No,No,Yes,Sometimes,Satisfied,Cash,Yes,Yes,Yes
+North,60+,Yes,No,Yes,Sometimes,Satisfied,Credit Card,No,No,Yes
+North,36-45,Yes,No,No,Often,Very Satisfied,Debit Card,Yes,Yes,Yes
+North,36-45,No,Yes,Yes,Often,Very Satisfied,Credit Card,No,No,No
+Central,36-45,Yes,No,Yes,Sometimes,Satisfied,UPI,Yes,No,No
+South,26-35,Yes,Yes,No,Rarely,Dissatisfied,Credit Card,Yes,Yes,No
+East,18-25,No,No,No,Never,Satisfied,Wallet,No,Yes,No
+West,60+,Yes,Yes,Yes,Often,Satisfied,UPI,No,Yes,No
+Central,60+,No,No,No,Never,Neutral,Credit Card,No,No,No
+West,26-35,Yes,Yes,No,Sometimes,Satisfied,Debit Card,Yes,Yes,No
+North,46-60,No,Yes,Yes,Never,Dissatisfied,Credit Card,Yes,Yes,No
+Central,18-25,No,No,No,Sometimes,Satisfied,Cash,Yes,Yes,Yes
+Central,36-45,Yes,No,No,Rarely,Very Satisfied,Wallet,Yes,Yes,No
+South,46-60,No,No,No,Often,Neutral,Credit Card,Yes,No,No
+North,18-25,Yes,Yes,No,Never,Neutral,Wallet,Yes,No,No
+Central,26-35,No,Yes,No,Rarely,Satisfied,Credit Card,Yes,No,No
+West,26-35,Yes,Yes,No,Never,Neutral,Wallet,No,No,Yes
+East,18-25,No,Yes,No,Never,Dissatisfied,Wallet,No,No,No
+West,60+,Yes,Yes,No,Often,Satisfied,Cash,Yes,Yes,No
+East,46-60,No,No,Yes,Often,Dissatisfied,Credit Card,Yes,No,No
+Central,26-35,No,No,Yes,Often,Satisfied,Wallet,No,Yes,No
+East,46-60,No,No,No,Never,Dissatisfied,Debit Card,Yes,No,Yes
+South,36-45,No,Yes,No,Rarely,Very Satisfied,UPI,No,Yes,No
+South,36-45,Yes,No,Yes,Never,Neutral,Debit Card,Yes,No,No
+South,60+,Yes,Yes,No,Sometimes,Satisfied,Wallet,Yes,No,No
+West,26-35,No,Yes,Yes,Often,Dissatisfied,UPI,No,Yes,No
+West,60+,No,Yes,No,Often,Very Satisfied,Cash,No,Yes,Yes
+South,18-25,Yes,Yes,No,Often,Satisfied,Wallet,Yes,Yes,No
+East,60+,Yes,No,Yes,Sometimes,Very Satisfied,Debit Card,Yes,No,No
+South,18-25,No,Yes,Yes,Sometimes,Dissatisfied,Cash,No,No,No
+West,60+,No,Yes,Yes,Rarely,Satisfied,Wallet,Yes,No,Yes
+West,36-45,Yes,No,Yes,Rarely,Neutral,Wallet,No,No,No
+West,60+,Yes,Yes,Yes,Often,Very Satisfied,UPI,No,Yes,Yes
+North,60+,No,No,No,Never,Very Satisfied,Wallet,No,Yes,No
+West,36-45,Yes,Yes,Yes,Never,Satisfied,Debit Card,No,Yes,No
+North,46-60,No,No,No,Often,Satisfied,UPI,No,No,Yes
+Central,26-35,No,No,Yes,Never,Very Satisfied,Cash,No,No,No
+West,46-60,No,Yes,Yes,Sometimes,Satisfied,Credit Card,No,Yes,No
+West,18-25,No,Yes,Yes,Often,Dissatisfied,Cash,Yes,No,No
+Central,60+,No,Yes,Yes,Often,Very Satisfied,Credit Card,Yes,Yes,No
+West,36-45,Yes,No,Yes,Sometimes,Very Satisfied,Cash,Yes,No,No
+East,46-60,Yes,No,No,Sometimes,Dissatisfied,Cash,Yes,No,Yes
+Central,36-45,No,No,Yes,Often,Satisfied,Cash,No,Yes,No
+South,18-25,No,No,No,Never,Very Satisfied,Cash,No,No,Yes
+East,18-25,Yes,No,No,Rarely,Very Satisfied,Credit Card,No,No,Yes
+South,26-35,No,No,Yes,Rarely,Very Satisfied,UPI,Yes,No,Yes
+West,18-25,Yes,No,Yes,Rarely,Satisfied,Debit Card,No,No,No
+North,26-35,Yes,Yes,No,Rarely,Satisfied,Debit Card,Yes,No,No
+North,26-35,Yes,No,Yes,Sometimes,Satisfied,Debit Card,Yes,No,Yes
+South,26-35,Yes,No,No,Often,Dissatisfied,Debit Card,Yes,No,Yes
+South,60+,Yes,No,No,Rarely,Satisfied,UPI,No,No,No
+South,46-60,No,No,No,Often,Dissatisfied,Cash,No,Yes,No
+West,18-25,Yes,No,No,Rarely,Dissatisfied,Cash,Yes,No,Yes
+Central,60+,Yes,Yes,No,Often,Satisfied,Wallet,Yes,No,Yes
+Central,46-60,Yes,Yes,Yes,Never,Neutral,Cash,No,Yes,No
+West,26-35,No,Yes,Yes,Never,Very Satisfied,UPI,Yes,Yes,Yes
+Central,18-25,No,Yes,Yes,Rarely,Neutral,Debit Card,Yes,No,Yes
+Central,46-60,Yes,No,Yes,Rarely,Dissatisfied,Wallet,No,No,Yes
+South,60+,Yes,Yes,Yes,Sometimes,Very Satisfied,Credit Card,No,Yes,Yes
+North,36-45,No,Yes,Yes,Sometimes,Satisfied,UPI,No,No,No
+East,60+,Yes,No,Yes,Rarely,Neutral,Credit Card,No,No,Yes
+Central,36-45,No,Yes,No,Never,Satisfied,Cash,No,Yes,Yes
+Central,36-45,No,No,No,Rarely,Very Satisfied,Credit Card,No,Yes,No
+West,36-45,Yes,No,Yes,Never,Dissatisfied,Credit Card,Yes,Yes,No
+Central,26-35,No,Yes,Yes,Often,Neutral,Wallet,Yes,Yes,No
+South,60+,Yes,No,No,Never,Neutral,Credit Card,No,Yes,Yes
+North,46-60,No,Yes,No,Sometimes,Neutral,UPI,Yes,No,No
+East,18-25,Yes,No,No,Sometimes,Neutral,UPI,Yes,No,No
+Central,26-35,Yes,Yes,Yes,Often,Dissatisfied,Cash,No,Yes,Yes
+South,46-60,No,Yes,No,Sometimes,Very Satisfied,Debit Card,No,No,No
+Central,60+,No,No,Yes,Never,Satisfied,Debit Card,No,Yes,Yes
+West,60+,No,Yes,No,Sometimes,Very Satisfied,Wallet,No,Yes,Yes
+East,18-25,No,Yes,No,Rarely,Satisfied,UPI,Yes,No,Yes
+North,60+,Yes,Yes,Yes,Never,Very Satisfied,UPI,Yes,Yes,Yes
+Central,36-45,No,Yes,No,Never,Very Satisfied,Debit Card,No,Yes,Yes
+West,36-45,Yes,No,Yes,Never,Dissatisfied,Wallet,Yes,No,No
+West,26-35,No,No,Yes,Sometimes,Satisfied,Cash,Yes,No,Yes

@@ -1,0 +1,501 @@
+Experience_Years,Age,Projects_Done,Education_Level,Department,Gender,Salary
+2,41,9,Bachelors,Marketing,Male,36726.4
+3,40,3,PhD,Marketing,Female,44435.72
+0,37,9,Bachelors,Finance,Male,34393.42
+17,51,4,Masters,Marketing,Female,58814.4
+17,59,8,High School,Finance,Female,52726.46
+1,36,9,Masters,HR,Female,37173.16
+4,28,6,PhD,HR,Male,46215.7
+15,38,2,Masters,IT,Female,61252.44
+4,42,7,Masters,IT,Male,44642.26
+15,41,2,PhD,Marketing,Female,58549.35
+3,43,3,Masters,IT,Male,48590.39
+18,47,5,Bachelors,HR,Male,58357.25
+11,51,2,Bachelors,Finance,Female,46822.57
+3,40,7,PhD,Finance,Male,47777.86
+19,46,6,High School,HR,Male,57716.5
+15,23,5,Masters,Marketing,Female,61317.33
+7,58,4,Masters,HR,Female,44415.09
+9,50,7,High School,Marketing,Male,42944.34
+18,23,4,High School,Finance,Female,56684.54
+7,33,1,PhD,Finance,Male,58300.02
+3,48,6,High School,Marketing,Female,36024.84
+13,46,8,Masters,HR,Female,55921.7
+0,44,2,PhD,HR,Female,31791.87
+12,25,5,Bachelors,Marketing,Male,51440.7
+1,47,1,Bachelors,Marketing,Female,27186.89
+1,30,8,PhD,HR,Female,35957.85
+6,47,4,High School,IT,Male,40810.37
+1,46,7,High School,Finance,Female,30527.54
+17,37,1,Bachelors,Finance,Male,58129.11
+6,51,9,Bachelors,IT,Female,45683.91
+14,29,3,Masters,Finance,Male,58873.27
+1,46,1,Masters,IT,Female,39094.13
+15,56,2,Bachelors,Finance,Female,57515.5
+10,35,2,Masters,IT,Male,56612.94
+3,37,8,High School,Finance,Male,40845.45
+0,29,7,PhD,Finance,Female,50273.42
+1,26,3,Bachelors,IT,Female,38369.84
+1,58,9,Bachelors,Marketing,Male,31100.78
+3,29,7,Bachelors,Marketing,Female,39260.13
+4,32,6,High School,IT,Male,41772.59
+1,43,9,PhD,HR,Male,40174.32
+10,30,7,High School,IT,Male,48547.58
+9,40,5,Masters,HR,Male,48628.07
+13,46,2,PhD,HR,Male,61672.24
+7,37,7,High School,Finance,Male,40517.32
+5,50,5,Masters,Finance,Female,46505.73
+19,45,7,Bachelors,HR,Female,57992.22
+10,33,8,Bachelors,Marketing,Male,44997.87
+9,34,5,High School,HR,Female,39241.0
+0,52,7,Bachelors,HR,Male,31962.09
+14,35,1,Bachelors,HR,Male,49857.6
+2,30,9,PhD,IT,Male,48037.9
+11,30,3,Masters,Marketing,Female,52837.93
+4,34,4,High School,IT,Female,37095.82
+13,32,3,High School,Marketing,Male,47012.27
+0,51,5,PhD,Finance,Male,45976.43
+2,36,8,PhD,IT,Male,52038.65
+11,50,3,PhD,Marketing,Female,53787.64
+7,47,5,High School,HR,Female,29991.94
+4,44,3,Masters,Finance,Male,44785.8
+3,23,1,Bachelors,HR,Male,36554.78
+11,41,5,High School,Marketing,Female,44716.07
+7,23,2,Masters,Finance,Female,44238.0
+8,37,3,Bachelors,Finance,Male,42416.22
+3,38,6,High School,HR,Female,24887.58
+6,22,6,Bachelors,Finance,Male,46661.46
+9,22,6,PhD,Finance,Male,60288.55
+10,40,7,Bachelors,Finance,Male,46409.03
+10,55,7,Bachelors,HR,Male,49893.56
+9,33,3,PhD,Finance,Male,53153.34
+11,53,8,High School,IT,Male,53416.01
+16,29,4,PhD,Finance,Female,65930.63
+10,59,6,High School,Finance,Male,45514.56
+1,50,1,Masters,Marketing,Female,35594.96
+6,22,4,PhD,IT,Female,56026.29
+0,47,8,PhD,Finance,Male,36709.53
+16,49,8,High School,Marketing,Male,51083.13
+2,53,5,PhD,HR,Female,44082.58
+0,31,4,High School,Marketing,Female,20947.23
+10,24,1,PhD,Marketing,Male,58034.87
+12,22,6,PhD,IT,Male,61000.74
+11,31,4,High School,Marketing,Male,44561.03
+12,56,4,High School,IT,Male,47876.83
+10,24,9,Masters,Finance,Female,49927.6
+12,46,8,High School,HR,Female,38237.0
+3,49,4,PhD,Marketing,Female,44387.72
+4,51,4,Masters,HR,Male,39443.94
+6,38,2,Bachelors,Finance,Female,39031.86
+11,40,1,Masters,Marketing,Female,52278.69
+18,58,4,High School,HR,Male,53535.27
+18,33,2,High School,IT,Male,58094.96
+13,50,2,PhD,Marketing,Female,59546.82
+3,46,3,Masters,IT,Male,48012.34
+0,40,6,PhD,IT,Female,45161.66
+6,59,1,PhD,Marketing,Female,43781.7
+11,44,8,PhD,HR,Male,59870.2
+16,53,7,PhD,IT,Male,72768.84
+13,50,6,High School,Finance,Male,50017.82
+2,52,1,High School,IT,Male,34642.5
+8,46,4,Bachelors,Finance,Female,45799.81
+5,26,8,Masters,IT,Male,48585.07
+10,42,8,High School,IT,Male,45138.23
+16,35,4,Bachelors,Finance,Male,55817.11
+12,28,6,Masters,Marketing,Female,56219.82
+15,26,9,Masters,IT,Female,60940.28
+3,59,2,Bachelors,Finance,Female,34226.21
+9,30,1,PhD,HR,Female,53184.55
+8,26,5,PhD,Marketing,Male,56493.94
+7,54,1,Bachelors,Marketing,Male,36051.04
+9,36,3,PhD,Finance,Female,57937.89
+1,52,6,Masters,Marketing,Female,37691.3
+2,42,4,PhD,IT,Female,46523.27
+17,48,6,PhD,Finance,Male,67464.05
+6,38,4,Masters,Finance,Male,46901.81
+10,48,3,PhD,Marketing,Female,53404.7
+1,31,4,PhD,Marketing,Male,43749.41
+18,34,8,Masters,Finance,Male,65482.32
+13,38,9,Bachelors,HR,Male,48974.04
+15,29,3,PhD,Finance,Female,65526.71
+3,46,3,Masters,Finance,Female,40756.17
+8,41,1,High School,HR,Male,34774.25
+5,34,9,High School,IT,Female,42502.57
+17,43,6,Bachelors,IT,Female,55523.66
+17,36,5,High School,HR,Male,52236.99
+2,36,6,High School,IT,Female,36583.23
+0,32,8,Bachelors,Finance,Female,40943.38
+19,41,4,Masters,Marketing,Female,61051.48
+8,24,9,Masters,Finance,Female,51615.75
+2,40,5,High School,Finance,Female,31038.63
+6,36,7,PhD,Marketing,Female,46796.42
+0,37,6,High School,IT,Female,31922.56
+17,56,6,Masters,Finance,Female,62796.96
+17,56,9,PhD,HR,Male,67072.11
+19,48,6,Bachelors,Finance,Female,64677.83
+5,56,7,Masters,IT,Male,45815.07
+0,39,3,Masters,HR,Female,31612.34
+6,54,7,PhD,Marketing,Female,42752.54
+15,57,2,Masters,IT,Female,63735.21
+2,33,4,Bachelors,IT,Female,31901.99
+14,38,2,Masters,Finance,Male,62297.25
+16,43,2,PhD,Marketing,Female,63102.32
+7,24,8,Masters,Marketing,Female,44065.26
+16,37,6,Bachelors,Marketing,Female,55602.86
+7,22,6,Bachelors,HR,Male,40757.77
+10,52,1,Masters,IT,Male,55453.67
+1,27,7,PhD,Finance,Female,46517.87
+16,22,1,Bachelors,Marketing,Female,53357.45
+6,58,1,PhD,Marketing,Female,51276.24
+13,49,5,Bachelors,Marketing,Female,49461.82
+15,58,6,PhD,Marketing,Male,64659.23
+8,42,6,High School,IT,Female,40834.8
+5,51,9,High School,HR,Male,36212.8
+4,42,4,PhD,Marketing,Female,48808.58
+5,32,7,Masters,HR,Male,47727.67
+3,37,7,Masters,IT,Male,44703.81
+5,22,3,Bachelors,HR,Male,42158.53
+14,29,4,PhD,Marketing,Male,64169.88
+17,24,8,Bachelors,HR,Male,57304.19
+7,31,3,PhD,Marketing,Female,52513.22
+17,22,1,PhD,HR,Male,69415.59
+18,53,7,Bachelors,Marketing,Male,58897.91
+1,38,6,Bachelors,Marketing,Male,31181.96
+1,36,6,PhD,Marketing,Female,47848.72
+2,46,9,Masters,Marketing,Female,43936.09
+11,47,8,Bachelors,Marketing,Female,49154.15
+18,23,2,PhD,Marketing,Male,66944.29
+7,35,7,PhD,HR,Male,51537.96
+1,22,6,High School,IT,Female,32565.88
+3,48,3,PhD,Marketing,Male,44036.6
+18,49,4,PhD,Marketing,Male,69078.6
+2,35,9,High School,Finance,Male,30846.1
+19,22,2,High School,HR,Male,51087.72
+9,33,4,High School,HR,Female,33689.71
+9,22,2,Masters,Finance,Male,50982.96
+0,30,5,PhD,HR,Male,42075.44
+9,50,6,Bachelors,IT,Male,54810.26
+2,46,9,PhD,Finance,Male,49028.68
+1,54,3,High School,Finance,Female,23406.42
+0,55,4,High School,IT,Female,35382.6
+3,36,1,PhD,Finance,Male,42971.93
+16,47,4,High School,Marketing,Female,44106.08
+2,56,2,High School,HR,Male,33036.74
+11,35,7,Masters,Marketing,Male,50337.1
+7,43,1,PhD,IT,Male,53453.86
+5,35,7,Bachelors,Finance,Male,40718.14
+4,46,6,PhD,Marketing,Male,40235.44
+16,39,5,Bachelors,Finance,Male,55450.94
+5,41,9,Bachelors,IT,Male,41994.12
+2,30,2,PhD,IT,Male,44273.61
+16,34,6,High School,HR,Female,47568.53
+1,43,5,Masters,HR,Male,36372.34
+4,55,1,High School,HR,Female,28800.9
+14,54,5,Bachelors,Finance,Male,55624.02
+11,53,6,Masters,IT,Female,55146.58
+16,23,2,High School,Marketing,Male,53243.29
+1,35,3,PhD,Marketing,Male,43322.71
+3,28,7,PhD,Finance,Female,51984.16
+2,30,1,Bachelors,Finance,Female,36430.06
+14,57,1,High School,HR,Male,45093.07
+1,56,7,PhD,Finance,Female,40384.31
+7,55,1,Masters,HR,Male,44303.91
+11,33,5,High School,IT,Female,35785.42
+1,28,6,Bachelors,Finance,Female,32649.34
+6,55,3,Masters,Marketing,Male,46753.18
+13,32,8,High School,IT,Male,53481.37
+0,31,4,Bachelors,Marketing,Female,27759.46
+6,29,2,Masters,IT,Female,47225.2
+8,58,3,PhD,HR,Female,48237.56
+9,45,6,High School,Finance,Female,43145.51
+9,48,3,Bachelors,HR,Female,47762.66
+16,41,8,PhD,IT,Female,68049.89
+16,49,3,Bachelors,IT,Male,57580.65
+7,36,1,PhD,HR,Male,49416.48
+16,57,9,High School,Marketing,Female,51029.04
+2,33,8,Bachelors,HR,Male,35656.02
+0,33,3,Masters,Finance,Female,38032.82
+13,42,5,Bachelors,Finance,Male,60089.91
+11,27,4,Bachelors,Finance,Female,47533.24
+3,53,4,PhD,IT,Female,46718.12
+13,51,6,Masters,HR,Male,55939.93
+12,58,2,Bachelors,Marketing,Female,43652.22
+9,41,2,PhD,Finance,Female,55967.47
+17,32,5,Masters,Finance,Male,60690.35
+13,39,2,High School,Marketing,Male,45877.02
+10,26,2,High School,Finance,Male,42100.13
+13,57,2,PhD,IT,Female,67859.01
+5,37,6,Bachelors,Finance,Male,37646.93
+9,44,3,PhD,Marketing,Male,59669.12
+11,45,7,Bachelors,Marketing,Female,44535.93
+11,57,1,PhD,IT,Male,59050.55
+13,28,4,PhD,IT,Female,69092.95
+11,27,2,Masters,HR,Female,54665.73
+1,27,3,Masters,IT,Male,40946.31
+2,45,4,PhD,Finance,Male,45414.44
+6,43,3,Bachelors,HR,Male,34857.35
+9,59,7,PhD,Marketing,Male,61736.17
+2,54,5,PhD,Finance,Female,43277.87
+11,36,8,Masters,IT,Male,58149.79
+1,23,2,Masters,Marketing,Male,38904.92
+16,31,8,Masters,HR,Female,57777.01
+13,53,7,Bachelors,Marketing,Male,49410.66
+7,44,3,PhD,Marketing,Female,50796.21
+2,23,8,Masters,HR,Female,34865.43
+7,38,2,High School,Finance,Male,34152.45
+11,24,3,Bachelors,Marketing,Female,52453.09
+10,46,6,PhD,IT,Male,60219.24
+3,22,1,Bachelors,Marketing,Female,31942.03
+14,58,5,PhD,HR,Female,62564.03
+6,34,2,Masters,Marketing,Female,41645.64
+6,43,4,High School,HR,Male,35912.54
+18,23,3,Bachelors,Finance,Male,61904.89
+4,40,4,Bachelors,Marketing,Male,34935.02
+4,56,9,Masters,Finance,Male,49737.11
+9,56,7,Bachelors,IT,Female,50136.45
+18,31,2,Masters,IT,Female,70986.41
+19,26,3,High School,Finance,Female,57737.83
+13,23,3,PhD,HR,Male,57402.05
+4,54,8,High School,Marketing,Female,37893.13
+6,45,1,High School,IT,Female,37108.82
+2,23,2,High School,Marketing,Male,35916.53
+12,48,1,PhD,Marketing,Female,59213.67
+7,46,3,Bachelors,Marketing,Male,41596.61
+6,30,3,Masters,Marketing,Male,46642.88
+15,32,6,High School,Marketing,Male,56238.51
+16,26,3,PhD,IT,Female,66039.67
+8,31,6,PhD,Marketing,Female,52853.55
+7,30,7,High School,HR,Male,36811.4
+18,56,7,PhD,Finance,Female,69840.29
+0,35,1,PhD,Marketing,Male,42935.81
+1,29,3,Bachelors,Marketing,Male,37198.48
+16,27,8,Masters,HR,Female,57330.01
+11,26,7,Bachelors,Marketing,Female,45082.18
+1,24,3,Bachelors,HR,Female,25049.44
+2,39,6,Masters,Finance,Male,39720.18
+3,40,2,PhD,Finance,Female,44519.89
+3,34,5,PhD,Marketing,Female,41288.61
+12,30,4,High School,HR,Male,47622.32
+1,48,2,Masters,IT,Male,43224.71
+7,54,9,High School,HR,Male,41065.1
+2,28,8,Masters,IT,Female,42745.33
+14,27,4,Masters,IT,Male,61414.76
+19,44,5,High School,IT,Male,62772.7
+19,36,1,PhD,IT,Female,73073.16
+11,39,5,Bachelors,Finance,Male,48534.58
+6,48,4,PhD,HR,Male,49012.98
+7,42,3,High School,IT,Male,37495.83
+10,46,5,High School,Finance,Female,40196.9
+1,33,8,High School,IT,Female,33445.06
+15,45,5,Masters,Marketing,Male,55229.72
+12,47,7,PhD,HR,Female,60550.84
+11,45,5,High School,Marketing,Female,36322.74
+4,22,1,Bachelors,Marketing,Female,40573.01
+5,25,7,Masters,HR,Female,42629.65
+0,41,1,Masters,Finance,Male,34380.77
+17,39,8,Masters,Marketing,Male,62760.55
+3,57,3,PhD,IT,Female,42984.56
+19,32,7,Bachelors,HR,Male,58795.98
+0,30,4,Masters,IT,Female,39266.83
+0,40,5,PhD,Finance,Male,40535.6
+1,48,8,Masters,HR,Male,36306.87
+10,50,4,Bachelors,Finance,Male,48712.92
+18,55,7,High School,Finance,Female,55013.11
+0,31,6,Masters,Finance,Male,41148.46
+12,38,1,High School,IT,Male,50346.1
+3,38,3,High School,IT,Female,30528.99
+1,47,7,Bachelors,Finance,Female,36732.92
+15,47,5,Bachelors,HR,Male,58228.08
+6,28,2,Masters,Marketing,Female,41675.58
+16,23,3,High School,Marketing,Female,53065.28
+15,57,5,Bachelors,IT,Male,56427.69
+1,40,7,Bachelors,Marketing,Female,32076.09
+4,38,1,Masters,HR,Female,39228.17
+11,42,9,High School,Finance,Male,48626.19
+16,45,3,Masters,HR,Male,61696.8
+18,30,5,PhD,HR,Male,67089.51
+3,45,7,High School,Marketing,Female,27362.44
+14,57,9,PhD,HR,Male,59586.06
+10,22,5,Bachelors,Marketing,Male,49000.32
+8,45,2,Masters,HR,Male,44563.93
+4,55,4,PhD,Marketing,Male,48618.09
+16,54,3,High School,HR,Female,42195.1
+18,36,3,Masters,Marketing,Male,63208.97
+7,39,3,Bachelors,HR,Male,39493.34
+8,30,3,Bachelors,Marketing,Male,43663.9
+8,51,6,High School,Marketing,Female,39029.92
+13,46,3,Masters,Finance,Female,54147.5
+2,29,2,PhD,Marketing,Female,42375.4
+9,25,5,Masters,HR,Male,44391.39
+15,52,2,High School,HR,Male,45876.74
+7,53,9,PhD,HR,Male,51125.11
+16,49,5,Masters,HR,Male,62377.04
+13,28,1,High School,Marketing,Male,47885.6
+12,36,5,Bachelors,Finance,Female,50376.44
+16,42,1,Bachelors,Marketing,Female,53143.91
+3,59,3,PhD,IT,Male,52791.92
+12,48,8,Bachelors,Finance,Male,55533.23
+7,25,5,Bachelors,Finance,Male,49173.26
+18,42,8,High School,HR,Male,52087.41
+16,22,6,PhD,IT,Female,67074.93
+2,31,5,PhD,HR,Female,48321.51
+11,42,3,PhD,IT,Female,58892.86
+5,33,3,Bachelors,Finance,Female,40723.12
+2,42,7,Masters,HR,Female,36266.63
+5,33,9,Masters,HR,Male,43404.65
+0,25,2,High School,HR,Female,22968.41
+8,42,2,PhD,HR,Male,52808.18
+12,58,7,PhD,HR,Male,58699.42
+19,25,8,PhD,HR,Female,65105.46
+15,48,8,Masters,HR,Male,58356.3
+7,40,3,Bachelors,Marketing,Female,36931.24
+5,41,3,Masters,IT,Female,51190.6
+14,47,5,PhD,Marketing,Male,64697.2
+18,42,7,Masters,Marketing,Male,66103.01
+2,49,2,Bachelors,Finance,Male,40321.24
+10,38,1,High School,HR,Female,36698.84
+12,35,1,PhD,Marketing,Female,59171.83
+4,33,6,Bachelors,Finance,Female,36154.74
+16,56,2,Bachelors,Marketing,Female,53153.92
+8,25,9,High School,IT,Male,44100.46
+11,42,2,Bachelors,HR,Male,45923.8
+11,29,3,Bachelors,IT,Female,50511.23
+7,28,7,PhD,Finance,Male,58712.83
+12,26,4,Masters,IT,Female,58127.54
+15,51,9,PhD,IT,Female,65062.68
+7,51,2,High School,HR,Female,28175.01
+2,57,7,Bachelors,Marketing,Male,34104.42
+18,22,1,Bachelors,Finance,Female,52277.08
+0,43,3,PhD,HR,Female,33889.12
+2,22,3,Bachelors,IT,Female,39672.77
+1,43,4,Bachelors,Finance,Female,31417.74
+15,41,1,High School,IT,Female,54267.53
+4,46,7,PhD,Marketing,Male,47795.26
+16,55,1,Bachelors,Marketing,Female,54670.74
+14,36,3,PhD,Finance,Female,56389.41
+11,34,4,High School,Marketing,Male,46950.33
+0,23,1,Masters,IT,Male,38099.66
+8,42,6,Masters,HR,Female,47912.33
+15,29,9,Bachelors,Finance,Male,59759.04
+7,33,4,High School,IT,Female,40346.96
+4,36,3,PhD,Finance,Female,47276.0
+19,41,9,Bachelors,IT,Male,63669.24
+10,57,6,PhD,HR,Female,53384.36
+8,44,2,PhD,HR,Female,44750.84
+1,39,2,Masters,Finance,Male,42602.9
+6,43,9,Bachelors,Finance,Female,43888.73
+14,29,6,Masters,Finance,Female,57350.67
+17,36,2,High School,Marketing,Male,51801.61
+12,36,8,Masters,HR,Female,47346.3
+16,28,9,High School,Finance,Male,54659.35
+4,52,7,Bachelors,IT,Female,40988.0
+15,59,3,Bachelors,Marketing,Male,49930.4
+5,29,5,High School,IT,Female,36341.98
+15,36,4,Masters,Marketing,Male,53630.18
+19,45,6,Masters,IT,Female,66714.22
+14,58,1,Masters,IT,Male,61653.16
+7,35,3,High School,Marketing,Male,34296.33
+17,37,4,PhD,Marketing,Female,71943.46
+16,49,4,Bachelors,IT,Male,51468.1
+16,28,8,Masters,Finance,Female,62254.26
+17,31,5,Bachelors,HR,Male,57803.69
+14,29,4,Masters,Finance,Male,59100.96
+16,22,8,High School,HR,Male,54755.27
+8,42,4,Bachelors,IT,Female,44624.84
+17,28,3,Bachelors,IT,Male,63248.33
+3,54,8,Masters,Marketing,Female,39511.22
+6,53,1,High School,Finance,Male,40282.94
+17,39,1,Bachelors,Finance,Male,57248.26
+16,42,4,Masters,Marketing,Male,60675.03
+16,56,9,Masters,Marketing,Female,62160.87
+11,58,6,PhD,HR,Male,61067.55
+17,43,1,High School,IT,Female,55161.36
+7,46,1,High School,Marketing,Male,35742.4
+0,41,1,PhD,IT,Male,43659.25
+10,41,4,PhD,HR,Male,55660.41
+13,24,1,Bachelors,Finance,Male,55099.66
+2,23,9,PhD,IT,Female,52225.66
+19,30,4,High School,HR,Male,55001.45
+2,32,5,Masters,Marketing,Male,44363.32
+18,46,8,High School,HR,Male,51994.3
+5,42,3,Masters,Finance,Female,41609.2
+4,27,4,High School,HR,Male,31495.86
+19,52,5,Bachelors,HR,Male,53924.85
+10,56,8,PhD,Marketing,Female,55762.13
+2,58,8,PhD,HR,Female,44877.38
+6,50,1,High School,IT,Male,41273.25
+5,51,9,PhD,IT,Female,49527.37
+12,36,5,Masters,Marketing,Female,55408.9
+2,58,3,High School,HR,Male,25388.54
+16,45,7,High School,IT,Male,55330.87
+19,39,9,High School,Finance,Male,62624.9
+6,44,5,PhD,Marketing,Female,51285.86
+0,26,1,Masters,IT,Female,34971.21
+15,23,5,Masters,Finance,Female,64652.27
+4,30,3,Bachelors,HR,Male,34820.42
+5,22,3,PhD,Finance,Female,45311.99
+15,38,7,High School,IT,Male,52759.39
+0,54,7,PhD,IT,Female,40779.13
+13,59,5,Bachelors,Marketing,Female,51513.18
+8,23,2,Bachelors,Finance,Female,46498.14
+16,40,4,Masters,Finance,Male,68498.7
+16,43,2,Bachelors,Finance,Male,59335.56
+2,34,8,Bachelors,IT,Male,36379.15
+1,31,3,PhD,HR,Male,39761.22
+16,23,6,Masters,Finance,Female,63421.89
+17,23,5,High School,Marketing,Female,54538.03
+18,47,4,Bachelors,IT,Male,55882.26
+11,58,8,PhD,IT,Female,60198.64
+0,39,2,PhD,Marketing,Female,40075.4
+4,56,6,Bachelors,IT,Female,41497.77
+10,58,4,Bachelors,HR,Male,49837.44
+19,59,5,PhD,IT,Female,76147.45
+9,36,9,Bachelors,IT,Female,47325.87
+15,43,7,Masters,Finance,Male,62482.86
+18,36,6,Masters,Marketing,Male,64466.32
+1,59,7,Bachelors,HR,Male,29138.72
+8,28,7,Bachelors,Finance,Male,42381.93
+19,26,6,Bachelors,Marketing,Male,62519.1
+9,49,6,High School,Finance,Male,47417.68
+4,55,7,High School,HR,Male,33231.13
+11,37,8,Masters,IT,Male,56976.5
+12,57,5,Bachelors,Marketing,Male,50773.92
+19,39,8,Bachelors,Marketing,Male,64566.02
+1,55,2,PhD,HR,Female,37078.36
+16,40,7,Bachelors,HR,Female,50208.2
+3,49,9,High School,Marketing,Female,30258.83
+5,42,6,Masters,Finance,Female,39913.93
+12,29,8,Masters,Finance,Male,57327.19
+18,24,1,Masters,Marketing,Male,60941.88
+12,45,9,Bachelors,Finance,Female,54096.57
+10,55,2,Bachelors,HR,Female,40848.8
+15,50,1,High School,Marketing,Male,47050.52
+0,23,8,High School,Marketing,Female,22648.49
+3,41,9,PhD,Marketing,Male,48359.72
+14,48,9,Bachelors,IT,Male,55737.83
+11,23,6,Bachelors,Marketing,Male,46311.7
+1,41,5,PhD,Marketing,Female,40011.49
+12,25,2,Masters,HR,Male,57024.24
+11,36,5,Masters,Marketing,Male,51764.6
+18,46,4,PhD,Finance,Male,71610.97
+15,42,3,PhD,HR,Female,59746.16
+15,24,8,PhD,IT,Female,61270.34
+11,56,4,PhD,Finance,Male,60388.98
+7,35,9,Masters,Marketing,Female,49847.35
+9,58,5,Bachelors,HR,Male,44756.85
+10,38,9,Bachelors,HR,Female,42718.06
+17,40,9,PhD,HR,Female,69563.73
+5,58,5,Masters,Finance,Male,46313.15
+9,37,9,PhD,Marketing,Male,58161.8
+19,36,3,Bachelors,IT,Female,63967.66
+13,27,2,PhD,IT,Female,60867.38
+5,27,3,High School,IT,Female,29671.03
+5,23,7,High School,HR,Female,34306.95
+15,55,8,Bachelors,HR,Female,50220.87
+3,28,2,PhD,Finance,Female,45628.97
+3,59,9,Bachelors,Finance,Female,37326.23
+19,28,3,PhD,Marketing,Female,75725.77
+13,35,2,PhD,HR,Male,58317.81
+14,28,1,Bachelors,HR,Female,49198.01
+2,52,9,High School,IT,Female,35242.66
+6,32,3,High School,Marketing,Male,34387.48
